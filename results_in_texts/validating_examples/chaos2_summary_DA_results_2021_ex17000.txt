@@ -1,0 +1,111 @@
+
+ Summary results of example 1, case 7000 with rho_0
+ Objective value = 0.0103491319
+ Work_plus_compliance = 0.0099513010
+ Work = 0.0047472594 
+
+ Compliance = 0.0052040416
+ Perimeter_penalization = 0.0003978309
+ Vol_alpha = 0.0650505204
+ Vol_ratio_percentage = 21.6835067997
+ Alpha_norm2 = 0.2412663465
+ Summary results of example 1, case 7000 with rho_0
+ Objective value = 0.0103491319
+ Work_plus_compliance = 0.0099513010
+ Work = 0.0047472594 
+
+ Compliance = 0.0052040416
+ Perimeter_penalization = 0.0003978309
+ Vol_alpha = 0.0650505204
+ Vol_ratio_percentage = 21.6835067997
+ Alpha_norm2 = 0.2412663465
+ Summary results of example 1, case 7000 with rho_0
+ Objective value = 0.0103491319
+ Work_plus_compliance = 0.0099513010
+ Work = 0.0047472594 
+
+ Compliance = 0.0052040416
+ Perimeter_penalization = 0.0003978309
+ Vol_alpha = 0.0650505204
+ Vol_ratio_percentage = 21.6835067997
+ Alpha_norm2 = 0.2412663465
+ Summary results of example 1, case 7000 with rho_1
+ Objective value = 0.0103489827
+ Work_plus_compliance = 0.0099494295
+ Work = 0.0047537854 
+
+ Compliance = 0.0051956440
+ Perimeter_penalization = 0.0003995533
+ Vol_alpha = 0.0649455503
+ Vol_ratio_percentage = 21.6485167657
+ Alpha_norm2 = 0.2410996403
+ Summary results of example 1, case 7000 with rho_1
+ Objective value = 0.0103489827
+ Work_plus_compliance = 0.0099494295
+ Work = 0.0047537854 
+
+ Compliance = 0.0051956440
+ Perimeter_penalization = 0.0003995533
+ Vol_alpha = 0.0649455503
+ Vol_ratio_percentage = 21.6485167657
+ Alpha_norm2 = 0.2410996403
+ Summary results of example 1, case 7000 with rho_1
+ Objective value = 0.0103489827
+ Work_plus_compliance = 0.0099494295
+ Work = 0.0047537854 
+
+ Compliance = 0.0051956440
+ Perimeter_penalization = 0.0003995533
+ Vol_alpha = 0.0649455503
+ Vol_ratio_percentage = 21.6485167657
+ Alpha_norm2 = 0.2410996403
+ Summary results of example 1, case 7000 with rho_2
+ Objective value = 0.0103489870
+ Work_plus_compliance = 0.0099494934
+ Work = 0.0047536637 
+
+ Compliance = 0.0051958298
+ Perimeter_penalization = 0.0003994936
+ Vol_alpha = 0.0649478720
+ Vol_ratio_percentage = 21.6492906775
+ Alpha_norm2 = 0.2411028604
+ Summary results of example 1, case 7000 with rho_2
+ Objective value = 0.0103489870
+ Work_plus_compliance = 0.0099494934
+ Work = 0.0047536637 
+
+ Compliance = 0.0051958298
+ Perimeter_penalization = 0.0003994936
+ Vol_alpha = 0.0649478720
+ Vol_ratio_percentage = 21.6492906775
+ Alpha_norm2 = 0.2411028604
+ Summary results of example 1, case 7000 with rho_3
+ Objective value = 0.0103489330
+ Work_plus_compliance = 0.0099491165
+ Work = 0.0047546102 
+
+ Compliance = 0.0051945064
+ Perimeter_penalization = 0.0003998165
+ Vol_alpha = 0.0649313294
+ Vol_ratio_percentage = 21.6437764624
+ Alpha_norm2 = 0.2410790954
+ Summary results of example 1, case 7000 with rho_3
+ Objective value = 0.0103489330
+ Work_plus_compliance = 0.0099491165
+ Work = 0.0047546102 
+
+ Compliance = 0.0051945064
+ Perimeter_penalization = 0.0003998165
+ Vol_alpha = 0.0649313294
+ Vol_ratio_percentage = 21.6437764624
+ Alpha_norm2 = 0.2410790954
+ Summary results of example 1, case 7000 with rho_3
+ Objective value = 0.0103489330
+ Work_plus_compliance = 0.0099491165
+ Work = 0.0047546102 
+
+ Compliance = 0.0051945064
+ Perimeter_penalization = 0.0003998165
+ Vol_alpha = 0.0649313294
+ Vol_ratio_percentage = 21.6437764624
+ Alpha_norm2 = 0.2410790954
