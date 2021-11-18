@@ -1,0 +1,1272 @@
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0293467,  Residual: 0.000450042 
+  1 TAO,  Function value: 0.0290038,  Residual: 0.000316611 
+  2 TAO,  Function value: 0.0283116,  Residual: 0.000201417 
+  3 TAO,  Function value: 0.0273954,  Residual: 0.000136517 
+  4 TAO,  Function value: 0.0259513,  Residual: 0.000107114 
+  5 TAO,  Function value: 0.0245863,  Residual: 0.000329009 
+  6 TAO,  Function value: 0.0238491,  Residual: 9.45775e-05 
+  7 TAO,  Function value: 0.0236321,  Residual: 9.7467e-05 
+  8 TAO,  Function value: 0.023176,  Residual: 0.000207667 
+  9 TAO,  Function value: 0.0228741,  Residual: 8.12294e-05 
+ 10 TAO,  Function value: 0.0226987,  Residual: 7.48493e-05 
+ 11 TAO,  Function value: 0.0224996,  Residual: 9.9606e-05 
+ 12 TAO,  Function value: 0.0222588,  Residual: 5.72091e-05 
+ 13 TAO,  Function value: 0.0221284,  Residual: 6.34261e-05 
+ 14 TAO,  Function value: 0.0219482,  Residual: 5.79174e-05 
+ 15 TAO,  Function value: 0.0217912,  Residual: 5.51726e-05 
+ 16 TAO,  Function value: 0.021651,  Residual: 5.38077e-05 
+ 17 TAO,  Function value: 0.0215256,  Residual: 4.92055e-05 
+ 18 TAO,  Function value: 0.0214427,  Residual: 4.24041e-05 
+ 19 TAO,  Function value: 0.0213543,  Residual: 4.18365e-05 
+ 20 TAO,  Function value: 0.0212251,  Residual: 3.89161e-05 
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6042.000000; num_vertices = 3152.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6033.000000; num_vertices = 3133.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6003.000000; num_vertices = 3121.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5896.000000; num_vertices = 3086.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6176.000000; num_vertices = 3210.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6347.000000; num_vertices = 3316.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6191.000000; num_vertices = 3216.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6221.000000; num_vertices = 3252.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 5
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 4
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 2
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 3
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 6
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 1
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 7
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0293467,  Residual: 0.000450042 
+  1 TAO,  Function value: 0.0290038,  Residual: 0.000316611 
+  2 TAO,  Function value: 0.0283116,  Residual: 0.000201417 
+  3 TAO,  Function value: 0.0273954,  Residual: 0.000136517 
+  4 TAO,  Function value: 0.0259513,  Residual: 0.000107114 
+  5 TAO,  Function value: 0.0245863,  Residual: 0.000329009 
+  6 TAO,  Function value: 0.0238491,  Residual: 9.45775e-05 
+  7 TAO,  Function value: 0.0236321,  Residual: 9.7467e-05 
+  8 TAO,  Function value: 0.023176,  Residual: 0.000207667 
+  9 TAO,  Function value: 0.0228741,  Residual: 8.12294e-05 
+ 10 TAO,  Function value: 0.0226987,  Residual: 7.48493e-05 
+ 11 TAO,  Function value: 0.0224996,  Residual: 9.9606e-05 
+ 12 TAO,  Function value: 0.0222588,  Residual: 5.72091e-05 
+ 13 TAO,  Function value: 0.0221284,  Residual: 6.34261e-05 
+ 14 TAO,  Function value: 0.0219482,  Residual: 5.79174e-05 
+ 15 TAO,  Function value: 0.0217912,  Residual: 5.51726e-05 
+ 16 TAO,  Function value: 0.021651,  Residual: 5.38077e-05 
+ 17 TAO,  Function value: 0.0215256,  Residual: 4.92055e-05 
+ 18 TAO,  Function value: 0.0214427,  Residual: 4.24041e-05 
+ 19 TAO,  Function value: 0.0213543,  Residual: 4.18365e-05 
+ 20 TAO,  Function value: 0.0212251,  Residual: 3.89161e-05 
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6005.000000; num_vertices = 3130.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6388.000000; num_vertices = 3318.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6155.000000; num_vertices = 3206.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5999.000000; num_vertices = 3121.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6130.000000; num_vertices = 3188.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6169.000000; num_vertices = 3219.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6013.000000; num_vertices = 3127.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6113.000000; num_vertices = 3170.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 2
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 6
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 7
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 5
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 4
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 3
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 1
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0293467,  Residual: 0.000450042 
+  1 TAO,  Function value: 0.0290038,  Residual: 0.000316611 
+  2 TAO,  Function value: 0.0283116,  Residual: 0.000201417 
+  3 TAO,  Function value: 0.0273954,  Residual: 0.000136517 
+  4 TAO,  Function value: 0.0259513,  Residual: 0.000107114 
+  5 TAO,  Function value: 0.0245863,  Residual: 0.000329009 
+  6 TAO,  Function value: 0.0238491,  Residual: 9.45775e-05 
+  7 TAO,  Function value: 0.0236321,  Residual: 9.7467e-05 
+  8 TAO,  Function value: 0.023176,  Residual: 0.000207667 
+  9 TAO,  Function value: 0.0228741,  Residual: 8.12294e-05 
+ 10 TAO,  Function value: 0.0226987,  Residual: 7.48493e-05 
+ 11 TAO,  Function value: 0.0224996,  Residual: 9.9606e-05 
+ 12 TAO,  Function value: 0.0222588,  Residual: 5.72091e-05 
+ 13 TAO,  Function value: 0.0221284,  Residual: 6.34261e-05 
+ 14 TAO,  Function value: 0.0219482,  Residual: 5.79174e-05 
+ 15 TAO,  Function value: 0.0217912,  Residual: 5.51726e-05 
+ 16 TAO,  Function value: 0.021651,  Residual: 5.38077e-05 
+ 17 TAO,  Function value: 0.0215256,  Residual: 4.92055e-05 
+ 18 TAO,  Function value: 0.0214427,  Residual: 4.24041e-05 
+ 19 TAO,  Function value: 0.0213543,  Residual: 4.18365e-05 
+ 20 TAO,  Function value: 0.0212251,  Residual: 3.89161e-05 
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5996.000000; num_vertices = 3135.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6142.000000; num_vertices = 3206.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6182.000000; num_vertices = 3231.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5968.000000; num_vertices = 3104.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6271.000000; num_vertices = 3270.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5850.000000; num_vertices = 3044.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6298.000000; num_vertices = 3274.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6205.000000; num_vertices = 3225.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 6
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 4
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 1
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 5
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 2
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 7
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 3
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0293467,  Residual: 0.000450042 
+  1 TAO,  Function value: 0.0290038,  Residual: 0.000316611 
+  2 TAO,  Function value: 0.0283116,  Residual: 0.000201417 
+  3 TAO,  Function value: 0.0273954,  Residual: 0.000136517 
+  4 TAO,  Function value: 0.0259513,  Residual: 0.000107114 
+  5 TAO,  Function value: 0.0245863,  Residual: 0.000329009 
+  6 TAO,  Function value: 0.0238491,  Residual: 9.45775e-05 
+  7 TAO,  Function value: 0.0236321,  Residual: 9.7467e-05 
+  8 TAO,  Function value: 0.023176,  Residual: 0.000207667 
+  9 TAO,  Function value: 0.0228741,  Residual: 8.12294e-05 
+ 10 TAO,  Function value: 0.0226987,  Residual: 7.48493e-05 
+ 11 TAO,  Function value: 0.0224996,  Residual: 9.9606e-05 
+ 12 TAO,  Function value: 0.0222588,  Residual: 5.72091e-05 
+ 13 TAO,  Function value: 0.0221284,  Residual: 6.34261e-05 
+ 14 TAO,  Function value: 0.0219482,  Residual: 5.79174e-05 
+ 15 TAO,  Function value: 0.0217912,  Residual: 5.51726e-05 
+ 16 TAO,  Function value: 0.021651,  Residual: 5.38077e-05 
+ 17 TAO,  Function value: 0.0215256,  Residual: 4.92055e-05 
+ 18 TAO,  Function value: 0.0214427,  Residual: 4.24041e-05 
+ 19 TAO,  Function value: 0.0213543,  Residual: 4.18365e-05 
+ 20 TAO,  Function value: 0.0212251,  Residual: 3.89161e-05 
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6262.000000; num_vertices = 3270.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6242.000000; num_vertices = 3234.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6023.000000; num_vertices = 3145.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6043.000000; num_vertices = 3136.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5868.000000; num_vertices = 3071.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 5929.000000; num_vertices = 3087.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6431.000000; num_vertices = 3353.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.005000; hmin = 0.005000; num_cells = 6151.000000; num_vertices = 3194.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 7
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 1
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 2
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 6
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 3
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 4
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+  File "AS_phase_field_opt.py", line 311, in f
+    self.solve_pde()
+  File "AS_phase_field_opt.py", line 469, in solve_pde
+    self.solver_pde.solve()
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear system with PETScSNESSolver.
+*** Reason:  Solver did not converge.
+*** Where:   This error was encountered inside PETScSNESSolver.cpp.
+*** Process: 5
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
