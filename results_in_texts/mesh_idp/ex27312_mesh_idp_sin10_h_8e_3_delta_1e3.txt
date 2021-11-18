@@ -1,0 +1,3030 @@
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0294379,  Residual: 0.000629213 
+  1 TAO,  Function value: 0.0292543,  Residual: 0.000540209 
+  2 TAO,  Function value: 0.028264,  Residual: 0.000277333 
+  3 TAO,  Function value: 0.0274668,  Residual: 0.000208481 
+  4 TAO,  Function value: 0.0257253,  Residual: 0.000164498 
+  5 TAO,  Function value: 0.0247247,  Residual: 0.000505923 
+  6 TAO,  Function value: 0.0237951,  Residual: 0.000133828 
+  7 TAO,  Function value: 0.0234206,  Residual: 0.000138832 
+  8 TAO,  Function value: 0.0230196,  Residual: 0.000239403 
+  9 TAO,  Function value: 0.0228246,  Residual: 0.000108337 
+ 10 TAO,  Function value: 0.0227235,  Residual: 9.64914e-05 
+ 11 TAO,  Function value: 0.022474,  Residual: 0.000107259 
+ 12 TAO,  Function value: 0.0222609,  Residual: 8.70915e-05 
+ 13 TAO,  Function value: 0.0221061,  Residual: 0.00010056 
+ 14 TAO,  Function value: 0.021982,  Residual: 0.000103981 
+ 15 TAO,  Function value: 0.0218671,  Residual: 8.11609e-05 
+ 16 TAO,  Function value: 0.0218167,  Residual: 8.76321e-05 
+ 17 TAO,  Function value: 0.0217438,  Residual: 7.92382e-05 
+ 18 TAO,  Function value: 0.0216411,  Residual: 7.26497e-05 
+ 19 TAO,  Function value: 0.0214784,  Residual: 6.93005e-05 
+ 20 TAO,  Function value: 0.0213139,  Residual: 5.6196e-05 
+ 21 TAO,  Function value: 0.0212131,  Residual: 4.8335e-05 
+ 22 TAO,  Function value: 0.0211649,  Residual: 4.24394e-05 
+ 23 TAO,  Function value: 0.0211199,  Residual: 3.94439e-05 
+ 24 TAO,  Function value: 0.021053,  Residual: 3.87861e-05 
+ 25 TAO,  Function value: 0.0210108,  Residual: 3.65322e-05 
+ 26 TAO,  Function value: 0.0209698,  Residual: 2.88461e-05 
+ 27 TAO,  Function value: 0.020937,  Residual: 2.18059e-05 
+ 28 TAO,  Function value: 0.020903,  Residual: 2.18163e-05 
+ 29 TAO,  Function value: 0.0208774,  Residual: 1.94922e-05 
+ 30 TAO,  Function value: 0.0208662,  Residual: 1.94537e-05 
+ 31 TAO,  Function value: 0.0208495,  Residual: 1.55202e-05 
+ 32 TAO,  Function value: 0.0208368,  Residual: 1.41238e-05 
+ 33 TAO,  Function value: 0.0208301,  Residual: 1.63839e-05 
+ 34 TAO,  Function value: 0.0208212,  Residual: 1.39333e-05 
+ 35 TAO,  Function value: 0.0208144,  Residual: 1.10668e-05 
+ 36 TAO,  Function value: 0.0208054,  Residual: 1.12029e-05 
+ 37 TAO,  Function value: 0.0207976,  Residual: 1.10646e-05 
+ 38 TAO,  Function value: 0.0207929,  Residual: 1.19302e-05 
+ 39 TAO,  Function value: 0.0207841,  Residual: 1.14651e-05 
+ 40 TAO,  Function value: 0.0207778,  Residual: 1.49061e-05 
+ 41 TAO,  Function value: 0.0207728,  Residual: 1.33498e-05 
+ 42 TAO,  Function value: 0.0207661,  Residual: 1.09872e-05 
+ 43 TAO,  Function value: 0.0207599,  Residual: 1.14715e-05 
+ 44 TAO,  Function value: 0.0207559,  Residual: 1.08459e-05 
+ 45 TAO,  Function value: 0.0207516,  Residual: 9.48872e-06 
+ 46 TAO,  Function value: 0.0207443,  Residual: 8.07723e-06 
+ 47 TAO,  Function value: 0.0207389,  Residual: 8.70919e-06 
+ 48 TAO,  Function value: 0.0207369,  Residual: 9.02895e-06 
+ 49 TAO,  Function value: 0.0207355,  Residual: 8.18582e-06 
+ 50 TAO,  Function value: 0.0207337,  Residual: 7.84954e-06 
+ 51 TAO,  Function value: 0.0207311,  Residual: 1.03977e-05 
+ 52 TAO,  Function value: 0.0207291,  Residual: 9.85148e-06 
+ 53 TAO,  Function value: 0.0207257,  Residual: 8.16698e-06 
+ 54 TAO,  Function value: 0.0207211,  Residual: 7.16407e-06 
+ 55 TAO,  Function value: 0.0207199,  Residual: 8.07958e-06 
+ 56 TAO,  Function value: 0.0207198,  Residual: 7.94099e-06 
+ 57 TAO,  Function value: 0.0207161,  Residual: 0.000233482 
+ 58 TAO,  Function value: 0.0207161,  Residual: 8.28453e-06 
+ 59 TAO,  Function value: 0.020716,  Residual: 1.16686e-05 
+ 60 TAO,  Function value: 0.020716,  Residual: 1.22232e-05 
+ 61 TAO,  Function value: 0.020716,  Residual: 1.17505e-05 
+ 62 TAO,  Function value: 0.0207159,  Residual: 9.52608e-06 
+ 63 TAO,  Function value: 0.0207159,  Residual: 0.000233264 
+ 64 TAO,  Function value: 0.0207157,  Residual: 0.000233398 
+ 65 TAO,  Function value: 0.0207156,  Residual: 0.000233363 
+ 66 TAO,  Function value: 0.0207148,  Residual: 1.63017e-05 
+ 67 TAO,  Function value: 0.0207148,  Residual: 1.38943e-05 
+ 68 TAO,  Function value: 0.0207147,  Residual: 9.88022e-06 
+ 69 TAO,  Function value: 0.0207147,  Residual: 4.67801e-06 
+ 70 TAO,  Function value: 0.0207147,  Residual: 0.000233179 
+ 71 TAO,  Function value: 0.0207147,  Residual: 0.000233173 
+ 72 TAO,  Function value: 0.0207144,  Residual: 0.000233074 
+ 73 TAO,  Function value: 0.020714,  Residual: 3.80008e-06 
+ 74 TAO,  Function value: 0.020714,  Residual: 9.47069e-06 
+ 75 TAO,  Function value: 0.0207127,  Residual: 5.60826e-06 
+ 76 TAO,  Function value: 0.0207124,  Residual: 5.04995e-06 
+ 77 TAO,  Function value: 0.0207116,  Residual: 0.000232849 
+ 78 TAO,  Function value: 0.0207116,  Residual: 2.73387e-06 
+ 79 TAO,  Function value: 0.0207116,  Residual: 2.67089e-06 
+ 80 TAO,  Function value: 0.0207116,  Residual: 6.23421e-06 
+ 81 TAO,  Function value: 0.0207116,  Residual: 6.24598e-06 
+ 82 TAO,  Function value: 0.0207115,  Residual: 2.41957e-06 
+ 83 TAO,  Function value: 0.0207114,  Residual: 0.00023275 
+ 84 TAO,  Function value: 0.0207112,  Residual: 0.000232785 
+ 85 TAO,  Function value: 0.0207111,  Residual: 0.000232703 
+ 86 TAO,  Function value: 0.020711,  Residual: 0.000226627 
+ 87 TAO,  Function value: 0.0207107,  Residual: 7.91233e-05 
+ 88 TAO,  Function value: 0.0207106,  Residual: 8.2952e-05 
+ 89 TAO,  Function value: 0.0207106,  Residual: 9.01518e-05 
+ 90 TAO,  Function value: 0.0207106,  Residual: 5.71092e-05 
+ 91 TAO,  Function value: 0.0207104,  Residual: 3.48858e-05 
+ 92 TAO,  Function value: 0.0207102,  Residual: 0.000226197 
+ 93 TAO,  Function value: 0.0207101,  Residual: 0.000227204 
+ 94 TAO,  Function value: 0.0207101,  Residual: 0.000228037 
+ 95 TAO,  Function value: 0.0207099,  Residual: 0.000226984 
+ 96 TAO,  Function value: 0.0207099,  Residual: 0.00022782 
+ 97 TAO,  Function value: 0.0207098,  Residual: 0.000227377 
+ 98 TAO,  Function value: 0.0207098,  Residual: 3.44555e-05 
+ 99 TAO,  Function value: 0.0207098,  Residual: 7.04084e-05 
+100 TAO,  Function value: 0.0207098,  Residual: 3.53212e-05 
+101 TAO,  Function value: 0.0207097,  Residual: 0.000216991 
+102 TAO,  Function value: 0.0207097,  Residual: 0.000217089 
+103 TAO,  Function value: 0.0207096,  Residual: 0.000186916 
+104 TAO,  Function value: 0.0207096,  Residual: 0.000170334 
+105 TAO,  Function value: 0.0207096,  Residual: 9.78017e-05 
+106 TAO,  Function value: 0.0207096,  Residual: 0.000162697 
+107 TAO,  Function value: 0.0207096,  Residual: 0.000157704 
+108 TAO,  Function value: 0.0207096,  Residual: 0.000164487 
+109 TAO,  Function value: 0.0207096,  Residual: 0.000101075 
+110 TAO,  Function value: 0.0207096,  Residual: 9.96832e-06 
+111 TAO,  Function value: 0.0207095,  Residual: 0.000213251 
+112 TAO,  Function value: 0.0207095,  Residual: 0.000214062 
+113 TAO,  Function value: 0.0207095,  Residual: 0.000213236 
+114 TAO,  Function value: 0.0207095,  Residual: 7.316e-06 
+115 TAO,  Function value: 0.0207095,  Residual: 9.31203e-05 
+116 TAO,  Function value: 0.0207095,  Residual: 4.95516e-06 
+117 TAO,  Function value: 0.0207094,  Residual: 7.70768e-06 
+118 TAO,  Function value: 0.0207093,  Residual: 0.000214917 
+119 TAO,  Function value: 0.0207091,  Residual: 0.000210917 
+120 TAO,  Function value: 0.020709,  Residual: 2.93172e-05 
+121 TAO,  Function value: 0.0207089,  Residual: 2.95682e-05 
+122 TAO,  Function value: 0.0207089,  Residual: 4.39908e-06 
+123 TAO,  Function value: 0.0207089,  Residual: 0.000230654 
+124 TAO,  Function value: 0.0207088,  Residual: 0.000230652 
+125 TAO,  Function value: 0.0207088,  Residual: 0.000230652 
+126 TAO,  Function value: 0.0207088,  Residual: 4.11148e-06 
+127 TAO,  Function value: 0.0207088,  Residual: 2.95277e-05 
+128 TAO,  Function value: 0.0207083,  Residual: 6.57235e-05 
+129 TAO,  Function value: 0.0207083,  Residual: 0.00022417 
+130 TAO,  Function value: 0.0207082,  Residual: 0.00019634 
+131 TAO,  Function value: 0.0207082,  Residual: 0.000119586 
+132 TAO,  Function value: 0.0207082,  Residual: 8.35867e-05 
+133 TAO,  Function value: 0.0207082,  Residual: 8.72394e-05 
+134 TAO,  Function value: 0.0207082,  Residual: 4.93332e-05 
+135 TAO,  Function value: 0.0207082,  Residual: 5.52323e-05 
+136 TAO,  Function value: 0.0207082,  Residual: 2.89755e-06 
+137 TAO,  Function value: 0.0207082,  Residual: 0.000225838 
+138 TAO,  Function value: 0.0207082,  Residual: 0.000225836 
+139 TAO,  Function value: 0.020708,  Residual: 4.0992e-06 
+140 TAO,  Function value: 0.0207079,  Residual: 2.84605e-05 
+141 TAO,  Function value: 0.0207079,  Residual: 2.30373e-06 
+142 TAO,  Function value: 0.0207079,  Residual: 0.000230717 
+143 TAO,  Function value: 0.0207079,  Residual: 0.000232453 
+144 TAO,  Function value: 0.0207078,  Residual: 0.000230788 
+145 TAO,  Function value: 0.0207076,  Residual: 2.51787e-06 
+146 TAO,  Function value: 0.0207075,  Residual: 2.76957e-05 
+147 TAO,  Function value: 0.0207073,  Residual: 3.2158e-06 
+148 TAO,  Function value: 0.0207073,  Residual: 7.99648e-05 
+149 TAO,  Function value: 0.0207073,  Residual: 4.01449e-06 
+150 TAO,  Function value: 0.0207073,  Residual: 0.000218316 
+151 TAO,  Function value: 0.0207073,  Residual: 0.000218261 
+152 TAO,  Function value: 0.0207072,  Residual: 5.45801e-06 
+153 TAO,  Function value: 0.0207072,  Residual: 3.20388e-06 
+154 TAO,  Function value: 0.020707,  Residual: 0.000232358 
+155 TAO,  Function value: 0.0207069,  Residual: 0.000232398 
+156 TAO,  Function value: 0.0207069,  Residual: 0.000232385 
+157 TAO,  Function value: 0.0207069,  Residual: 0.000232369 
+158 TAO,  Function value: 0.0207068,  Residual: 1.26891e-05 
+159 TAO,  Function value: 0.0207066,  Residual: 1.28184e-05 
+160 TAO,  Function value: 0.0207066,  Residual: 7.01038e-06 
+161 TAO,  Function value: 0.0207066,  Residual: 0.000232107 
+162 TAO,  Function value: 0.0207066,  Residual: 0.000232363 
+163 TAO,  Function value: 0.0207065,  Residual: 5.52008e-06 
+164 TAO,  Function value: 0.0207065,  Residual: 5.01548e-05 
+165 TAO,  Function value: 0.0207065,  Residual: 0.000107347 
+166 TAO,  Function value: 0.0207065,  Residual: 0.000194785 
+167 TAO,  Function value: 0.0207064,  Residual: 8.20808e-05 
+168 TAO,  Function value: 0.0207064,  Residual: 3.10027e-05 
+169 TAO,  Function value: 0.0207064,  Residual: 3.18352e-05 
+170 TAO,  Function value: 0.0207063,  Residual: 6.1853e-05 
+171 TAO,  Function value: 0.0207063,  Residual: 6.26656e-05 
+172 TAO,  Function value: 0.0207062,  Residual: 3.39643e-06 
+173 TAO,  Function value: 0.0207062,  Residual: 0.000223804 
+174 TAO,  Function value: 0.0207062,  Residual: 2.77127e-06 
+175 TAO,  Function value: 0.0207062,  Residual: 2.59159e-06 
+176 TAO,  Function value: 0.0207062,  Residual: 2.58947e-06 
+177 TAO,  Function value: 0.0207054,  Residual: 0.000232377 
+178 TAO,  Function value: 0.0207054,  Residual: 2.29081e-06 
+179 TAO,  Function value: 0.0207054,  Residual: 3.40579e-06 
+180 TAO,  Function value: 0.0207053,  Residual: 0.000106891 
+181 TAO,  Function value: 0.0207053,  Residual: 0.000231883 
+182 TAO,  Function value: 0.0207053,  Residual: 0.000231751 
+183 TAO,  Function value: 0.0207053,  Residual: 0.000231748 
+184 TAO,  Function value: 0.0207052,  Residual: 6.94606e-05 
+185 TAO,  Function value: 0.0207052,  Residual: 0.000120228 
+186 TAO,  Function value: 0.0207051,  Residual: 0.000208163 
+187 TAO,  Function value: 0.020705,  Residual: 0.000207274 
+188 TAO,  Function value: 0.020705,  Residual: 0.000226203 
+189 TAO,  Function value: 0.020705,  Residual: 0.000115651 
+190 TAO,  Function value: 0.020705,  Residual: 0.000117764 
+191 TAO,  Function value: 0.020705,  Residual: 0.000116705 
+192 TAO,  Function value: 0.020705,  Residual: 9.19687e-06 
+193 TAO,  Function value: 0.020705,  Residual: 0.000201263 
+194 TAO,  Function value: 0.0207049,  Residual: 0.000222998 
+195 TAO,  Function value: 0.0207049,  Residual: 0.000201252 
+196 TAO,  Function value: 0.0207049,  Residual: 0.000201262 
+197 TAO,  Function value: 0.0207049,  Residual: 4.67455e-06 
+198 TAO,  Function value: 0.0207049,  Residual: 0.000116164 
+199 TAO,  Function value: 0.0207049,  Residual: 0.000116124 
+200 TAO,  Function value: 0.0207048,  Residual: 0.000210418 
+201 TAO,  Function value: 0.0207047,  Residual: 0.000210396 
+202 TAO,  Function value: 0.0207047,  Residual: 0.000115769 
+203 TAO,  Function value: 0.0207047,  Residual: 6.21919e-05 
+204 TAO,  Function value: 0.0207047,  Residual: 0.000114923 
+205 TAO,  Function value: 0.0207046,  Residual: 1.84847e-06 
+206 TAO,  Function value: 0.0207046,  Residual: 0.000201943 
+207 TAO,  Function value: 0.0207046,  Residual: 0.000201943 
+208 TAO,  Function value: 0.0207045,  Residual: 0.000201092 
+209 TAO,  Function value: 0.0207044,  Residual: 1.69659e-06 
+210 TAO,  Function value: 0.0207044,  Residual: 0.000116624 
+211 TAO,  Function value: 0.0207044,  Residual: 0.000116614 
+212 TAO,  Function value: 0.0207044,  Residual: 1.53283e-06 
+213 TAO,  Function value: 0.0207044,  Residual: 0.000200949 
+214 TAO,  Function value: 0.0207044,  Residual: 0.000200959 
+215 TAO,  Function value: 0.0207044,  Residual: 1.43087e-06 
+216 TAO,  Function value: 0.0207043,  Residual: 0.000116601 
+217 TAO,  Function value: 0.020704,  Residual: 0.0002323 
+218 TAO,  Function value: 0.0207039,  Residual: 0.000117086 
+219 TAO,  Function value: 0.0207039,  Residual: 0.000118353 
+220 TAO,  Function value: 0.0207037,  Residual: 3.56871e-06 
+221 TAO,  Function value: 0.0207037,  Residual: 0.000199947 
+222 TAO,  Function value: 0.0207037,  Residual: 0.000199917 
+223 TAO,  Function value: 0.0207037,  Residual: 0.000199537 
+224 TAO,  Function value: 0.0207035,  Residual: 2.35059e-06 
+225 TAO,  Function value: 0.0207035,  Residual: 0.000118918 
+226 TAO,  Function value: 0.0207035,  Residual: 0.000118575 
+227 TAO,  Function value: 0.0207034,  Residual: 0.000118895 
+228 TAO,  Function value: 0.0207033,  Residual: 9.17037e-06 
+229 TAO,  Function value: 0.0207033,  Residual: 0.000199569 
+230 TAO,  Function value: 0.0207033,  Residual: 0.000199557 
+231 TAO,  Function value: 0.0207033,  Residual: 8.74849e-06 
+232 TAO,  Function value: 0.0207033,  Residual: 3.45755e-06 
+233 TAO,  Function value: 0.0207032,  Residual: 1.97964e-06 
+234 TAO,  Function value: 0.0207032,  Residual: 1.9109e-06 
+235 TAO,  Function value: 0.020703,  Residual: 0.000232222 
+236 TAO,  Function value: 0.0207023,  Residual: 0.000232115 
+237 TAO,  Function value: 0.0207022,  Residual: 3.69386e-06 
+238 TAO,  Function value: 0.0207022,  Residual: 3.79696e-06 
+239 TAO,  Function value: 0.0207019,  Residual: 0.000110012 
+240 TAO,  Function value: 0.0207018,  Residual: 9.89862e-06 
+241 TAO,  Function value: 0.0207018,  Residual: 0.000204544 
+242 TAO,  Function value: 0.0207018,  Residual: 5.03632e-06 
+243 TAO,  Function value: 0.0207018,  Residual: 3.69299e-06 
+244 TAO,  Function value: 0.0207018,  Residual: 2.69879e-06 
+245 TAO,  Function value: 0.0207018,  Residual: 0.000232065 
+246 TAO,  Function value: 0.0207018,  Residual: 0.000232084 
+247 TAO,  Function value: 0.0207017,  Residual: 0.000232068 
+248 TAO,  Function value: 0.0207017,  Residual: 0.000232053 
+249 TAO,  Function value: 0.0207016,  Residual: 0.000228219 
+250 TAO,  Function value: 0.0207016,  Residual: 4.38628e-05 
+251 TAO,  Function value: 0.0207016,  Residual: 4.94871e-05 
+252 TAO,  Function value: 0.0207016,  Residual: 3.24589e-06 
+253 TAO,  Function value: 0.0207016,  Residual: 0.000227095 
+254 TAO,  Function value: 0.0207016,  Residual: 0.000226911 
+255 TAO,  Function value: 0.0207015,  Residual: 0.000216099 
+256 TAO,  Function value: 0.0207015,  Residual: 0.0002161 
+257 TAO,  Function value: 0.0207015,  Residual: 1.9494e-06 
+258 TAO,  Function value: 0.0207015,  Residual: 1.92095e-06 
+259 TAO,  Function value: 0.0207013,  Residual: 0.000232045 
+260 TAO,  Function value: 0.0207013,  Residual: 2.05409e-06 
+261 TAO,  Function value: 0.0207013,  Residual: 1.94568e-06 
+262 TAO,  Function value: 0.0207013,  Residual: 1.94215e-06 
+263 TAO,  Function value: 0.0207011,  Residual: 0.000232034 
+264 TAO,  Function value: 0.0207011,  Residual: 2.05015e-06 
+265 TAO,  Function value: 0.0207011,  Residual: 2.15847e-06 
+266 TAO,  Function value: 0.020701,  Residual: 0.000106732 
+267 TAO,  Function value: 0.020701,  Residual: 0.000106731 
+268 TAO,  Function value: 0.020701,  Residual: 3.03939e-06 
+269 TAO,  Function value: 0.020701,  Residual: 0.000206054 
+270 TAO,  Function value: 0.020701,  Residual: 0.000206053 
+271 TAO,  Function value: 0.020701,  Residual: 0.000206032 
+272 TAO,  Function value: 0.0207009,  Residual: 0.000206035 
+273 TAO,  Function value: 0.0207009,  Residual: 0.000197942 
+274 TAO,  Function value: 0.0207009,  Residual: 0.000193738 
+275 TAO,  Function value: 0.0207008,  Residual: 5.55884e-06 
+276 TAO,  Function value: 0.0207008,  Residual: 6.72326e-06 
+277 TAO,  Function value: 0.0207008,  Residual: 1.4264e-06 
+278 TAO,  Function value: 0.0207008,  Residual: 0.000231926 
+279 TAO,  Function value: 0.0207007,  Residual: 0.000231989 
+280 TAO,  Function value: 0.0207006,  Residual: 0.000231983 
+281 TAO,  Function value: 0.0207006,  Residual: 3.36599e-05 
+282 TAO,  Function value: 0.0207005,  Residual: 0.000229659 
+283 TAO,  Function value: 0.0207004,  Residual: 3.08372e-05 
+284 TAO,  Function value: 0.0207003,  Residual: 0.000231856 
+285 TAO,  Function value: 0.0207002,  Residual: 0.000231831 
+286 TAO,  Function value: 0.0207002,  Residual: 0.000231901 
+287 TAO,  Function value: 0.0207,  Residual: 7.30124e-06 
+288 TAO,  Function value: 0.0206999,  Residual: 5.39316e-06 
+289 TAO,  Function value: 0.0206998,  Residual: 1.33184e-05 
+290 TAO,  Function value: 0.0206997,  Residual: 1.30037e-05 
+291 TAO,  Function value: 0.0206995,  Residual: 1.15554e-05 
+292 TAO,  Function value: 0.0206995,  Residual: 1.98865e-06 
+293 TAO,  Function value: 0.0206993,  Residual: 1.53535e-06 
+294 TAO,  Function value: 0.0206992,  Residual: 1.80515e-06 
+295 TAO,  Function value: 0.020699,  Residual: 3.48787e-06 
+296 TAO,  Function value: 0.020699,  Residual: 3.6867e-06 
+297 TAO,  Function value: 0.020699,  Residual: 3.21819e-06 
+298 TAO,  Function value: 0.0206988,  Residual: 3.78802e-06 
+299 TAO,  Function value: 0.0206988,  Residual: 3.94131e-06 
+300 TAO,  Function value: 0.0206987,  Residual: 4.35485e-06 
+301 TAO,  Function value: 0.0206987,  Residual: 4.31702e-06 
+302 TAO,  Function value: 0.0206987,  Residual: 4.28732e-06 
+303 TAO,  Function value: 0.0206987,  Residual: 4.27686e-06 
+304 TAO,  Function value: 0.0206986,  Residual: 4.01523e-06 
+305 TAO,  Function value: 0.0206983,  Residual: 3.30509e-06 
+306 TAO,  Function value: 0.0206982,  Residual: 3.1479e-06 
+307 TAO,  Function value: 0.0206981,  Residual: 2.7815e-06 
+308 TAO,  Function value: 0.020698,  Residual: 2.3953e-06 
+309 TAO,  Function value: 0.0206979,  Residual: 2.3483e-06 
+310 TAO,  Function value: 0.0206978,  Residual: 2.20098e-06 
+311 TAO,  Function value: 0.0206977,  Residual: 2.17073e-06 
+312 TAO,  Function value: 0.0206977,  Residual: 2.27073e-06 
+313 TAO,  Function value: 0.0206976,  Residual: 2.15453e-06 
+314 TAO,  Function value: 0.0206976,  Residual: 2.21359e-06 
+315 TAO,  Function value: 0.0206975,  Residual: 2.34691e-06 
+316 TAO,  Function value: 0.0206975,  Residual: 2.40498e-06 
+317 TAO,  Function value: 0.0206974,  Residual: 2.87001e-06 
+318 TAO,  Function value: 0.0206973,  Residual: 3.52351e-06 
+319 TAO,  Function value: 0.0206972,  Residual: 3.53998e-06 
+320 TAO,  Function value: 0.0206972,  Residual: 3.63219e-06 
+321 TAO,  Function value: 0.020697,  Residual: 3.88014e-06 
+322 TAO,  Function value: 0.0206969,  Residual: 4.21607e-06 
+323 TAO,  Function value: 0.0206968,  Residual: 4.3812e-06 
+324 TAO,  Function value: 0.0206966,  Residual: 4.48492e-06 
+325 TAO,  Function value: 0.0206965,  Residual: 4.45354e-06 
+326 TAO,  Function value: 0.0206964,  Residual: 4.45241e-06 
+327 TAO,  Function value: 0.0206963,  Residual: 4.50129e-06 
+328 TAO,  Function value: 0.0206962,  Residual: 4.18299e-06 
+329 TAO,  Function value: 0.020696,  Residual: 3.90739e-06 
+330 TAO,  Function value: 0.020696,  Residual: 3.70383e-06 
+331 TAO,  Function value: 0.0206959,  Residual: 3.56936e-06 
+332 TAO,  Function value: 0.0206958,  Residual: 3.44201e-06 
+333 TAO,  Function value: 0.0206957,  Residual: 3.45628e-06 
+334 TAO,  Function value: 0.0206956,  Residual: 3.58046e-06 
+335 TAO,  Function value: 0.0206956,  Residual: 3.93784e-06 
+336 TAO,  Function value: 0.0206955,  Residual: 3.70541e-06 
+337 TAO,  Function value: 0.0206954,  Residual: 3.68915e-06 
+338 TAO,  Function value: 0.0206953,  Residual: 3.76518e-06 
+339 TAO,  Function value: 0.0206951,  Residual: 3.88418e-06 
+340 TAO,  Function value: 0.020695,  Residual: 4.13965e-06 
+341 TAO,  Function value: 0.0206948,  Residual: 4.10909e-06 
+342 TAO,  Function value: 0.0206946,  Residual: 4.23823e-06 
+343 TAO,  Function value: 0.0206944,  Residual: 4.96618e-06 
+344 TAO,  Function value: 0.0206944,  Residual: 6.51218e-06 
+345 TAO,  Function value: 0.0206942,  Residual: 6.28992e-06 
+346 TAO,  Function value: 0.0206941,  Residual: 6.36048e-06 
+347 TAO,  Function value: 0.0206938,  Residual: 7.17466e-06 
+348 TAO,  Function value: 0.0206935,  Residual: 8.63371e-06 
+349 TAO,  Function value: 0.0206932,  Residual: 1.17446e-05 
+350 TAO,  Function value: 0.0206929,  Residual: 1.24443e-05 
+351 TAO,  Function value: 0.0206927,  Residual: 1.22793e-05 
+352 TAO,  Function value: 0.0206921,  Residual: 1.15289e-05 
+353 TAO,  Function value: 0.020692,  Residual: 1.0055e-05 
+354 TAO,  Function value: 0.02069,  Residual: 8.50662e-06 
+355 TAO,  Function value: 0.0206895,  Residual: 7.87142e-06 
+356 TAO,  Function value: 0.0206886,  Residual: 6.39144e-06 
+357 TAO,  Function value: 0.020688,  Residual: 5.1708e-06 
+358 TAO,  Function value: 0.0206877,  Residual: 4.67331e-06 
+359 TAO,  Function value: 0.0206876,  Residual: 4.43051e-06 
+360 TAO,  Function value: 0.0206874,  Residual: 4.30044e-06 
+361 TAO,  Function value: 0.0206873,  Residual: 4.16933e-06 
+362 TAO,  Function value: 0.0206873,  Residual: 4.09189e-06 
+363 TAO,  Function value: 0.0206872,  Residual: 3.86779e-06 
+364 TAO,  Function value: 0.0206872,  Residual: 3.81353e-06 
+365 TAO,  Function value: 0.0206871,  Residual: 3.72277e-06 
+366 TAO,  Function value: 0.0206871,  Residual: 3.73404e-06 
+367 TAO,  Function value: 0.020687,  Residual: 3.62365e-06 
+368 TAO,  Function value: 0.020687,  Residual: 3.59628e-06 
+369 TAO,  Function value: 0.0206869,  Residual: 3.58926e-06 
+370 TAO,  Function value: 0.0206869,  Residual: 3.68528e-06 
+371 TAO,  Function value: 0.0206868,  Residual: 3.5309e-06 
+372 TAO,  Function value: 0.0206867,  Residual: 3.46429e-06 
+373 TAO,  Function value: 0.0206866,  Residual: 3.42051e-06 
+374 TAO,  Function value: 0.0206866,  Residual: 3.60738e-06 
+375 TAO,  Function value: 0.0206865,  Residual: 3.3637e-06 
+376 TAO,  Function value: 0.0206865,  Residual: 3.3064e-06 
+377 TAO,  Function value: 0.0206864,  Residual: 3.28348e-06 
+378 TAO,  Function value: 0.0206863,  Residual: 3.29487e-06 
+379 TAO,  Function value: 0.0206863,  Residual: 3.3728e-06 
+380 TAO,  Function value: 0.0206862,  Residual: 3.21829e-06 
+381 TAO,  Function value: 0.0206862,  Residual: 3.16864e-06 
+382 TAO,  Function value: 0.0206862,  Residual: 3.15406e-06 
+383 TAO,  Function value: 0.0206861,  Residual: 3.33239e-06 
+384 TAO,  Function value: 0.0206861,  Residual: 3.22245e-06 
+385 TAO,  Function value: 0.0206861,  Residual: 3.22255e-06 
+386 TAO,  Function value: 0.020686,  Residual: 3.27394e-06 
+387 TAO,  Function value: 0.020686,  Residual: 3.49017e-06 
+388 TAO,  Function value: 0.020686,  Residual: 3.4884e-06 
+389 TAO,  Function value: 0.0206859,  Residual: 3.54088e-06 
+390 TAO,  Function value: 0.0206859,  Residual: 3.69696e-06 
+391 TAO,  Function value: 0.0206858,  Residual: 3.8328e-06 
+392 TAO,  Function value: 0.0206857,  Residual: 4.03672e-06 
+393 TAO,  Function value: 0.0206856,  Residual: 4.08244e-06 
+394 TAO,  Function value: 0.0206856,  Residual: 4.06872e-06 
+395 TAO,  Function value: 0.0206855,  Residual: 4.13324e-06 
+396 TAO,  Function value: 0.0206854,  Residual: 4.21674e-06 
+397 TAO,  Function value: 0.0206853,  Residual: 4.16626e-06 
+398 TAO,  Function value: 0.0206852,  Residual: 4.21859e-06 
+399 TAO,  Function value: 0.0206851,  Residual: 4.35798e-06 
+400 TAO,  Function value: 0.020685,  Residual: 4.29484e-06 
+401 TAO,  Function value: 0.0206849,  Residual: 4.36468e-06 
+402 TAO,  Function value: 0.0206848,  Residual: 4.37941e-06 
+403 TAO,  Function value: 0.0206847,  Residual: 4.39627e-06 
+404 TAO,  Function value: 0.0206846,  Residual: 4.4984e-06 
+405 TAO,  Function value: 0.0206846,  Residual: 4.52546e-06 
+406 TAO,  Function value: 0.0206845,  Residual: 4.53937e-06 
+407 TAO,  Function value: 0.0206843,  Residual: 4.53863e-06 
+408 TAO,  Function value: 0.0206843,  Residual: 4.58669e-06 
+409 TAO,  Function value: 0.0206842,  Residual: 4.57632e-06 
+410 TAO,  Function value: 0.0206841,  Residual: 4.52086e-06 
+411 TAO,  Function value: 0.020684,  Residual: 4.45399e-06 
+412 TAO,  Function value: 0.0206838,  Residual: 4.41358e-06 
+413 TAO,  Function value: 0.0206837,  Residual: 4.26785e-06 
+414 TAO,  Function value: 0.0206836,  Residual: 4.11886e-06 
+415 TAO,  Function value: 0.0206835,  Residual: 4.11967e-06 
+416 TAO,  Function value: 0.0206834,  Residual: 3.92375e-06 
+417 TAO,  Function value: 0.0206832,  Residual: 3.75018e-06 
+418 TAO,  Function value: 0.0206832,  Residual: 3.66897e-06 
+419 TAO,  Function value: 0.0206831,  Residual: 3.81244e-06 
+420 TAO,  Function value: 0.020683,  Residual: 3.48719e-06 
+421 TAO,  Function value: 0.0206829,  Residual: 3.41281e-06 
+422 TAO,  Function value: 0.0206829,  Residual: 3.33219e-06 
+423 TAO,  Function value: 0.0206828,  Residual: 3.34753e-06 
+424 TAO,  Function value: 0.0206827,  Residual: 3.32826e-06 
+425 TAO,  Function value: 0.0206826,  Residual: 3.32378e-06 
+426 TAO,  Function value: 0.0206824,  Residual: 3.45064e-06 
+427 TAO,  Function value: 0.0206824,  Residual: 3.75663e-06 
+428 TAO,  Function value: 0.0206823,  Residual: 3.54916e-06 
+429 TAO,  Function value: 0.0206822,  Residual: 3.52069e-06 
+430 TAO,  Function value: 0.0206821,  Residual: 3.61181e-06 
+431 TAO,  Function value: 0.0206819,  Residual: 3.84402e-06 
+432 TAO,  Function value: 0.0206818,  Residual: 3.89231e-06 
+433 TAO,  Function value: 0.0206817,  Residual: 3.88995e-06 
+434 TAO,  Function value: 0.0206817,  Residual: 3.88829e-06 
+435 TAO,  Function value: 0.0206816,  Residual: 3.88847e-06 
+436 TAO,  Function value: 0.0206816,  Residual: 3.7712e-06 
+437 TAO,  Function value: 0.0206815,  Residual: 3.52883e-06 
+438 TAO,  Function value: 0.0206813,  Residual: 3.03614e-06 
+439 TAO,  Function value: 0.0206813,  Residual: 2.88358e-06 
+440 TAO,  Function value: 0.0206812,  Residual: 2.81982e-06 
+441 TAO,  Function value: 0.0206812,  Residual: 2.77787e-06 
+442 TAO,  Function value: 0.0206812,  Residual: 2.8854e-06 
+443 TAO,  Function value: 0.0206811,  Residual: 2.68902e-06 
+444 TAO,  Function value: 0.0206811,  Residual: 2.64477e-06 
+445 TAO,  Function value: 0.020681,  Residual: 2.606e-06 
+446 TAO,  Function value: 0.020681,  Residual: 2.59444e-06 
+447 TAO,  Function value: 0.020681,  Residual: 2.55489e-06 
+448 TAO,  Function value: 0.0206809,  Residual: 2.5067e-06 
+449 TAO,  Function value: 0.0206809,  Residual: 2.45483e-06 
+450 TAO,  Function value: 0.0206809,  Residual: 2.49934e-06 
+451 TAO,  Function value: 0.0206808,  Residual: 2.36193e-06 
+452 TAO,  Function value: 0.0206808,  Residual: 2.2928e-06 
+453 TAO,  Function value: 0.0206808,  Residual: 2.24739e-06 
+454 TAO,  Function value: 0.0206807,  Residual: 2.24143e-06 
+455 TAO,  Function value: 0.0206807,  Residual: 2.11473e-06 
+456 TAO,  Function value: 0.0206806,  Residual: 2.04561e-06 
+457 TAO,  Function value: 0.0206806,  Residual: 1.98945e-06 
+458 TAO,  Function value: 0.0206806,  Residual: 2.04845e-06 
+459 TAO,  Function value: 0.0206806,  Residual: 1.85728e-06 
+460 TAO,  Function value: 0.0206805,  Residual: 1.75204e-06 
+461 TAO,  Function value: 0.0206805,  Residual: 1.62246e-06 
+462 TAO,  Function value: 0.0206805,  Residual: 1.41338e-06 
+463 TAO,  Function value: 0.0206805,  Residual: 1.35563e-06 
+464 TAO,  Function value: 0.0206804,  Residual: 1.22717e-06 
+465 TAO,  Function value: 0.0206804,  Residual: 1.176e-06 
+466 TAO,  Function value: 0.0206804,  Residual: 1.13674e-06 
+467 TAO,  Function value: 0.0206804,  Residual: 1.09511e-06 
+468 TAO,  Function value: 0.0206804,  Residual: 1.02093e-06 
+469 TAO,  Function value: 0.0206804,  Residual: 9.73129e-07 
+470 TAO,  Function value: 0.0206804,  Residual: 9.24094e-07 
+471 TAO,  Function value: 0.0206804,  Residual: 9.68817e-07 
+472 TAO,  Function value: 0.0206804,  Residual: 8.75396e-07 
+473 TAO,  Function value: 0.0206804,  Residual: 8.50666e-07 
+474 TAO,  Function value: 0.0206804,  Residual: 8.47128e-07 
+475 TAO,  Function value: 0.0206804,  Residual: 8.9851e-07 
+476 TAO,  Function value: 0.0206803,  Residual: 9.20339e-07 
+477 TAO,  Function value: 0.0206803,  Residual: 9.43507e-07 
+478 TAO,  Function value: 0.0206803,  Residual: 1.00763e-06 
+479 TAO,  Function value: 0.0206803,  Residual: 1.04091e-06 
+480 TAO,  Function value: 0.0206803,  Residual: 1.02534e-06 
+481 TAO,  Function value: 0.0206803,  Residual: 1.07536e-06 
+482 TAO,  Function value: 0.0206803,  Residual: 1.14838e-06 
+483 TAO,  Function value: 0.0206803,  Residual: 1.1336e-06 
+484 TAO,  Function value: 0.0206803,  Residual: 1.19602e-06 
+485 TAO,  Function value: 0.0206803,  Residual: 1.27267e-06 
+486 TAO,  Function value: 0.0206802,  Residual: 1.22546e-06 
+487 TAO,  Function value: 0.0206802,  Residual: 1.20673e-06 
+488 TAO,  Function value: 0.0206802,  Residual: 1.21884e-06 
+489 TAO,  Function value: 0.0206802,  Residual: 1.47972e-06 
+490 TAO,  Function value: 0.0206802,  Residual: 1.27875e-06 
+491 TAO,  Function value: 0.0206802,  Residual: 1.22018e-06 
+492 TAO,  Function value: 0.0206802,  Residual: 1.15839e-06 
+493 TAO,  Function value: 0.0206802,  Residual: 1.33144e-06 
+494 TAO,  Function value: 0.0206801,  Residual: 1.13e-06 
+495 TAO,  Function value: 0.0206801,  Residual: 1.12036e-06 
+496 TAO,  Function value: 0.0206801,  Residual: 1.12302e-06 
+497 TAO,  Function value: 0.0206801,  Residual: 1.12103e-06 
+498 TAO,  Function value: 0.0206801,  Residual: 1.08872e-06 
+499 TAO,  Function value: 0.0206801,  Residual: 1.04016e-06 
+500 TAO,  Function value: 0.0206801,  Residual: 9.87368e-07 
+501 TAO,  Function value: 0.0206801,  Residual: 9.52523e-07 
+502 TAO,  Function value: 0.0206801,  Residual: 8.9664e-07 
+503 TAO,  Function value: 0.0206801,  Residual: 8.49738e-07 
+504 TAO,  Function value: 0.0206801,  Residual: 8.42949e-07 
+505 TAO,  Function value: 0.02068,  Residual: 8.81405e-07 
+506 TAO,  Function value: 0.02068,  Residual: 8.91599e-07 
+507 TAO,  Function value: 0.02068,  Residual: 9.16443e-07 
+508 TAO,  Function value: 0.02068,  Residual: 1.00222e-06 
+509 TAO,  Function value: 0.02068,  Residual: 1.15289e-06 
+510 TAO,  Function value: 0.02068,  Residual: 1.22354e-06 
+511 TAO,  Function value: 0.02068,  Residual: 1.37495e-06 
+512 TAO,  Function value: 0.02068,  Residual: 1.62641e-06 
+513 TAO,  Function value: 0.0206799,  Residual: 1.645e-06 
+514 TAO,  Function value: 0.0206799,  Residual: 1.9631e-06 
+515 TAO,  Function value: 0.0206799,  Residual: 2.11577e-06 
+516 TAO,  Function value: 0.0206799,  Residual: 1.93256e-06 
+517 TAO,  Function value: 0.0206799,  Residual: 1.89692e-06 
+518 TAO,  Function value: 0.0206798,  Residual: 1.86535e-06 
+519 TAO,  Function value: 0.0206798,  Residual: 1.87467e-06 
+520 TAO,  Function value: 0.0206797,  Residual: 1.87612e-06 
+521 TAO,  Function value: 0.0206797,  Residual: 1.67851e-06 
+522 TAO,  Function value: 0.0206796,  Residual: 1.48684e-06 
+523 TAO,  Function value: 0.0206796,  Residual: 1.32035e-06 
+524 TAO,  Function value: 0.0206796,  Residual: 1.42594e-06 
+525 TAO,  Function value: 0.0206796,  Residual: 1.1576e-06 
+526 TAO,  Function value: 0.0206795,  Residual: 1.10278e-06 
+527 TAO,  Function value: 0.0206795,  Residual: 1.06274e-06 
+528 TAO,  Function value: 0.0206795,  Residual: 1.06744e-06 
+529 TAO,  Function value: 0.0206795,  Residual: 1.0784e-06 
+530 TAO,  Function value: 0.0206795,  Residual: 1.05497e-06 
+531 TAO,  Function value: 0.0206795,  Residual: 1.03778e-06 
+532 TAO,  Function value: 0.0206795,  Residual: 1.03983e-06 
+533 TAO,  Function value: 0.0206795,  Residual: 1.04715e-06 
+534 TAO,  Function value: 0.0206795,  Residual: 1.06321e-06 
+535 TAO,  Function value: 0.0206795,  Residual: 1.09598e-06 
+536 TAO,  Function value: 0.0206795,  Residual: 1.0946e-06 
+537 TAO,  Function value: 0.0206795,  Residual: 1.08944e-06 
+538 TAO,  Function value: 0.0206795,  Residual: 1.14927e-06 
+539 TAO,  Function value: 0.0206795,  Residual: 1.21367e-06 
+540 TAO,  Function value: 0.0206795,  Residual: 1.20294e-06 
+541 TAO,  Function value: 0.0206795,  Residual: 1.2548e-06 
+542 TAO,  Function value: 0.0206794,  Residual: 1.35091e-06 
+543 TAO,  Function value: 0.0206794,  Residual: 1.49845e-06 
+544 TAO,  Function value: 0.0206794,  Residual: 1.68364e-06 
+545 TAO,  Function value: 0.0206794,  Residual: 1.79278e-06 
+546 TAO,  Function value: 0.0206793,  Residual: 1.9029e-06 
+547 TAO,  Function value: 0.0206793,  Residual: 1.84565e-06 
+548 TAO,  Function value: 0.0206792,  Residual: 1.68651e-06 
+549 TAO,  Function value: 0.0206792,  Residual: 1.55701e-06 
+550 TAO,  Function value: 0.0206792,  Residual: 1.63512e-06 
+551 TAO,  Function value: 0.0206792,  Residual: 1.54925e-06 
+552 TAO,  Function value: 0.0206792,  Residual: 1.53753e-06 
+553 TAO,  Function value: 0.0206792,  Residual: 1.52315e-06 
+554 TAO,  Function value: 0.0206792,  Residual: 1.50145e-06 
+555 TAO,  Function value: 0.0206792,  Residual: 1.4774e-06 
+556 TAO,  Function value: 0.0206792,  Residual: 1.44626e-06 
+557 TAO,  Function value: 0.0206791,  Residual: 1.41255e-06 
+558 TAO,  Function value: 0.0206791,  Residual: 1.40495e-06 
+559 TAO,  Function value: 0.0206791,  Residual: 1.37234e-06 
+560 TAO,  Function value: 0.0206791,  Residual: 1.34744e-06 
+561 TAO,  Function value: 0.0206791,  Residual: 1.33393e-06 
+562 TAO,  Function value: 0.0206791,  Residual: 1.37784e-06 
+563 TAO,  Function value: 0.0206791,  Residual: 1.31572e-06 
+564 TAO,  Function value: 0.0206791,  Residual: 1.29668e-06 
+565 TAO,  Function value: 0.0206791,  Residual: 1.27888e-06 
+566 TAO,  Function value: 0.020679,  Residual: 1.27967e-06 
+567 TAO,  Function value: 0.020679,  Residual: 1.13519e-06 
+568 TAO,  Function value: 0.020679,  Residual: 9.9872e-07 
+569 TAO,  Function value: 0.0206789,  Residual: 9.05774e-07 
+570 TAO,  Function value: 0.0206789,  Residual: 1.01914e-06 
+571 TAO,  Function value: 0.0206789,  Residual: 8.71377e-07 
+572 TAO,  Function value: 0.0206789,  Residual: 8.59171e-07 
+573 TAO,  Function value: 0.0206789,  Residual: 9.11117e-07 
+574 TAO,  Function value: 0.0206788,  Residual: 1.17007e-06 
+575 TAO,  Function value: 0.0206788,  Residual: 1.50856e-06 
+576 TAO,  Function value: 0.0206788,  Residual: 1.64179e-06 
+577 TAO,  Function value: 0.0206788,  Residual: 1.44886e-06 
+578 TAO,  Function value: 0.0206788,  Residual: 1.36044e-06 
+579 TAO,  Function value: 0.0206788,  Residual: 1.53078e-06 
+580 TAO,  Function value: 0.0206788,  Residual: 1.40577e-06 
+581 TAO,  Function value: 0.0206787,  Residual: 1.13569e-06 
+582 TAO,  Function value: 0.0206787,  Residual: 1.11091e-06 
+583 TAO,  Function value: 0.0206787,  Residual: 1.10328e-06 
+584 TAO,  Function value: 0.0206787,  Residual: 1.03701e-06 
+585 TAO,  Function value: 0.0206787,  Residual: 1.01462e-06 
+586 TAO,  Function value: 0.0206787,  Residual: 1.0024e-06 
+587 TAO,  Function value: 0.0206787,  Residual: 1.02459e-06 
+588 TAO,  Function value: 0.0206787,  Residual: 1.03526e-06 
+589 TAO,  Function value: 0.0206787,  Residual: 1.03249e-06 
+590 TAO,  Function value: 0.0206787,  Residual: 1.04396e-06 
+591 TAO,  Function value: 0.0206787,  Residual: 1.04388e-06 
+592 TAO,  Function value: 0.0206786,  Residual: 9.26554e-07 
+593 TAO,  Function value: 0.0206786,  Residual: 7.96205e-07 
+594 TAO,  Function value: 0.0206786,  Residual: 6.20902e-07 
+595 TAO,  Function value: 0.0206786,  Residual: 5.63864e-07 
+596 TAO,  Function value: 0.0206786,  Residual: 5.38901e-07 
+597 TAO,  Function value: 0.0206786,  Residual: 5.47345e-07 
+598 TAO,  Function value: 0.0206786,  Residual: 5.62525e-07 
+599 TAO,  Function value: 0.0206786,  Residual: 5.29016e-07 
+600 TAO,  Function value: 0.0206786,  Residual: 5.20535e-07 
+601 TAO,  Function value: 0.0206786,  Residual: 5.12111e-07 
+602 TAO,  Function value: 0.0206786,  Residual: 5.32512e-07 
+603 TAO,  Function value: 0.0206786,  Residual: 4.94288e-07 
+604 TAO,  Function value: 0.0206786,  Residual: 4.80717e-07 
+605 TAO,  Function value: 0.0206786,  Residual: 4.79994e-07 
+606 TAO,  Function value: 0.0206786,  Residual: 5.4273e-07 
+607 TAO,  Function value: 0.0206786,  Residual: 5.46062e-07 
+608 TAO,  Function value: 0.0206786,  Residual: 5.47442e-07 
+609 TAO,  Function value: 0.0206786,  Residual: 5.39805e-07 
+610 TAO,  Function value: 0.0206785,  Residual: 4.96658e-07 
+611 TAO,  Function value: 0.0206785,  Residual: 4.57617e-07 
+612 TAO,  Function value: 0.0206785,  Residual: 3.98074e-07 
+613 TAO,  Function value: 0.0206785,  Residual: 3.74921e-07 
+614 TAO,  Function value: 0.0206785,  Residual: 3.50601e-07 
+615 TAO,  Function value: 0.0206785,  Residual: 3.40477e-07 
+616 TAO,  Function value: 0.0206785,  Residual: 3.40311e-07 
+617 TAO,  Function value: 0.0206785,  Residual: 3.45431e-07 
+618 TAO,  Function value: 0.0206785,  Residual: 3.47008e-07 
+619 TAO,  Function value: 0.0206785,  Residual: 3.55414e-07 
+620 TAO,  Function value: 0.0206785,  Residual: 3.61703e-07 
+621 TAO,  Function value: 0.0206785,  Residual: 3.64329e-07 
+622 TAO,  Function value: 0.0206785,  Residual: 3.87864e-07 
+623 TAO,  Function value: 0.0206785,  Residual: 3.98537e-07 
+624 TAO,  Function value: 0.0206785,  Residual: 3.92515e-07 
+625 TAO,  Function value: 0.0206785,  Residual: 3.92967e-07 
+626 TAO,  Function value: 0.0206785,  Residual: 4.02291e-07 
+627 TAO,  Function value: 0.0206785,  Residual: 4.32887e-07 
+628 TAO,  Function value: 0.0206785,  Residual: 4.50182e-07 
+629 TAO,  Function value: 0.0206785,  Residual: 4.7897e-07 
+630 TAO,  Function value: 0.0206785,  Residual: 5.45809e-07 
+631 TAO,  Function value: 0.0206785,  Residual: 7.05077e-07 
+632 TAO,  Function value: 0.0206785,  Residual: 7.09587e-07 
+633 TAO,  Function value: 0.0206785,  Residual: 7.93325e-07 
+634 TAO,  Function value: 0.0206785,  Residual: 9.28324e-07 
+635 TAO,  Function value: 0.0206785,  Residual: 1.09964e-06 
+636 TAO,  Function value: 0.0206785,  Residual: 1.24585e-06 
+637 TAO,  Function value: 0.0206785,  Residual: 1.07366e-06 
+638 TAO,  Function value: 0.0206784,  Residual: 9.78476e-07 
+639 TAO,  Function value: 0.0206784,  Residual: 8.90723e-07 
+640 TAO,  Function value: 0.0206784,  Residual: 7.97494e-07 
+641 TAO,  Function value: 0.0206784,  Residual: 6.35105e-07 
+642 TAO,  Function value: 0.0206784,  Residual: 5.45664e-07 
+643 TAO,  Function value: 0.0206784,  Residual: 4.91679e-07 
+644 TAO,  Function value: 0.0206784,  Residual: 4.97255e-07 
+645 TAO,  Function value: 0.0206784,  Residual: 4.34004e-07 
+646 TAO,  Function value: 0.0206784,  Residual: 4.18368e-07 
+647 TAO,  Function value: 0.0206784,  Residual: 4.12872e-07 
+648 TAO,  Function value: 0.0206784,  Residual: 5.94455e-07 
+649 TAO,  Function value: 0.0206784,  Residual: 7.68773e-07 
+650 TAO,  Function value: 0.0206784,  Residual: 1.00002e-06 
+651 TAO,  Function value: 0.0206784,  Residual: 1.04228e-06 
+652 TAO,  Function value: 0.0206783,  Residual: 1.15646e-06 
+653 TAO,  Function value: 0.0206783,  Residual: 1.14142e-06 
+654 TAO,  Function value: 0.0206783,  Residual: 1.02207e-06 
+655 TAO,  Function value: 0.0206783,  Residual: 8.47633e-07 
+656 TAO,  Function value: 0.0206783,  Residual: 7.64794e-07 
+657 TAO,  Function value: 0.0206783,  Residual: 6.96662e-07 
+658 TAO,  Function value: 0.0206782,  Residual: 6.2342e-07 
+659 TAO,  Function value: 0.0206782,  Residual: 5.618e-07 
+660 TAO,  Function value: 0.0206782,  Residual: 5.53182e-07 
+661 TAO,  Function value: 0.0206782,  Residual: 4.69492e-07 
+662 TAO,  Function value: 0.0206782,  Residual: 4.19726e-07 
+663 TAO,  Function value: 0.0206782,  Residual: 3.86819e-07 
+664 TAO,  Function value: 0.0206782,  Residual: 4.03458e-07 
+665 TAO,  Function value: 0.0206782,  Residual: 3.37513e-07 
+666 TAO,  Function value: 0.0206782,  Residual: 3.27139e-07 
+667 TAO,  Function value: 0.0206782,  Residual: 3.1654e-07 
+668 TAO,  Function value: 0.0206782,  Residual: 3.35533e-07 
+669 TAO,  Function value: 0.0206782,  Residual: 3.19116e-07 
+670 TAO,  Function value: 0.0206782,  Residual: 3.20168e-07 
+671 TAO,  Function value: 0.0206782,  Residual: 3.27298e-07 
+672 TAO,  Function value: 0.0206782,  Residual: 3.38513e-07 
+673 TAO,  Function value: 0.0206782,  Residual: 3.7868e-07 
+674 TAO,  Function value: 0.0206782,  Residual: 3.63089e-07 
+675 TAO,  Function value: 0.0206782,  Residual: 3.59782e-07 
+676 TAO,  Function value: 0.0206782,  Residual: 3.66529e-07 
+677 TAO,  Function value: 0.0206782,  Residual: 3.925e-07 
+678 TAO,  Function value: 0.0206782,  Residual: 4.00446e-07 
+679 TAO,  Function value: 0.0206782,  Residual: 4.26914e-07 
+680 TAO,  Function value: 0.0206782,  Residual: 4.69746e-07 
+681 TAO,  Function value: 0.0206782,  Residual: 5.86882e-07 
+682 TAO,  Function value: 0.0206782,  Residual: 7.70612e-07 
+683 TAO,  Function value: 0.0206782,  Residual: 8.13869e-07 
+684 TAO,  Function value: 0.0206782,  Residual: 8.60255e-07 
+685 TAO,  Function value: 0.0206782,  Residual: 8.47146e-07 
+686 TAO,  Function value: 0.0206782,  Residual: 7.51166e-07 
+687 TAO,  Function value: 0.0206782,  Residual: 6.47123e-07 
+688 TAO,  Function value: 0.0206781,  Residual: 5.89106e-07 
+689 TAO,  Function value: 0.0206781,  Residual: 5.47536e-07 
+690 TAO,  Function value: 0.0206781,  Residual: 5.28014e-07 
+691 TAO,  Function value: 0.0206781,  Residual: 5.85265e-07 
+692 TAO,  Function value: 0.0206781,  Residual: 6.11227e-07 
+693 TAO,  Function value: 0.0206781,  Residual: 6.08894e-07 
+694 TAO,  Function value: 0.0206781,  Residual: 7.2983e-07 
+695 TAO,  Function value: 0.0206781,  Residual: 7.43219e-07 
+696 TAO,  Function value: 0.0206781,  Residual: 7.37557e-07 
+697 TAO,  Function value: 0.0206781,  Residual: 8.21323e-07 
+698 TAO,  Function value: 0.0206781,  Residual: 9.30461e-07 
+699 TAO,  Function value: 0.0206781,  Residual: 9.59269e-07 
+700 TAO,  Function value: 0.0206781,  Residual: 9.64832e-07 
+701 TAO,  Function value: 0.0206781,  Residual: 8.9574e-07 
+702 TAO,  Function value: 0.0206781,  Residual: 9.15141e-07 
+703 TAO,  Function value: 0.0206781,  Residual: 8.91014e-07 
+704 TAO,  Function value: 0.0206781,  Residual: 8.63251e-07 
+705 TAO,  Function value: 0.0206781,  Residual: 8.59967e-07 
+706 TAO,  Function value: 0.0206781,  Residual: 8.59116e-07 
+707 TAO,  Function value: 0.0206781,  Residual: 8.5474e-07 
+708 TAO,  Function value: 0.0206781,  Residual: 8.64954e-07 
+709 TAO,  Function value: 0.0206781,  Residual: 8.76921e-07 
+710 TAO,  Function value: 0.020678,  Residual: 8.49241e-07 
+711 TAO,  Function value: 0.020678,  Residual: 8.26287e-07 
+712 TAO,  Function value: 0.020678,  Residual: 9.36746e-07 
+713 TAO,  Function value: 0.020678,  Residual: 7.67911e-07 
+714 TAO,  Function value: 0.020678,  Residual: 7.02978e-07 
+715 TAO,  Function value: 0.020678,  Residual: 6.80968e-07 
+716 TAO,  Function value: 0.020678,  Residual: 6.70896e-07 
+717 TAO,  Function value: 0.020678,  Residual: 6.81152e-07 
+718 TAO,  Function value: 0.020678,  Residual: 6.14225e-07 
+719 TAO,  Function value: 0.020678,  Residual: 5.8392e-07 
+720 TAO,  Function value: 0.020678,  Residual: 5.55522e-07 
+721 TAO,  Function value: 0.020678,  Residual: 5.8237e-07 
+722 TAO,  Function value: 0.020678,  Residual: 5.22559e-07 
+723 TAO,  Function value: 0.020678,  Residual: 5.11321e-07 
+724 TAO,  Function value: 0.020678,  Residual: 5.08324e-07 
+725 TAO,  Function value: 0.020678,  Residual: 5.24173e-07 
+726 TAO,  Function value: 0.020678,  Residual: 5.1338e-07 
+727 TAO,  Function value: 0.020678,  Residual: 5.1542e-07 
+728 TAO,  Function value: 0.020678,  Residual: 5.25025e-07 
+729 TAO,  Function value: 0.0206779,  Residual: 5.75126e-07 
+730 TAO,  Function value: 0.0206779,  Residual: 5.57909e-07 
+731 TAO,  Function value: 0.0206779,  Residual: 5.3861e-07 
+732 TAO,  Function value: 0.0206779,  Residual: 5.37291e-07 
+733 TAO,  Function value: 0.0206779,  Residual: 5.55129e-07 
+734 TAO,  Function value: 0.0206779,  Residual: 5.25283e-07 
+735 TAO,  Function value: 0.0206779,  Residual: 5.22936e-07 
+736 TAO,  Function value: 0.0206779,  Residual: 5.4116e-07 
+737 TAO,  Function value: 0.0206779,  Residual: 5.94543e-07 
+738 TAO,  Function value: 0.0206779,  Residual: 8.14833e-07 
+739 TAO,  Function value: 0.0206779,  Residual: 6.82349e-07 
+740 TAO,  Function value: 0.0206779,  Residual: 5.42799e-07 
+741 TAO,  Function value: 0.0206779,  Residual: 6.72947e-07 
+742 TAO,  Function value: 0.0206779,  Residual: 5.9379e-07 
+743 TAO,  Function value: 0.0206779,  Residual: 4.56808e-07 
+744 TAO,  Function value: 0.0206779,  Residual: 3.49584e-07 
+745 TAO,  Function value: 0.0206778,  Residual: 3.77137e-07 
+746 TAO,  Function value: 0.0206778,  Residual: 3.31687e-07 
+747 TAO,  Function value: 0.0206778,  Residual: 2.7733e-07 
+748 TAO,  Function value: 0.0206778,  Residual: 2.59638e-07 
+749 TAO,  Function value: 0.0206778,  Residual: 1.7321e-07 
+750 TAO,  Function value: 0.0206778,  Residual: 1.41979e-07 
+751 TAO,  Function value: 0.0206778,  Residual: 1.15691e-07 
+752 TAO,  Function value: 0.0206778,  Residual: 1.18564e-07 
+753 TAO,  Function value: 0.0206778,  Residual: 1.02297e-07 
+754 TAO,  Function value: 0.0206778,  Residual: 9.77777e-08 
+755 TAO,  Function value: 0.0206778,  Residual: 9.20045e-08 
+756 TAO,  Function value: 0.0206778,  Residual: 9.64053e-08 
+757 TAO,  Function value: 0.0206778,  Residual: 8.39539e-08 
+758 TAO,  Function value: 0.0206778,  Residual: 8.18092e-08 
+759 TAO,  Function value: 0.0206778,  Residual: 7.92168e-08 
+760 TAO,  Function value: 0.0206778,  Residual: 7.57381e-08 
+761 TAO,  Function value: 0.0206778,  Residual: 7.79387e-08 
+762 TAO,  Function value: 0.0206778,  Residual: 6.85307e-08 
+763 TAO,  Function value: 0.0206778,  Residual: 6.6689e-08 
+764 TAO,  Function value: 0.0206778,  Residual: 6.59013e-08 
+765 TAO,  Function value: 0.0206778,  Residual: 7.28586e-08 
+766 TAO,  Function value: 0.0206778,  Residual: 6.49279e-08 
+767 TAO,  Function value: 0.0206778,  Residual: 6.41293e-08 
+768 TAO,  Function value: 0.0206778,  Residual: 6.56431e-08 
+769 TAO,  Function value: 0.0206778,  Residual: 6.95584e-08 
+770 TAO,  Function value: 0.0206778,  Residual: 9.32064e-08 
+771 TAO,  Function value: 0.0206778,  Residual: 8.65494e-08 
+772 TAO,  Function value: 0.0206778,  Residual: 8.92916e-08 
+773 TAO,  Function value: 0.0206778,  Residual: 1.06648e-07 
+774 TAO,  Function value: 0.0206778,  Residual: 1.55904e-07 
+775 TAO,  Function value: 0.0206778,  Residual: 3.62503e-07 
+776 TAO,  Function value: 0.0206778,  Residual: 4.17151e-07 
+777 TAO,  Function value: 0.0206778,  Residual: 4.17973e-07 
+778 TAO,  Function value: 0.0206778,  Residual: 5.1033e-07 
+779 TAO,  Function value: 0.0206778,  Residual: 5.28239e-07 
+780 TAO,  Function value: 0.0206778,  Residual: 4.89506e-07 
+781 TAO,  Function value: 0.0206778,  Residual: 4.32646e-07 
+782 TAO,  Function value: 0.0206778,  Residual: 3.95842e-07 
+783 TAO,  Function value: 0.0206778,  Residual: 4.30562e-07 
+784 TAO,  Function value: 0.0206778,  Residual: 4.22961e-07 
+785 TAO,  Function value: 0.0206778,  Residual: 3.93149e-07 
+786 TAO,  Function value: 0.0206778,  Residual: 3.89397e-07 
+787 TAO,  Function value: 0.0206778,  Residual: 4.69418e-07 
+788 TAO,  Function value: 0.0206778,  Residual: 4.48e-07 
+789 TAO,  Function value: 0.0206778,  Residual: 4.63417e-07 
+790 TAO,  Function value: 0.0206778,  Residual: 5.03798e-07 
+791 TAO,  Function value: 0.0206778,  Residual: 5.88936e-07 
+792 TAO,  Function value: 0.0206778,  Residual: 5.76977e-07 
+793 TAO,  Function value: 0.0206778,  Residual: 5.74554e-07 
+794 TAO,  Function value: 0.0206778,  Residual: 5.99006e-07 
+795 TAO,  Function value: 0.0206778,  Residual: 6.57659e-07 
+796 TAO,  Function value: 0.0206778,  Residual: 8.38871e-07 
+797 TAO,  Function value: 0.0206778,  Residual: 9.57599e-07 
+798 TAO,  Function value: 0.0206777,  Residual: 1.20915e-06 
+799 TAO,  Function value: 0.0206777,  Residual: 1.3753e-06 
+800 TAO,  Function value: 0.0206777,  Residual: 1.65279e-06 
+801 TAO,  Function value: 0.0206776,  Residual: 1.1284e-06 
+802 TAO,  Function value: 0.0206776,  Residual: 8.52419e-07 
+803 TAO,  Function value: 0.0206775,  Residual: 7.66506e-07 
+804 TAO,  Function value: 0.0206775,  Residual: 7.09498e-07 
+805 TAO,  Function value: 0.0206775,  Residual: 6.64283e-07 
+806 TAO,  Function value: 0.0206775,  Residual: 6.43532e-07 
+807 TAO,  Function value: 0.0206775,  Residual: 6.39483e-07 
+808 TAO,  Function value: 0.0206775,  Residual: 6.52173e-07 
+809 TAO,  Function value: 0.0206775,  Residual: 6.55145e-07 
+810 TAO,  Function value: 0.0206775,  Residual: 6.63049e-07 
+811 TAO,  Function value: 0.0206775,  Residual: 6.9857e-07 
+812 TAO,  Function value: 0.0206775,  Residual: 8.12738e-07 
+813 TAO,  Function value: 0.0206775,  Residual: 8.23857e-07 
+814 TAO,  Function value: 0.0206775,  Residual: 9.08667e-07 
+815 TAO,  Function value: 0.0206775,  Residual: 1.0498e-06 
+816 TAO,  Function value: 0.0206775,  Residual: 1.39193e-06 
+817 TAO,  Function value: 0.0206774,  Residual: 1.43263e-06 
+818 TAO,  Function value: 0.0206774,  Residual: 1.1876e-06 
+819 TAO,  Function value: 0.0206774,  Residual: 1.16945e-06 
+820 TAO,  Function value: 0.0206774,  Residual: 1.17839e-06 
+821 TAO,  Function value: 0.0206774,  Residual: 1.1986e-06 
+822 TAO,  Function value: 0.0206774,  Residual: 1.20755e-06 
+823 TAO,  Function value: 0.0206774,  Residual: 1.21625e-06 
+824 TAO,  Function value: 0.0206774,  Residual: 1.22523e-06 
+825 TAO,  Function value: 0.0206774,  Residual: 1.25042e-06 
+826 TAO,  Function value: 0.0206774,  Residual: 1.32195e-06 
+827 TAO,  Function value: 0.0206774,  Residual: 1.38351e-06 
+828 TAO,  Function value: 0.0206774,  Residual: 1.61644e-06 
+829 TAO,  Function value: 0.0206773,  Residual: 2.16596e-06 
+830 TAO,  Function value: 0.0206773,  Residual: 1.99699e-06 
+831 TAO,  Function value: 0.0206773,  Residual: 1.89482e-06 
+832 TAO,  Function value: 0.0206772,  Residual: 1.85996e-06 
+833 TAO,  Function value: 0.020677,  Residual: 2.00999e-06 
+834 TAO,  Function value: 0.0206769,  Residual: 2.18235e-06 
+835 TAO,  Function value: 0.0206768,  Residual: 1.97476e-06 
+836 TAO,  Function value: 0.0206768,  Residual: 1.97854e-06 
+837 TAO,  Function value: 0.0206767,  Residual: 1.90197e-06 
+838 TAO,  Function value: 0.0206767,  Residual: 1.77739e-06 
+839 TAO,  Function value: 0.0206767,  Residual: 1.61342e-06 
+840 TAO,  Function value: 0.0206766,  Residual: 1.49163e-06 
+841 TAO,  Function value: 0.0206766,  Residual: 1.43315e-06 
+842 TAO,  Function value: 0.0206766,  Residual: 1.36414e-06 
+843 TAO,  Function value: 0.0206766,  Residual: 1.35713e-06 
+844 TAO,  Function value: 0.0206766,  Residual: 1.34704e-06 
+845 TAO,  Function value: 0.0206766,  Residual: 1.41123e-06 
+846 TAO,  Function value: 0.0206766,  Residual: 1.37035e-06 
+847 TAO,  Function value: 0.0206766,  Residual: 1.37619e-06 
+848 TAO,  Function value: 0.0206766,  Residual: 1.42156e-06 
+849 TAO,  Function value: 0.0206765,  Residual: 1.54729e-06 
+850 TAO,  Function value: 0.0206765,  Residual: 1.84581e-06 
+851 TAO,  Function value: 0.0206765,  Residual: 1.70224e-06 
+852 TAO,  Function value: 0.0206765,  Residual: 1.67512e-06 
+853 TAO,  Function value: 0.0206764,  Residual: 1.78352e-06 
+854 TAO,  Function value: 0.0206764,  Residual: 2.01564e-06 
+855 TAO,  Function value: 0.0206764,  Residual: 2.09468e-06 
+856 TAO,  Function value: 0.0206764,  Residual: 2.11821e-06 
+857 TAO,  Function value: 0.0206763,  Residual: 2.19499e-06 
+858 TAO,  Function value: 0.0206763,  Residual: 2.29841e-06 
+859 TAO,  Function value: 0.0206763,  Residual: 2.35663e-06 
+860 TAO,  Function value: 0.0206763,  Residual: 2.54899e-06 
+861 TAO,  Function value: 0.0206763,  Residual: 2.55906e-06 
+862 TAO,  Function value: 0.0206762,  Residual: 2.48746e-06 
+863 TAO,  Function value: 0.0206762,  Residual: 2.32974e-06 
+864 TAO,  Function value: 0.0206761,  Residual: 2.37603e-06 
+865 TAO,  Function value: 0.020676,  Residual: 2.1102e-06 
+866 TAO,  Function value: 0.0206759,  Residual: 1.92248e-06 
+867 TAO,  Function value: 0.0206759,  Residual: 1.85291e-06 
+868 TAO,  Function value: 0.0206759,  Residual: 1.86731e-06 
+869 TAO,  Function value: 0.0206758,  Residual: 1.69197e-06 
+870 TAO,  Function value: 0.0206758,  Residual: 1.64002e-06 
+871 TAO,  Function value: 0.0206758,  Residual: 1.56728e-06 
+872 TAO,  Function value: 0.0206758,  Residual: 1.57744e-06 
+873 TAO,  Function value: 0.0206758,  Residual: 1.45074e-06 
+874 TAO,  Function value: 0.0206758,  Residual: 1.42106e-06 
+875 TAO,  Function value: 0.0206758,  Residual: 1.37918e-06 
+876 TAO,  Function value: 0.0206758,  Residual: 1.34927e-06 
+877 TAO,  Function value: 0.0206758,  Residual: 1.47618e-06 
+878 TAO,  Function value: 0.0206757,  Residual: 1.27683e-06 
+879 TAO,  Function value: 0.0206757,  Residual: 1.24474e-06 
+880 TAO,  Function value: 0.0206757,  Residual: 1.22096e-06 
+881 TAO,  Function value: 0.0206757,  Residual: 1.29943e-06 
+882 TAO,  Function value: 0.0206756,  Residual: 1.04401e-06 
+883 TAO,  Function value: 0.0206756,  Residual: 9.23287e-07 
+884 TAO,  Function value: 0.0206756,  Residual: 8.67112e-07 
+885 TAO,  Function value: 0.0206756,  Residual: 8.69866e-07 
+886 TAO,  Function value: 0.0206756,  Residual: 8.07328e-07 
+887 TAO,  Function value: 0.0206756,  Residual: 7.91767e-07 
+888 TAO,  Function value: 0.0206756,  Residual: 7.85603e-07 
+889 TAO,  Function value: 0.0206756,  Residual: 8.50975e-07 
+890 TAO,  Function value: 0.0206756,  Residual: 7.99748e-07 
+891 TAO,  Function value: 0.0206756,  Residual: 7.99843e-07 
+892 TAO,  Function value: 0.0206756,  Residual: 8.13296e-07 
+893 TAO,  Function value: 0.0206756,  Residual: 8.43644e-07 
+894 TAO,  Function value: 0.0206756,  Residual: 8.83691e-07 
+895 TAO,  Function value: 0.0206756,  Residual: 9.04353e-07 
+896 TAO,  Function value: 0.0206756,  Residual: 9.47745e-07 
+897 TAO,  Function value: 0.0206755,  Residual: 1.04181e-06 
+898 TAO,  Function value: 0.0206755,  Residual: 1.11826e-06 
+899 TAO,  Function value: 0.0206755,  Residual: 9.97704e-07 
+900 TAO,  Function value: 0.0206754,  Residual: 9.23161e-07 
+901 TAO,  Function value: 0.0206754,  Residual: 1.02572e-06 
+902 TAO,  Function value: 0.0206754,  Residual: 9.75711e-07 
+903 TAO,  Function value: 0.0206754,  Residual: 9.80936e-07 
+904 TAO,  Function value: 0.0206754,  Residual: 1.07967e-06 
+905 TAO,  Function value: 0.0206753,  Residual: 1.54908e-06 
+906 TAO,  Function value: 0.0206753,  Residual: 1.6544e-06 
+907 TAO,  Function value: 0.0206753,  Residual: 1.67048e-06 
+908 TAO,  Function value: 0.0206753,  Residual: 1.61003e-06 
+909 TAO,  Function value: 0.0206753,  Residual: 1.52847e-06 
+910 TAO,  Function value: 0.0206753,  Residual: 1.52259e-06 
+911 TAO,  Function value: 0.0206753,  Residual: 1.45018e-06 
+912 TAO,  Function value: 0.0206753,  Residual: 1.45395e-06 
+913 TAO,  Function value: 0.0206752,  Residual: 1.4087e-06 
+914 TAO,  Function value: 0.0206752,  Residual: 1.30928e-06 
+915 TAO,  Function value: 0.0206752,  Residual: 1.26987e-06 
+916 TAO,  Function value: 0.0206752,  Residual: 1.24832e-06 
+917 TAO,  Function value: 0.0206752,  Residual: 1.24569e-06 
+918 TAO,  Function value: 0.0206752,  Residual: 1.27665e-06 
+919 TAO,  Function value: 0.0206752,  Residual: 1.35659e-06 
+920 TAO,  Function value: 0.0206752,  Residual: 1.57769e-06 
+921 TAO,  Function value: 0.0206752,  Residual: 1.59176e-06 
+922 TAO,  Function value: 0.0206751,  Residual: 1.45525e-06 
+923 TAO,  Function value: 0.0206751,  Residual: 1.41729e-06 
+924 TAO,  Function value: 0.020675,  Residual: 1.11815e-06 
+925 TAO,  Function value: 0.020675,  Residual: 9.32441e-07 
+926 TAO,  Function value: 0.020675,  Residual: 8.70179e-07 
+927 TAO,  Function value: 0.0206749,  Residual: 9.60852e-07 
+928 TAO,  Function value: 0.0206749,  Residual: 1.03171e-06 
+929 TAO,  Function value: 0.0206749,  Residual: 9.57605e-07 
+930 TAO,  Function value: 0.0206749,  Residual: 9.46709e-07 
+931 TAO,  Function value: 0.0206749,  Residual: 9.61688e-07 
+932 TAO,  Function value: 0.0206749,  Residual: 1.00881e-06 
+933 TAO,  Function value: 0.0206749,  Residual: 1.05681e-06 
+934 TAO,  Function value: 0.0206749,  Residual: 1.03876e-06 
+935 TAO,  Function value: 0.0206749,  Residual: 9.52293e-07 
+936 TAO,  Function value: 0.0206749,  Residual: 8.91734e-07 
+937 TAO,  Function value: 0.0206748,  Residual: 5.26698e-07 
+938 TAO,  Function value: 0.0206748,  Residual: 3.83603e-07 
+939 TAO,  Function value: 0.0206748,  Residual: 3.49262e-07 
+940 TAO,  Function value: 0.0206748,  Residual: 4.3932e-07 
+941 TAO,  Function value: 0.0206748,  Residual: 2.71465e-07 
+942 TAO,  Function value: 0.0206748,  Residual: 2.14355e-07 
+943 TAO,  Function value: 0.0206748,  Residual: 2.16098e-07 
+944 TAO,  Function value: 0.0206748,  Residual: 2.98157e-07 
+945 TAO,  Function value: 0.0206748,  Residual: 2.17783e-07 
+946 TAO,  Function value: 0.0206748,  Residual: 2.07423e-07 
+947 TAO,  Function value: 0.0206748,  Residual: 2.05729e-07 
+948 TAO,  Function value: 0.0206748,  Residual: 2.12467e-07 
+949 TAO,  Function value: 0.0206748,  Residual: 2.11473e-07 
+950 TAO,  Function value: 0.0206748,  Residual: 2.1462e-07 
+951 TAO,  Function value: 0.0206748,  Residual: 2.17578e-07 
+952 TAO,  Function value: 0.0206748,  Residual: 2.23783e-07 
+953 TAO,  Function value: 0.0206748,  Residual: 2.22396e-07 
+954 TAO,  Function value: 0.0206748,  Residual: 2.22304e-07 
+955 TAO,  Function value: 0.0206748,  Residual: 2.2701e-07 
+956 TAO,  Function value: 0.0206748,  Residual: 2.49134e-07 
+957 TAO,  Function value: 0.0206748,  Residual: 3.44109e-07 
+958 TAO,  Function value: 0.0206748,  Residual: 4.08892e-07 
+959 TAO,  Function value: 0.0206748,  Residual: 4.35252e-07 
+960 TAO,  Function value: 0.0206748,  Residual: 5.9542e-07 
+961 TAO,  Function value: 0.0206748,  Residual: 3.83266e-07 
+962 TAO,  Function value: 0.0206748,  Residual: 3.1208e-07 
+963 TAO,  Function value: 0.0206748,  Residual: 2.99409e-07 
+964 TAO,  Function value: 0.0206748,  Residual: 3.90717e-07 
+965 TAO,  Function value: 0.0206747,  Residual: 3.78626e-07 
+966 TAO,  Function value: 0.0206747,  Residual: 4.21043e-07 
+967 TAO,  Function value: 0.0206747,  Residual: 7.67931e-07 
+968 TAO,  Function value: 0.0206747,  Residual: 9.49577e-07 
+969 TAO,  Function value: 0.0206747,  Residual: 1.09404e-06 
+970 TAO,  Function value: 0.0206747,  Residual: 1.12189e-06 
+971 TAO,  Function value: 0.0206747,  Residual: 1.07168e-06 
+972 TAO,  Function value: 0.0206747,  Residual: 9.45814e-07 
+973 TAO,  Function value: 0.0206747,  Residual: 8.81165e-07 
+974 TAO,  Function value: 0.0206747,  Residual: 8.79518e-07 
+975 TAO,  Function value: 0.0206747,  Residual: 9.04514e-07 
+976 TAO,  Function value: 0.0206747,  Residual: 8.76575e-07 
+977 TAO,  Function value: 0.0206747,  Residual: 8.36665e-07 
+978 TAO,  Function value: 0.0206747,  Residual: 8.31923e-07 
+979 TAO,  Function value: 0.0206747,  Residual: 8.34131e-07 
+980 TAO,  Function value: 0.0206747,  Residual: 8.57403e-07 
+981 TAO,  Function value: 0.0206747,  Residual: 8.82173e-07 
+982 TAO,  Function value: 0.0206747,  Residual: 9.92832e-07 
+983 TAO,  Function value: 0.0206747,  Residual: 9.83727e-07 
+984 TAO,  Function value: 0.0206747,  Residual: 9.98322e-07 
+985 TAO,  Function value: 0.0206746,  Residual: 1.04359e-06 
+986 TAO,  Function value: 0.0206746,  Residual: 1.24642e-06 
+987 TAO,  Function value: 0.0206746,  Residual: 1.07997e-06 
+988 TAO,  Function value: 0.0206746,  Residual: 1.05274e-06 
+989 TAO,  Function value: 0.0206746,  Residual: 1.06123e-06 
+990 TAO,  Function value: 0.0206746,  Residual: 1.08643e-06 
+991 TAO,  Function value: 0.0206746,  Residual: 1.18113e-06 
+992 TAO,  Function value: 0.0206745,  Residual: 9.73978e-07 
+993 TAO,  Function value: 0.0206745,  Residual: 8.22513e-07 
+994 TAO,  Function value: 0.0206745,  Residual: 9.45573e-07 
+995 TAO,  Function value: 0.0206745,  Residual: 9.14405e-07 
+996 TAO,  Function value: 0.0206744,  Residual: 7.44683e-07 
+997 TAO,  Function value: 0.0206744,  Residual: 6.9426e-07 
+998 TAO,  Function value: 0.0206744,  Residual: 7.09457e-07 
+999 TAO,  Function value: 0.0206744,  Residual: 7.47269e-07 
+1000 TAO,  Function value: 0.0206744,  Residual: 7.27314e-07 
+1001 TAO,  Function value: 0.0206744,  Residual: 7.07755e-07 
+Tao Object: (myTAO_) 8 MPI processes
+  type: blmvm
+  Gradient steps: 40
+  TaoLineSearch Object: (myTAO_) 8 MPI processes
+    type: more-thuente
+    maximum function evaluations=30
+    tolerances: ftol=0.0001, rtol=1e-10, gtol=0.9
+    total number of function evaluations=0
+    total number of gradient evaluations=0
+    total number of function/gradient evaluations=1
+    using variable bounds
+    Termination reason: 1
+  Active Set subset type: subvec
+  convergence tolerances: gatol=5e-08,   steptol=0.,   gttol=5e-08
+  Residual in Function/Gradient:=7.07755e-07
+  Objective value=0.0206744
+  total number of iterations=1001,                          (max: 1000)
+  total number of function/gradient evaluations=1207,      (max: 4000)
+  Solver terminated: -2   Maximum Iterations
+Tao Object: (myTAO_) 8 MPI processes
+  type: blmvm
+  Gradient steps: 40
+  TaoLineSearch Object: (myTAO_) 8 MPI processes
+    type: more-thuente
+    maximum function evaluations=30
+    tolerances: ftol=0.0001, rtol=1e-10, gtol=0.9
+    total number of function evaluations=0
+    total number of gradient evaluations=0
+    total number of function/gradient evaluations=1
+    using variable bounds
+    Termination reason: 1
+  Active Set subset type: subvec
+  convergence tolerances: gatol=5e-08,   steptol=0.,   gttol=5e-08
+  Residual in Function/Gradient:=7.07755e-07
+  Objective value=0.0206744
+  total number of iterations=1001,                          (max: 1000)
+  total number of function/gradient evaluations=1207,      (max: 4000)
+  Solver terminated: -2   Maximum Iterations
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2310.000000; num_vertices = 1236.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2463.000000; num_vertices = 1305.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2321.000000; num_vertices = 1247.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2475.000000; num_vertices = 1315.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2473.000000; num_vertices = 1314.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2306.000000; num_vertices = 1236.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2473.000000; num_vertices = 1321.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2268.000000; num_vertices = 1211.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 1
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 4
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 7
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 0
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 5
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 3
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 6
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "AS_phase_field_opt.py", line 806, in <module>
+    main()
+  File "AS_phase_field_opt.py", line 138, in main
+    iter = solver_TAO_alpha.solve(problem_alpha, alpha.vector(), lb_alpha.vector(), ub_alpha.vector())
+RuntimeError: 
+
+*** -------------------------------------------------------------------------
+*** DOLFIN encountered an error. If you are not able to resolve this issue
+*** using the information listed below, you can ask for help at
+***
+***     fenics-support@googlegroups.com
+***
+*** Remember to include the error message listed below and, if possible,
+*** include a *minimal* running example to reproduce the error.
+***
+*** -------------------------------------------------------------------------
+*** Error:   Unable to solve nonlinear optimisation problem.
+*** Reason:  Solution failed to converge in 1001 iterations (TAO reason -2).
+*** Where:   This error was encountered inside PETScTAOSolver.cpp.
+*** Process: 2
+*** 
+*** DOLFIN version: 2018.1.0
+*** Git changeset:  948dc42cc4e06ed9227d0201ad50f94ac94cbf9f
+*** -------------------------------------------------------------------------
+
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0294379,  Residual: 0.000629213 
+  1 TAO,  Function value: 0.0292543,  Residual: 0.000540209 
+  2 TAO,  Function value: 0.028264,  Residual: 0.000277333 
+  3 TAO,  Function value: 0.0274668,  Residual: 0.000208481 
+  4 TAO,  Function value: 0.0257253,  Residual: 0.000164498 
+  5 TAO,  Function value: 0.0247247,  Residual: 0.000505923 
+  6 TAO,  Function value: 0.0237951,  Residual: 0.000133828 
+  7 TAO,  Function value: 0.0234206,  Residual: 0.000138832 
+  8 TAO,  Function value: 0.0230196,  Residual: 0.000239403 
+  9 TAO,  Function value: 0.0228246,  Residual: 0.000108337 
+ 10 TAO,  Function value: 0.0227235,  Residual: 9.64914e-05 
+ 11 TAO,  Function value: 0.022474,  Residual: 0.000107259 
+ 12 TAO,  Function value: 0.0222609,  Residual: 8.70915e-05 
+ 13 TAO,  Function value: 0.0221061,  Residual: 0.00010056 
+ 14 TAO,  Function value: 0.021982,  Residual: 0.000103981 
+ 15 TAO,  Function value: 0.0218671,  Residual: 8.11609e-05 
+ 16 TAO,  Function value: 0.0218167,  Residual: 8.76321e-05 
+ 17 TAO,  Function value: 0.0217438,  Residual: 7.92382e-05 
+ 18 TAO,  Function value: 0.0216411,  Residual: 7.26497e-05 
+ 19 TAO,  Function value: 0.0214784,  Residual: 6.93005e-05 
+ 20 TAO,  Function value: 0.0213139,  Residual: 5.6196e-05 
+ 21 TAO,  Function value: 0.0212131,  Residual: 4.8335e-05 
+ 22 TAO,  Function value: 0.0211649,  Residual: 4.24394e-05 
+ 23 TAO,  Function value: 0.0211199,  Residual: 3.94439e-05 
+ 24 TAO,  Function value: 0.021053,  Residual: 3.87861e-05 
+ 25 TAO,  Function value: 0.0210108,  Residual: 3.65322e-05 
+ 26 TAO,  Function value: 0.0209698,  Residual: 2.88461e-05 
+ 27 TAO,  Function value: 0.020937,  Residual: 2.18059e-05 
+ 28 TAO,  Function value: 0.020903,  Residual: 2.18163e-05 
+ 29 TAO,  Function value: 0.0208774,  Residual: 1.94922e-05 
+ 30 TAO,  Function value: 0.0208662,  Residual: 1.94537e-05 
+ 31 TAO,  Function value: 0.0208495,  Residual: 1.55202e-05 
+ 32 TAO,  Function value: 0.0208368,  Residual: 1.41238e-05 
+ 33 TAO,  Function value: 0.0208301,  Residual: 1.63839e-05 
+ 34 TAO,  Function value: 0.0208212,  Residual: 1.39333e-05 
+ 35 TAO,  Function value: 0.0208144,  Residual: 1.10668e-05 
+ 36 TAO,  Function value: 0.0208054,  Residual: 1.12029e-05 
+ 37 TAO,  Function value: 0.0207976,  Residual: 1.10646e-05 
+ 38 TAO,  Function value: 0.0207929,  Residual: 1.19302e-05 
+ 39 TAO,  Function value: 0.0207841,  Residual: 1.14651e-05 
+ 40 TAO,  Function value: 0.0207778,  Residual: 1.49061e-05 
+ 41 TAO,  Function value: 0.0207728,  Residual: 1.33498e-05 
+ 42 TAO,  Function value: 0.0207661,  Residual: 1.09872e-05 
+ 43 TAO,  Function value: 0.0207599,  Residual: 1.14715e-05 
+ 44 TAO,  Function value: 0.0207559,  Residual: 1.08459e-05 
+ 45 TAO,  Function value: 0.0207516,  Residual: 9.48872e-06 
+ 46 TAO,  Function value: 0.0207443,  Residual: 8.07723e-06 
+ 47 TAO,  Function value: 0.0207389,  Residual: 8.70919e-06 
+ 48 TAO,  Function value: 0.0207369,  Residual: 9.02895e-06 
+ 49 TAO,  Function value: 0.0207355,  Residual: 8.18582e-06 
+ 50 TAO,  Function value: 0.0207337,  Residual: 7.84954e-06 
+ 51 TAO,  Function value: 0.0207311,  Residual: 1.03977e-05 
+ 52 TAO,  Function value: 0.0207291,  Residual: 9.85148e-06 
+ 53 TAO,  Function value: 0.0207257,  Residual: 8.16698e-06 
+ 54 TAO,  Function value: 0.0207211,  Residual: 7.16407e-06 
+ 55 TAO,  Function value: 0.0207199,  Residual: 8.07958e-06 
+ 56 TAO,  Function value: 0.0207198,  Residual: 7.94099e-06 
+ 57 TAO,  Function value: 0.0207161,  Residual: 0.000233482 
+ 58 TAO,  Function value: 0.0207161,  Residual: 8.28453e-06 
+ 59 TAO,  Function value: 0.020716,  Residual: 1.16686e-05 
+ 60 TAO,  Function value: 0.020716,  Residual: 1.22232e-05 
+ 61 TAO,  Function value: 0.020716,  Residual: 1.17505e-05 
+ 62 TAO,  Function value: 0.0207159,  Residual: 9.52608e-06 
+ 63 TAO,  Function value: 0.0207159,  Residual: 0.000233264 
+ 64 TAO,  Function value: 0.0207157,  Residual: 0.000233398 
+ 65 TAO,  Function value: 0.0207156,  Residual: 0.000233363 
+ 66 TAO,  Function value: 0.0207148,  Residual: 1.63017e-05 
+ 67 TAO,  Function value: 0.0207148,  Residual: 1.38943e-05 
+ 68 TAO,  Function value: 0.0207147,  Residual: 9.88023e-06 
+ 69 TAO,  Function value: 0.0207147,  Residual: 4.67801e-06 
+ 70 TAO,  Function value: 0.0207147,  Residual: 0.000233179 
+ 71 TAO,  Function value: 0.0207147,  Residual: 0.000233173 
+ 72 TAO,  Function value: 0.0207144,  Residual: 0.000233074 
+ 73 TAO,  Function value: 0.020714,  Residual: 3.80081e-06 
+ 74 TAO,  Function value: 0.020714,  Residual: 9.47084e-06 
+ 75 TAO,  Function value: 0.0207127,  Residual: 5.61229e-06 
+ 76 TAO,  Function value: 0.0207124,  Residual: 5.05375e-06 
+ 77 TAO,  Function value: 0.0207116,  Residual: 0.00023285 
+ 78 TAO,  Function value: 0.0207116,  Residual: 2.73389e-06 
+ 79 TAO,  Function value: 0.0207116,  Residual: 2.61263e-06 
+ 80 TAO,  Function value: 0.0207116,  Residual: 6.26509e-06 
+ 81 TAO,  Function value: 0.0207116,  Residual: 4.58638e-06 
+ 82 TAO,  Function value: 0.0207116,  Residual: 2.43794e-06 
+ 83 TAO,  Function value: 0.0207114,  Residual: 0.000232801 
+ 84 TAO,  Function value: 0.020711,  Residual: 0.000232183 
+ 85 TAO,  Function value: 0.020711,  Residual: 0.000232705 
+ 86 TAO,  Function value: 0.020711,  Residual: 0.00023219 
+ 87 TAO,  Function value: 0.0207109,  Residual: 0.000232051 
+ 88 TAO,  Function value: 0.0207107,  Residual: 3.74728e-05 
+ 89 TAO,  Function value: 0.02071,  Residual: 0.000231268 
+ 90 TAO,  Function value: 0.0207097,  Residual: 3.24221e-05 
+ 91 TAO,  Function value: 0.0207096,  Residual: 3.04828e-05 
+ 92 TAO,  Function value: 0.0207094,  Residual: 2.56778e-05 
+ 93 TAO,  Function value: 0.0207087,  Residual: 0.000226545 
+ 94 TAO,  Function value: 0.0207082,  Residual: 7.14523e-05 
+ 95 TAO,  Function value: 0.0207082,  Residual: 3.93035e-05 
+ 96 TAO,  Function value: 0.0207081,  Residual: 2.11973e-05 
+ 97 TAO,  Function value: 0.0207081,  Residual: 5.48044e-06 
+ 98 TAO,  Function value: 0.0207081,  Residual: 3.31554e-05 
+ 99 TAO,  Function value: 0.0207081,  Residual: 3.31724e-05 
+100 TAO,  Function value: 0.0207078,  Residual: 1.7418e-05 
+101 TAO,  Function value: 0.0207071,  Residual: 2.08374e-05 
+102 TAO,  Function value: 0.0207065,  Residual: 3.6972e-06 
+103 TAO,  Function value: 0.020706,  Residual: 1.7361e-05 
+104 TAO,  Function value: 0.0207058,  Residual: 4.75208e-06 
+105 TAO,  Function value: 0.0207058,  Residual: 1.20473e-05 
+106 TAO,  Function value: 0.0207055,  Residual: 3.70724e-06 
+107 TAO,  Function value: 0.0207052,  Residual: 3.17911e-06 
+108 TAO,  Function value: 0.0207048,  Residual: 3.46049e-06 
+109 TAO,  Function value: 0.0207045,  Residual: 3.08856e-06 
+110 TAO,  Function value: 0.0207042,  Residual: 2.84029e-06 
+111 TAO,  Function value: 0.0207038,  Residual: 2.75273e-06 
+112 TAO,  Function value: 0.0207035,  Residual: 3.74393e-06 
+113 TAO,  Function value: 0.0207031,  Residual: 3.286e-06 
+114 TAO,  Function value: 0.0207028,  Residual: 2.93526e-06 
+115 TAO,  Function value: 0.0207025,  Residual: 3.2499e-06 
+116 TAO,  Function value: 0.0207023,  Residual: 3.74491e-06 
+117 TAO,  Function value: 0.0207022,  Residual: 3.61569e-06 
+118 TAO,  Function value: 0.0207019,  Residual: 3.63711e-06 
+119 TAO,  Function value: 0.0207017,  Residual: 3.62535e-06 
+120 TAO,  Function value: 0.0207015,  Residual: 3.60769e-06 
+121 TAO,  Function value: 0.0207013,  Residual: 3.4811e-06 
+122 TAO,  Function value: 0.0207011,  Residual: 3.37345e-06 
+123 TAO,  Function value: 0.0207008,  Residual: 3.86721e-06 
+124 TAO,  Function value: 0.0207006,  Residual: 3.43908e-06 
+125 TAO,  Function value: 0.0207004,  Residual: 3.18068e-06 
+126 TAO,  Function value: 0.0207002,  Residual: 3.14082e-06 
+127 TAO,  Function value: 0.0206999,  Residual: 3.50034e-06 
+128 TAO,  Function value: 0.0206997,  Residual: 3.56919e-06 
+129 TAO,  Function value: 0.0206993,  Residual: 3.78417e-06 
+130 TAO,  Function value: 0.0206991,  Residual: 4.28024e-06 
+131 TAO,  Function value: 0.0206989,  Residual: 3.83997e-06 
+132 TAO,  Function value: 0.0206986,  Residual: 3.89625e-06 
+133 TAO,  Function value: 0.0206984,  Residual: 4.52023e-06 
+134 TAO,  Function value: 0.0206979,  Residual: 4.84878e-06 
+135 TAO,  Function value: 0.0206979,  Residual: 5.49621e-06 
+136 TAO,  Function value: 0.0206976,  Residual: 5.37258e-06 
+137 TAO,  Function value: 0.0206975,  Residual: 5.23594e-06 
+138 TAO,  Function value: 0.0206973,  Residual: 5.02674e-06 
+139 TAO,  Function value: 0.020697,  Residual: 4.62882e-06 
+140 TAO,  Function value: 0.0206964,  Residual: 4.09495e-06 
+141 TAO,  Function value: 0.020696,  Residual: 3.48069e-06 
+142 TAO,  Function value: 0.0206957,  Residual: 3.10367e-06 
+143 TAO,  Function value: 0.0206955,  Residual: 2.58609e-06 
+144 TAO,  Function value: 0.0206953,  Residual: 2.33316e-06 
+145 TAO,  Function value: 0.0206952,  Residual: 2.30202e-06 
+146 TAO,  Function value: 0.020695,  Residual: 2.31136e-06 
+147 TAO,  Function value: 0.0206949,  Residual: 2.40992e-06 
+148 TAO,  Function value: 0.0206948,  Residual: 2.51247e-06 
+149 TAO,  Function value: 0.0206946,  Residual: 3.10485e-06 
+150 TAO,  Function value: 0.0206944,  Residual: 4.55263e-06 
+151 TAO,  Function value: 0.0206937,  Residual: 7.96114e-06 
+152 TAO,  Function value: 0.0206934,  Residual: 9.94715e-06 
+153 TAO,  Function value: 0.0206931,  Residual: 9.95549e-06 
+154 TAO,  Function value: 0.0206922,  Residual: 9.10825e-06 
+155 TAO,  Function value: 0.0206913,  Residual: 8.72363e-06 
+156 TAO,  Function value: 0.020691,  Residual: 8.39059e-06 
+157 TAO,  Function value: 0.0206901,  Residual: 7.8536e-06 
+158 TAO,  Function value: 0.0206892,  Residual: 6.85494e-06 
+159 TAO,  Function value: 0.0206882,  Residual: 5.89846e-06 
+160 TAO,  Function value: 0.0206874,  Residual: 5.41061e-06 
+161 TAO,  Function value: 0.020687,  Residual: 4.86972e-06 
+162 TAO,  Function value: 0.0206868,  Residual: 4.47741e-06 
+163 TAO,  Function value: 0.0206865,  Residual: 3.93543e-06 
+164 TAO,  Function value: 0.0206862,  Residual: 3.66383e-06 
+165 TAO,  Function value: 0.0206861,  Residual: 3.83577e-06 
+166 TAO,  Function value: 0.0206859,  Residual: 3.40453e-06 
+167 TAO,  Function value: 0.0206858,  Residual: 3.29466e-06 
+168 TAO,  Function value: 0.0206856,  Residual: 3.28935e-06 
+169 TAO,  Function value: 0.0206856,  Residual: 3.73587e-06 
+170 TAO,  Function value: 0.0206854,  Residual: 3.20272e-06 
+171 TAO,  Function value: 0.0206853,  Residual: 3.09516e-06 
+172 TAO,  Function value: 0.0206852,  Residual: 3.06606e-06 
+173 TAO,  Function value: 0.020685,  Residual: 3.29703e-06 
+174 TAO,  Function value: 0.0206848,  Residual: 3.01368e-06 
+175 TAO,  Function value: 0.0206847,  Residual: 2.81942e-06 
+176 TAO,  Function value: 0.0206845,  Residual: 2.74101e-06 
+177 TAO,  Function value: 0.0206845,  Residual: 3.18293e-06 
+178 TAO,  Function value: 0.0206843,  Residual: 2.73349e-06 
+179 TAO,  Function value: 0.0206842,  Residual: 2.62846e-06 
+180 TAO,  Function value: 0.0206842,  Residual: 2.66034e-06 
+181 TAO,  Function value: 0.020684,  Residual: 2.85236e-06 
+182 TAO,  Function value: 0.0206839,  Residual: 3.10997e-06 
+183 TAO,  Function value: 0.0206838,  Residual: 2.60402e-06 
+184 TAO,  Function value: 0.0206836,  Residual: 2.43296e-06 
+185 TAO,  Function value: 0.0206835,  Residual: 2.34443e-06 
+186 TAO,  Function value: 0.0206835,  Residual: 3.19106e-06 
+187 TAO,  Function value: 0.0206833,  Residual: 2.23634e-06 
+188 TAO,  Function value: 0.0206832,  Residual: 2.08781e-06 
+189 TAO,  Function value: 0.0206832,  Residual: 2.02441e-06 
+190 TAO,  Function value: 0.0206831,  Residual: 2.00389e-06 
+191 TAO,  Function value: 0.020683,  Residual: 2.25275e-06 
+192 TAO,  Function value: 0.0206829,  Residual: 2.35735e-06 
+193 TAO,  Function value: 0.0206828,  Residual: 3.2683e-06 
+194 TAO,  Function value: 0.0206828,  Residual: 3.05974e-06 
+195 TAO,  Function value: 0.0206827,  Residual: 2.90653e-06 
+196 TAO,  Function value: 0.0206826,  Residual: 3.51247e-06 
+197 TAO,  Function value: 0.0206826,  Residual: 3.23773e-06 
+198 TAO,  Function value: 0.0206825,  Residual: 3.24941e-06 
+199 TAO,  Function value: 0.0206823,  Residual: 3.41207e-06 
+200 TAO,  Function value: 0.0206821,  Residual: 3.54736e-06 
+201 TAO,  Function value: 0.0206819,  Residual: 3.67607e-06 
+202 TAO,  Function value: 0.0206819,  Residual: 3.72773e-06 
+203 TAO,  Function value: 0.0206818,  Residual: 3.95241e-06 
+204 TAO,  Function value: 0.0206818,  Residual: 3.84657e-06 
+205 TAO,  Function value: 0.0206818,  Residual: 3.77773e-06 
+206 TAO,  Function value: 0.0206817,  Residual: 3.51397e-06 
+207 TAO,  Function value: 0.0206815,  Residual: 3.29836e-06 
+208 TAO,  Function value: 0.0206812,  Residual: 2.91729e-06 
+209 TAO,  Function value: 0.0206809,  Residual: 2.44995e-06 
+210 TAO,  Function value: 0.0206807,  Residual: 2.20275e-06 
+211 TAO,  Function value: 0.0206806,  Residual: 1.93309e-06 
+212 TAO,  Function value: 0.0206806,  Residual: 1.818e-06 
+213 TAO,  Function value: 0.0206805,  Residual: 1.74734e-06 
+214 TAO,  Function value: 0.0206804,  Residual: 1.74394e-06 
+215 TAO,  Function value: 0.0206803,  Residual: 1.41866e-06 
+216 TAO,  Function value: 0.0206803,  Residual: 1.29006e-06 
+217 TAO,  Function value: 0.0206802,  Residual: 1.2364e-06 
+218 TAO,  Function value: 0.0206802,  Residual: 1.237e-06 
+219 TAO,  Function value: 0.0206801,  Residual: 1.00689e-06 
+220 TAO,  Function value: 0.0206801,  Residual: 9.16681e-07 
+221 TAO,  Function value: 0.0206801,  Residual: 9.97191e-07 
+222 TAO,  Function value: 0.02068,  Residual: 1.0745e-06 
+223 TAO,  Function value: 0.02068,  Residual: 9.83577e-07 
+224 TAO,  Function value: 0.02068,  Residual: 1.146e-06 
+225 TAO,  Function value: 0.02068,  Residual: 1.35219e-06 
+226 TAO,  Function value: 0.0206799,  Residual: 1.74681e-06 
+227 TAO,  Function value: 0.0206799,  Residual: 1.97335e-06 
+228 TAO,  Function value: 0.0206798,  Residual: 1.76523e-06 
+229 TAO,  Function value: 0.0206798,  Residual: 1.5675e-06 
+230 TAO,  Function value: 0.0206797,  Residual: 1.46269e-06 
+231 TAO,  Function value: 0.0206796,  Residual: 1.45444e-06 
+232 TAO,  Function value: 0.0206796,  Residual: 1.48235e-06 
+233 TAO,  Function value: 0.0206795,  Residual: 1.23417e-06 
+234 TAO,  Function value: 0.0206795,  Residual: 1.12824e-06 
+235 TAO,  Function value: 0.0206795,  Residual: 1.04739e-06 
+236 TAO,  Function value: 0.0206794,  Residual: 1.01892e-06 
+237 TAO,  Function value: 0.0206794,  Residual: 8.58783e-07 
+238 TAO,  Function value: 0.0206794,  Residual: 7.48847e-07 
+239 TAO,  Function value: 0.0206794,  Residual: 7.26262e-07 
+240 TAO,  Function value: 0.0206794,  Residual: 7.78173e-07 
+241 TAO,  Function value: 0.0206794,  Residual: 8.61223e-07 
+242 TAO,  Function value: 0.0206793,  Residual: 8.3557e-07 
+243 TAO,  Function value: 0.0206793,  Residual: 8.10959e-07 
+244 TAO,  Function value: 0.0206793,  Residual: 8.18412e-07 
+245 TAO,  Function value: 0.0206793,  Residual: 7.69609e-07 
+246 TAO,  Function value: 0.0206793,  Residual: 7.86431e-07 
+247 TAO,  Function value: 0.0206793,  Residual: 8.65309e-07 
+248 TAO,  Function value: 0.0206793,  Residual: 9.90991e-07 
+249 TAO,  Function value: 0.0206792,  Residual: 1.00204e-06 
+250 TAO,  Function value: 0.0206792,  Residual: 7.60706e-07 
+251 TAO,  Function value: 0.0206791,  Residual: 6.57619e-07 
+252 TAO,  Function value: 0.0206791,  Residual: 7.11113e-07 
+253 TAO,  Function value: 0.0206791,  Residual: 4.50852e-07 
+254 TAO,  Function value: 0.0206791,  Residual: 3.82582e-07 
+255 TAO,  Function value: 0.0206791,  Residual: 3.4279e-07 
+256 TAO,  Function value: 0.0206791,  Residual: 3.08177e-07 
+257 TAO,  Function value: 0.0206791,  Residual: 3.35957e-07 
+258 TAO,  Function value: 0.0206791,  Residual: 2.4053e-07 
+259 TAO,  Function value: 0.0206791,  Residual: 2.2857e-07 
+260 TAO,  Function value: 0.0206791,  Residual: 2.23257e-07 
+261 TAO,  Function value: 0.0206791,  Residual: 2.70343e-07 
+262 TAO,  Function value: 0.0206791,  Residual: 2.34726e-07 
+263 TAO,  Function value: 0.0206791,  Residual: 2.1775e-07 
+264 TAO,  Function value: 0.0206791,  Residual: 2.23287e-07 
+265 TAO,  Function value: 0.0206791,  Residual: 3.20067e-07 
+266 TAO,  Function value: 0.0206791,  Residual: 2.83198e-07 
+267 TAO,  Function value: 0.0206791,  Residual: 3.02068e-07 
+268 TAO,  Function value: 0.0206791,  Residual: 3.4419e-07 
+269 TAO,  Function value: 0.0206791,  Residual: 4.2217e-07 
+270 TAO,  Function value: 0.0206791,  Residual: 4.84587e-07 
+271 TAO,  Function value: 0.0206791,  Residual: 4.90557e-07 
+272 TAO,  Function value: 0.0206791,  Residual: 5.58995e-07 
+273 TAO,  Function value: 0.0206791,  Residual: 8.79236e-07 
+274 TAO,  Function value: 0.020679,  Residual: 9.47616e-07 
+275 TAO,  Function value: 0.020679,  Residual: 9.5994e-07 
+276 TAO,  Function value: 0.020679,  Residual: 9.4198e-07 
+277 TAO,  Function value: 0.020679,  Residual: 1.00599e-06 
+278 TAO,  Function value: 0.020679,  Residual: 1.30669e-06 
+279 TAO,  Function value: 0.020679,  Residual: 1.06926e-06 
+280 TAO,  Function value: 0.0206789,  Residual: 9.37948e-07 
+281 TAO,  Function value: 0.0206789,  Residual: 7.56724e-07 
+282 TAO,  Function value: 0.0206789,  Residual: 8.78003e-07 
+283 TAO,  Function value: 0.0206789,  Residual: 4.4472e-07 
+284 TAO,  Function value: 0.0206789,  Residual: 3.60753e-07 
+285 TAO,  Function value: 0.0206789,  Residual: 2.85052e-07 
+286 TAO,  Function value: 0.0206789,  Residual: 4.4216e-07 
+287 TAO,  Function value: 0.0206789,  Residual: 3.02597e-07 
+288 TAO,  Function value: 0.0206788,  Residual: 2.9618e-07 
+289 TAO,  Function value: 0.0206788,  Residual: 3.33087e-07 
+290 TAO,  Function value: 0.0206788,  Residual: 3.92497e-07 
+291 TAO,  Function value: 0.0206788,  Residual: 4.92579e-07 
+292 TAO,  Function value: 0.0206788,  Residual: 5.62252e-07 
+293 TAO,  Function value: 0.0206788,  Residual: 6.6915e-07 
+294 TAO,  Function value: 0.0206788,  Residual: 8.86343e-07 
+295 TAO,  Function value: 0.0206788,  Residual: 1.05572e-06 
+296 TAO,  Function value: 0.0206788,  Residual: 1.03943e-06 
+297 TAO,  Function value: 0.0206788,  Residual: 9.7522e-07 
+298 TAO,  Function value: 0.0206788,  Residual: 9.16287e-07 
+299 TAO,  Function value: 0.0206788,  Residual: 1.05401e-06 
+300 TAO,  Function value: 0.0206787,  Residual: 8.11576e-07 
+301 TAO,  Function value: 0.0206787,  Residual: 6.86842e-07 
+302 TAO,  Function value: 0.0206786,  Residual: 1.01097e-06 
+303 TAO,  Function value: 0.0206786,  Residual: 1.37872e-06 
+304 TAO,  Function value: 0.0206786,  Residual: 1.24127e-06 
+305 TAO,  Function value: 0.0206786,  Residual: 1.26499e-06 
+306 TAO,  Function value: 0.0206785,  Residual: 1.19403e-06 
+307 TAO,  Function value: 0.0206785,  Residual: 1.28273e-06 
+308 TAO,  Function value: 0.0206785,  Residual: 1.20886e-06 
+309 TAO,  Function value: 0.0206785,  Residual: 9.87677e-07 
+310 TAO,  Function value: 0.0206784,  Residual: 8.18715e-07 
+311 TAO,  Function value: 0.0206784,  Residual: 6.37552e-07 
+312 TAO,  Function value: 0.0206784,  Residual: 4.03223e-07 
+313 TAO,  Function value: 0.0206784,  Residual: 3.40081e-07 
+314 TAO,  Function value: 0.0206784,  Residual: 3.23667e-07 
+315 TAO,  Function value: 0.0206784,  Residual: 3.35279e-07 
+316 TAO,  Function value: 0.0206784,  Residual: 3.23377e-07 
+317 TAO,  Function value: 0.0206784,  Residual: 4.16383e-07 
+318 TAO,  Function value: 0.0206784,  Residual: 3.8531e-07 
+319 TAO,  Function value: 0.0206784,  Residual: 3.55602e-07 
+320 TAO,  Function value: 0.0206784,  Residual: 3.13171e-07 
+321 TAO,  Function value: 0.0206784,  Residual: 2.93401e-07 
+322 TAO,  Function value: 0.0206784,  Residual: 3.28825e-07 
+323 TAO,  Function value: 0.0206784,  Residual: 2.82861e-07 
+324 TAO,  Function value: 0.0206784,  Residual: 2.79322e-07 
+325 TAO,  Function value: 0.0206784,  Residual: 3.08003e-07 
+326 TAO,  Function value: 0.0206784,  Residual: 3.70093e-07 
+327 TAO,  Function value: 0.0206784,  Residual: 3.63369e-07 
+328 TAO,  Function value: 0.0206784,  Residual: 4.01439e-07 
+329 TAO,  Function value: 0.0206784,  Residual: 3.7975e-07 
+330 TAO,  Function value: 0.0206784,  Residual: 2.3142e-07 
+331 TAO,  Function value: 0.0206783,  Residual: 2.04077e-07 
+332 TAO,  Function value: 0.0206783,  Residual: 1.96596e-07 
+333 TAO,  Function value: 0.0206783,  Residual: 2.13635e-07 
+334 TAO,  Function value: 0.0206783,  Residual: 2.46056e-07 
+335 TAO,  Function value: 0.0206783,  Residual: 2.57682e-07 
+336 TAO,  Function value: 0.0206783,  Residual: 2.8096e-07 
+337 TAO,  Function value: 0.0206783,  Residual: 3.55577e-07 
+338 TAO,  Function value: 0.0206783,  Residual: 3.88716e-07 
+339 TAO,  Function value: 0.0206783,  Residual: 4.7484e-07 
+340 TAO,  Function value: 0.0206783,  Residual: 6.92119e-07 
+341 TAO,  Function value: 0.0206783,  Residual: 9.91712e-07 
+342 TAO,  Function value: 0.0206783,  Residual: 1.10181e-06 
+343 TAO,  Function value: 0.0206783,  Residual: 1.13011e-06 
+344 TAO,  Function value: 0.0206783,  Residual: 1.16533e-06 
+345 TAO,  Function value: 0.0206783,  Residual: 1.24243e-06 
+346 TAO,  Function value: 0.0206783,  Residual: 1.27707e-06 
+347 TAO,  Function value: 0.0206783,  Residual: 1.26265e-06 
+348 TAO,  Function value: 0.0206782,  Residual: 1.37138e-06 
+349 TAO,  Function value: 0.0206782,  Residual: 1.45417e-06 
+350 TAO,  Function value: 0.0206782,  Residual: 1.56636e-06 
+351 TAO,  Function value: 0.0206782,  Residual: 1.46487e-06 
+352 TAO,  Function value: 0.0206781,  Residual: 1.21411e-06 
+353 TAO,  Function value: 0.0206781,  Residual: 1.07003e-06 
+354 TAO,  Function value: 0.020678,  Residual: 1.14596e-06 
+355 TAO,  Function value: 0.020678,  Residual: 1.00561e-06 
+356 TAO,  Function value: 0.020678,  Residual: 1.06117e-06 
+357 TAO,  Function value: 0.0206779,  Residual: 1.31936e-06 
+358 TAO,  Function value: 0.0206779,  Residual: 1.6292e-06 
+359 TAO,  Function value: 0.0206778,  Residual: 1.42654e-06 
+360 TAO,  Function value: 0.0206777,  Residual: 9.5034e-07 
+361 TAO,  Function value: 0.0206777,  Residual: 8.21188e-07 
+362 TAO,  Function value: 0.0206777,  Residual: 8.73161e-07 
+363 TAO,  Function value: 0.0206777,  Residual: 8.79838e-07 
+364 TAO,  Function value: 0.0206776,  Residual: 1.69027e-06 
+365 TAO,  Function value: 0.0206775,  Residual: 1.72831e-06 
+366 TAO,  Function value: 0.0206775,  Residual: 1.71216e-06 
+367 TAO,  Function value: 0.0206774,  Residual: 1.67696e-06 
+368 TAO,  Function value: 0.0206773,  Residual: 1.31819e-06 
+369 TAO,  Function value: 0.0206773,  Residual: 1.01619e-06 
+370 TAO,  Function value: 0.0206772,  Residual: 9.9288e-07 
+371 TAO,  Function value: 0.0206772,  Residual: 1.20701e-06 
+372 TAO,  Function value: 0.0206772,  Residual: 2.05444e-06 
+373 TAO,  Function value: 0.0206771,  Residual: 2.7706e-06 
+374 TAO,  Function value: 0.020677,  Residual: 2.81556e-06 
+375 TAO,  Function value: 0.0206768,  Residual: 2.33797e-06 
+376 TAO,  Function value: 0.0206766,  Residual: 2.00837e-06 
+377 TAO,  Function value: 0.0206765,  Residual: 1.62141e-06 
+378 TAO,  Function value: 0.0206764,  Residual: 1.23015e-06 
+379 TAO,  Function value: 0.0206764,  Residual: 1.03389e-06 
+380 TAO,  Function value: 0.0206763,  Residual: 9.97364e-07 
+381 TAO,  Function value: 0.0206763,  Residual: 1.08253e-06 
+382 TAO,  Function value: 0.0206763,  Residual: 9.79367e-07 
+383 TAO,  Function value: 0.0206763,  Residual: 9.68792e-07 
+384 TAO,  Function value: 0.0206763,  Residual: 1.02995e-06 
+385 TAO,  Function value: 0.0206763,  Residual: 1.2495e-06 
+386 TAO,  Function value: 0.0206762,  Residual: 1.2401e-06 
+387 TAO,  Function value: 0.0206762,  Residual: 1.25051e-06 
+388 TAO,  Function value: 0.0206761,  Residual: 1.33609e-06 
+389 TAO,  Function value: 0.0206761,  Residual: 1.13457e-06 
+390 TAO,  Function value: 0.020676,  Residual: 9.35217e-07 
+391 TAO,  Function value: 0.020676,  Residual: 9.25973e-07 
+392 TAO,  Function value: 0.0206759,  Residual: 9.30332e-07 
+393 TAO,  Function value: 0.0206759,  Residual: 9.88842e-07 
+394 TAO,  Function value: 0.0206759,  Residual: 1.12322e-06 
+395 TAO,  Function value: 0.0206759,  Residual: 1.20302e-06 
+396 TAO,  Function value: 0.0206758,  Residual: 1.39421e-06 
+397 TAO,  Function value: 0.0206758,  Residual: 1.71113e-06 
+398 TAO,  Function value: 0.0206758,  Residual: 1.73121e-06 
+399 TAO,  Function value: 0.0206758,  Residual: 1.68875e-06 
+400 TAO,  Function value: 0.0206757,  Residual: 1.79619e-06 
+401 TAO,  Function value: 0.0206757,  Residual: 2.00239e-06 
+402 TAO,  Function value: 0.0206756,  Residual: 1.75654e-06 
+403 TAO,  Function value: 0.0206754,  Residual: 1.37203e-06 
+404 TAO,  Function value: 0.0206752,  Residual: 1.60298e-06 
+405 TAO,  Function value: 0.0206752,  Residual: 1.98535e-06 
+406 TAO,  Function value: 0.0206752,  Residual: 1.87843e-06 
+407 TAO,  Function value: 0.0206751,  Residual: 1.71341e-06 
+408 TAO,  Function value: 0.020675,  Residual: 1.88377e-06 
+409 TAO,  Function value: 0.020675,  Residual: 1.73933e-06 
+410 TAO,  Function value: 0.020675,  Residual: 1.80177e-06 
+411 TAO,  Function value: 0.0206749,  Residual: 1.71448e-06 
+412 TAO,  Function value: 0.0206749,  Residual: 1.74338e-06 
+413 TAO,  Function value: 0.0206748,  Residual: 1.8954e-06 
+414 TAO,  Function value: 0.0206748,  Residual: 2.08884e-06 
+415 TAO,  Function value: 0.0206747,  Residual: 2.17162e-06 
+416 TAO,  Function value: 0.0206746,  Residual: 2.25437e-06 
+417 TAO,  Function value: 0.0206746,  Residual: 2.37737e-06 
+418 TAO,  Function value: 0.0206745,  Residual: 2.49816e-06 
+419 TAO,  Function value: 0.0206744,  Residual: 1.98658e-06 
+420 TAO,  Function value: 0.0206743,  Residual: 1.71122e-06 
+421 TAO,  Function value: 0.0206743,  Residual: 1.59267e-06 
+422 TAO,  Function value: 0.0206742,  Residual: 1.59556e-06 
+423 TAO,  Function value: 0.0206742,  Residual: 1.48509e-06 
+424 TAO,  Function value: 0.0206741,  Residual: 1.36741e-06 
+425 TAO,  Function value: 0.0206741,  Residual: 1.31366e-06 
+426 TAO,  Function value: 0.020674,  Residual: 1.22907e-06 
+427 TAO,  Function value: 0.020674,  Residual: 1.12474e-06 
+428 TAO,  Function value: 0.020674,  Residual: 1.049e-06 
+429 TAO,  Function value: 0.0206739,  Residual: 1.08798e-06 
+430 TAO,  Function value: 0.0206739,  Residual: 9.57174e-07 
+431 TAO,  Function value: 0.0206739,  Residual: 8.81002e-07 
+432 TAO,  Function value: 0.0206738,  Residual: 8.86443e-07 
+433 TAO,  Function value: 0.0206738,  Residual: 8.68172e-07 
+434 TAO,  Function value: 0.0206738,  Residual: 9.48836e-07 
+435 TAO,  Function value: 0.0206737,  Residual: 1.13877e-06 
+436 TAO,  Function value: 0.0206737,  Residual: 1.19304e-06 
+437 TAO,  Function value: 0.0206737,  Residual: 1.17688e-06 
+438 TAO,  Function value: 0.0206737,  Residual: 1.39937e-06 
+439 TAO,  Function value: 0.0206737,  Residual: 1.48509e-06 
+440 TAO,  Function value: 0.0206737,  Residual: 1.39379e-06 
+441 TAO,  Function value: 0.0206736,  Residual: 1.4053e-06 
+442 TAO,  Function value: 0.0206736,  Residual: 1.5725e-06 
+443 TAO,  Function value: 0.0206736,  Residual: 1.68434e-06 
+444 TAO,  Function value: 0.0206735,  Residual: 1.47557e-06 
+445 TAO,  Function value: 0.0206734,  Residual: 1.1341e-06 
+446 TAO,  Function value: 0.0206734,  Residual: 9.62576e-07 
+447 TAO,  Function value: 0.0206734,  Residual: 1.04554e-06 
+448 TAO,  Function value: 0.0206733,  Residual: 1.052e-06 
+449 TAO,  Function value: 0.0206733,  Residual: 9.38012e-07 
+450 TAO,  Function value: 0.0206733,  Residual: 6.85378e-07 
+451 TAO,  Function value: 0.0206733,  Residual: 4.81132e-07 
+452 TAO,  Function value: 0.0206732,  Residual: 2.7422e-07 
+453 TAO,  Function value: 0.0206732,  Residual: 2.10047e-07 
+454 TAO,  Function value: 0.0206732,  Residual: 2.75101e-07 
+455 TAO,  Function value: 0.0206732,  Residual: 2.23513e-07 
+456 TAO,  Function value: 0.0206732,  Residual: 2.22847e-07 
+457 TAO,  Function value: 0.0206732,  Residual: 2.40943e-07 
+458 TAO,  Function value: 0.0206732,  Residual: 2.69058e-07 
+459 TAO,  Function value: 0.0206732,  Residual: 2.89247e-07 
+460 TAO,  Function value: 0.0206732,  Residual: 3.06048e-07 
+461 TAO,  Function value: 0.0206732,  Residual: 4.54252e-07 
+462 TAO,  Function value: 0.0206732,  Residual: 5.77391e-07 
+463 TAO,  Function value: 0.0206732,  Residual: 5.49047e-07 
+464 TAO,  Function value: 0.0206732,  Residual: 4.40134e-07 
+465 TAO,  Function value: 0.0206732,  Residual: 4.77037e-07 
+466 TAO,  Function value: 0.0206732,  Residual: 3.38613e-07 
+467 TAO,  Function value: 0.0206732,  Residual: 3.32153e-07 
+468 TAO,  Function value: 0.0206732,  Residual: 3.69347e-07 
+469 TAO,  Function value: 0.0206732,  Residual: 5.75246e-07 
+470 TAO,  Function value: 0.0206732,  Residual: 1.14244e-06 
+471 TAO,  Function value: 0.0206731,  Residual: 1.19058e-06 
+472 TAO,  Function value: 0.0206731,  Residual: 1.19829e-06 
+473 TAO,  Function value: 0.0206731,  Residual: 1.29418e-06 
+474 TAO,  Function value: 0.0206731,  Residual: 1.18157e-06 
+475 TAO,  Function value: 0.020673,  Residual: 0.000232327 
+476 TAO,  Function value: 0.020673,  Residual: 8.9472e-07 
+477 TAO,  Function value: 0.020673,  Residual: 7.65982e-07 
+478 TAO,  Function value: 0.020673,  Residual: 0.000114844 
+479 TAO,  Function value: 0.020673,  Residual: 4.02309e-06 
+480 TAO,  Function value: 0.020673,  Residual: 0.000202217 
+481 TAO,  Function value: 0.020673,  Residual: 0.000202046 
+482 TAO,  Function value: 0.020673,  Residual: 3.44761e-06 
+483 TAO,  Function value: 0.020673,  Residual: 4.58436e-06 
+484 TAO,  Function value: 0.020673,  Residual: 2.93427e-06 
+485 TAO,  Function value: 0.020673,  Residual: 0.000232285 
+486 TAO,  Function value: 0.020673,  Residual: 0.000232319 
+487 TAO,  Function value: 0.020673,  Residual: 2.21467e-06 
+488 TAO,  Function value: 0.020673,  Residual: 3.22446e-06 
+489 TAO,  Function value: 0.020673,  Residual: 2.04927e-06 
+490 TAO,  Function value: 0.0206729,  Residual: 0.000232307 
+491 TAO,  Function value: 0.0206729,  Residual: 6.3353e-07 
+492 TAO,  Function value: 0.0206729,  Residual: 3.16033e-06 
+493 TAO,  Function value: 0.0206729,  Residual: 0.000206939 
+494 TAO,  Function value: 0.0206729,  Residual: 0.000206944 
+495 TAO,  Function value: 0.0206729,  Residual: 9.1339e-07 
+496 TAO,  Function value: 0.0206729,  Residual: 0.000105615 
+497 TAO,  Function value: 0.0206729,  Residual: 0.000103743 
+498 TAO,  Function value: 0.0206729,  Residual: 4.41837e-07 
+499 TAO,  Function value: 0.0206729,  Residual: 0.000207881 
+500 TAO,  Function value: 0.0206729,  Residual: 0.00020733 
+501 TAO,  Function value: 0.0206729,  Residual: 0.00020718 
+502 TAO,  Function value: 0.0206729,  Residual: 4.56191e-07 
+503 TAO,  Function value: 0.0206729,  Residual: 0.000105139 
+504 TAO,  Function value: 0.0206729,  Residual: 0.000103284 
+505 TAO,  Function value: 0.0206729,  Residual: 0.000103288 
+506 TAO,  Function value: 0.0206728,  Residual: 7.7863e-07 
+507 TAO,  Function value: 0.0206728,  Residual: 0.000208112 
+508 TAO,  Function value: 0.0206728,  Residual: 0.000206932 
+509 TAO,  Function value: 0.0206728,  Residual: 0.000208112 
+510 TAO,  Function value: 0.0206728,  Residual: 0.000206948 
+511 TAO,  Function value: 0.0206728,  Residual: 4.38746e-07 
+512 TAO,  Function value: 0.0206728,  Residual: 0.000105598 
+513 TAO,  Function value: 0.0206728,  Residual: 0.000104143 
+514 TAO,  Function value: 0.0206728,  Residual: 0.000104146 
+515 TAO,  Function value: 0.0206728,  Residual: 8.99606e-07 
+516 TAO,  Function value: 0.0206728,  Residual: 0.000207685 
+517 TAO,  Function value: 0.0206728,  Residual: 0.000207685 
+518 TAO,  Function value: 0.0206728,  Residual: 8.96626e-07 
+519 TAO,  Function value: 0.0206728,  Residual: 0.000105631 
+520 TAO,  Function value: 0.0206728,  Residual: 0.000231662 
+521 TAO,  Function value: 0.0206728,  Residual: 0.000223247 
+522 TAO,  Function value: 0.0206728,  Residual: 0.000220443 
+523 TAO,  Function value: 0.0206728,  Residual: 0.000230099 
+524 TAO,  Function value: 0.0206728,  Residual: 0.00015827 
+525 TAO,  Function value: 0.0206727,  Residual: 9.20917e-07 
+526 TAO,  Function value: 0.0206727,  Residual: 0.000185876 
+527 TAO,  Function value: 0.0206727,  Residual: 0.000185404 
+528 TAO,  Function value: 0.0206727,  Residual: 0.000185491 
+529 TAO,  Function value: 0.0206727,  Residual: 8.9649e-07 
+530 TAO,  Function value: 0.0206727,  Residual: 0.000139903 
+531 TAO,  Function value: 0.0206727,  Residual: 0.000138767 
+532 TAO,  Function value: 0.0206727,  Residual: 0.000138785 
+533 TAO,  Function value: 0.0206727,  Residual: 5.30951e-07 
+534 TAO,  Function value: 0.0206727,  Residual: 0.000186325 
+535 TAO,  Function value: 0.0206727,  Residual: 0.000185396 
+536 TAO,  Function value: 0.0206727,  Residual: 0.000232329 
+537 TAO,  Function value: 0.0206727,  Residual: 0.000232325 
+538 TAO,  Function value: 0.0206727,  Residual: 0.000185559 
+539 TAO,  Function value: 0.0206726,  Residual: 0.00018614 
+540 TAO,  Function value: 0.0206726,  Residual: 0.000105277 
+541 TAO,  Function value: 0.0206726,  Residual: 1.44813e-05 
+542 TAO,  Function value: 0.0206726,  Residual: 3.38461e-05 
+543 TAO,  Function value: 0.0206726,  Residual: 2.90777e-05 
+544 TAO,  Function value: 0.0206726,  Residual: 3.32207e-05 
+545 TAO,  Function value: 0.0206726,  Residual: 3.32812e-05 
+546 TAO,  Function value: 0.0206726,  Residual: 2.42298e-05 
+547 TAO,  Function value: 0.0206726,  Residual: 2.95661e-05 
+548 TAO,  Function value: 0.0206726,  Residual: 2.98182e-05 
+549 TAO,  Function value: 0.0206726,  Residual: 1.39655e-05 
+550 TAO,  Function value: 0.0206726,  Residual: 2.3321e-05 
+551 TAO,  Function value: 0.0206726,  Residual: 2.36787e-05 
+552 TAO,  Function value: 0.0206726,  Residual: 1.84019e-06 
+553 TAO,  Function value: 0.0206726,  Residual: 0.000231131 
+554 TAO,  Function value: 0.0206726,  Residual: 0.000231121 
+555 TAO,  Function value: 0.0206726,  Residual: 6.0927e-07 
+556 TAO,  Function value: 0.0206726,  Residual: 2.36745e-05 
+557 TAO,  Function value: 0.0206726,  Residual: 6.20515e-05 
+558 TAO,  Function value: 0.0206726,  Residual: 0.000111904 
+559 TAO,  Function value: 0.0206726,  Residual: 0.000111904 
+560 TAO,  Function value: 0.0206726,  Residual: 7.92268e-07 
+561 TAO,  Function value: 0.0206726,  Residual: 0.000203607 
+562 TAO,  Function value: 0.0206726,  Residual: 0.000202889 
+563 TAO,  Function value: 0.0206726,  Residual: 6.8339e-07 
+564 TAO,  Function value: 0.0206726,  Residual: 0.000113198 
+565 TAO,  Function value: 0.0206726,  Residual: 0.000220661 
+566 TAO,  Function value: 0.0206726,  Residual: 0.000133364 
+567 TAO,  Function value: 0.0206726,  Residual: 0.000112208 
+568 TAO,  Function value: 0.0206726,  Residual: 3.47772e-07 
+569 TAO,  Function value: 0.0206726,  Residual: 0.000203438 
+570 TAO,  Function value: 0.0206726,  Residual: 0.000203434 
+571 TAO,  Function value: 0.0206726,  Residual: 2.43357e-07 
+572 TAO,  Function value: 0.0206726,  Residual: 0.000112223 
+573 TAO,  Function value: 0.0206726,  Residual: 0.000232205 
+574 TAO,  Function value: 0.0206726,  Residual: 0.00011287 
+575 TAO,  Function value: 0.0206726,  Residual: 3.71119e-07 
+576 TAO,  Function value: 0.0206726,  Residual: 0.000203075 
+577 TAO,  Function value: 0.0206726,  Residual: 0.000202896 
+578 TAO,  Function value: 0.0206726,  Residual: 3.21118e-07 
+579 TAO,  Function value: 0.0206726,  Residual: 0.000113192 
+580 TAO,  Function value: 0.0206726,  Residual: 0.000231751 
+581 TAO,  Function value: 0.0206726,  Residual: 0.000231861 
+582 TAO,  Function value: 0.0206726,  Residual: 0.000112659 
+583 TAO,  Function value: 0.0206726,  Residual: 0.000112488 
+584 TAO,  Function value: 0.0206726,  Residual: 4.15231e-05 
+585 TAO,  Function value: 0.0206726,  Residual: 3.12018e-05 
+586 TAO,  Function value: 0.0206726,  Residual: 6.58492e-05 
+587 TAO,  Function value: 0.0206726,  Residual: 6.67754e-05 
+588 TAO,  Function value: 0.0206726,  Residual: 2.91109e-05 
+589 TAO,  Function value: 0.0206726,  Residual: 3.60494e-05 
+590 TAO,  Function value: 0.0206726,  Residual: 2.27807e-05 
+591 TAO,  Function value: 0.0206726,  Residual: 5.26214e-05 
+592 TAO,  Function value: 0.0206726,  Residual: 2.21856e-05 
+593 TAO,  Function value: 0.0206726,  Residual: 3.29664e-05 
+594 TAO,  Function value: 0.0206726,  Residual: 4.4967e-05 
+595 TAO,  Function value: 0.0206726,  Residual: 6.64394e-06 
+596 TAO,  Function value: 0.0206726,  Residual: 4.39586e-05 
+597 TAO,  Function value: 0.0206726,  Residual: 4.54252e-05 
+598 TAO,  Function value: 0.0206726,  Residual: 4.74782e-05 
+599 TAO,  Function value: 0.0206726,  Residual: 4.69315e-05 
+600 TAO,  Function value: 0.0206726,  Residual: 4.30835e-05 
+601 TAO,  Function value: 0.0206726,  Residual: 4.49245e-05 
+602 TAO,  Function value: 0.0206726,  Residual: 4.36462e-05 
+603 TAO,  Function value: 0.0206726,  Residual: 3.76532e-05 
+604 TAO,  Function value: 0.0206725,  Residual: 7.90113e-06 
+605 TAO,  Function value: 0.0206725,  Residual: 5.18582e-06 
+606 TAO,  Function value: 0.0206725,  Residual: 5.98917e-06 
+607 TAO,  Function value: 0.0206725,  Residual: 4.16019e-07 
+608 TAO,  Function value: 0.0206725,  Residual: 2.66138e-07 
+609 TAO,  Function value: 0.0206725,  Residual: 2.4994e-07 
+610 TAO,  Function value: 0.0206725,  Residual: 1.37242e-07 
+611 TAO,  Function value: 0.0206725,  Residual: 1.49421e-07 
+612 TAO,  Function value: 0.0206725,  Residual: 1.62191e-07 
+613 TAO,  Function value: 0.0206725,  Residual: 2.70171e-07 
+614 TAO,  Function value: 0.0206725,  Residual: 1.83683e-07 
+615 TAO,  Function value: 0.0206725,  Residual: 1.10917e-07 
+616 TAO,  Function value: 0.0206725,  Residual: 1.22679e-07 
+617 TAO,  Function value: 0.0206725,  Residual: 1.53102e-07 
+618 TAO,  Function value: 0.0206725,  Residual: 1.76274e-07 
+619 TAO,  Function value: 0.0206725,  Residual: 2.06084e-07 
+620 TAO,  Function value: 0.0206725,  Residual: 4.18517e-07 
+621 TAO,  Function value: 0.0206725,  Residual: 4.93768e-07 
+622 TAO,  Function value: 0.0206725,  Residual: 5.25742e-07 
+623 TAO,  Function value: 0.0206724,  Residual: 6.43878e-07 
+624 TAO,  Function value: 0.0206724,  Residual: 4.62067e-07 
+625 TAO,  Function value: 0.0206724,  Residual: 4.00728e-07 
+626 TAO,  Function value: 0.0206724,  Residual: 8.60877e-07 
+627 TAO,  Function value: 0.0206724,  Residual: 7.03949e-07 
+628 TAO,  Function value: 0.0206724,  Residual: 8.23428e-07 
+629 TAO,  Function value: 0.0206724,  Residual: 1.16032e-06 
+630 TAO,  Function value: 0.0206723,  Residual: 1.44451e-06 
+631 TAO,  Function value: 0.0206723,  Residual: 1.33066e-06 
+632 TAO,  Function value: 0.0206723,  Residual: 1.4932e-06 
+633 TAO,  Function value: 0.0206723,  Residual: 1.81927e-06 
+634 TAO,  Function value: 0.0206723,  Residual: 1.71714e-06 
+635 TAO,  Function value: 0.0206722,  Residual: 1.39368e-06 
+636 TAO,  Function value: 0.0206721,  Residual: 8.33478e-07 
+637 TAO,  Function value: 0.0206721,  Residual: 1.02977e-06 
+638 TAO,  Function value: 0.0206721,  Residual: 3.20078e-07 
+639 TAO,  Function value: 0.0206721,  Residual: 2.59212e-07 
+640 TAO,  Function value: 0.0206721,  Residual: 3.11868e-07 
+641 TAO,  Function value: 0.0206721,  Residual: 6.23744e-07 
+642 TAO,  Function value: 0.0206721,  Residual: 7.91488e-07 
+643 TAO,  Function value: 0.0206721,  Residual: 1.72385e-06 
+644 TAO,  Function value: 0.020672,  Residual: 1.4532e-06 
+645 TAO,  Function value: 0.020672,  Residual: 1.25068e-06 
+646 TAO,  Function value: 0.0206719,  Residual: 1.51746e-06 
+647 TAO,  Function value: 0.0206719,  Residual: 2.15728e-06 
+648 TAO,  Function value: 0.0206719,  Residual: 2.35847e-06 
+649 TAO,  Function value: 0.0206717,  Residual: 2.08709e-06 
+650 TAO,  Function value: 0.0206715,  Residual: 0.000232298 
+651 TAO,  Function value: 0.0206715,  Residual: 2.3788e-06 
+652 TAO,  Function value: 0.0206715,  Residual: 1.81925e-06 
+653 TAO,  Function value: 0.0206715,  Residual: 3.53832e-06 
+654 TAO,  Function value: 0.0206715,  Residual: 3.67143e-06 
+655 TAO,  Function value: 0.0206715,  Residual: 1.84306e-06 
+656 TAO,  Function value: 0.0206715,  Residual: 0.000232273 
+657 TAO,  Function value: 0.0206714,  Residual: 0.000232271 
+658 TAO,  Function value: 0.0206714,  Residual: 1.59526e-06 
+659 TAO,  Function value: 0.0206714,  Residual: 3.51958e-06 
+660 TAO,  Function value: 0.0206713,  Residual: 6.63423e-06 
+661 TAO,  Function value: 0.0206713,  Residual: 3.07296e-06 
+662 TAO,  Function value: 0.0206711,  Residual: 0.000232212 
+663 TAO,  Function value: 0.020671,  Residual: 5.91084e-06 
+664 TAO,  Function value: 0.020671,  Residual: 0.000231897 
+665 TAO,  Function value: 0.020671,  Residual: 0.000232046 
+666 TAO,  Function value: 0.020671,  Residual: 0.000231822 
+667 TAO,  Function value: 0.020671,  Residual: 0.000231182 
+668 TAO,  Function value: 0.020671,  Residual: 2.35079e-05 
+669 TAO,  Function value: 0.020671,  Residual: 0.00022565 
+670 TAO,  Function value: 0.0206708,  Residual: 8.92816e-05 
+671 TAO,  Function value: 0.0206708,  Residual: 0.00021745 
+672 TAO,  Function value: 0.0206708,  Residual: 5.17561e-05 
+673 TAO,  Function value: 0.0206708,  Residual: 3.43977e-05 
+674 TAO,  Function value: 0.0206708,  Residual: 6.12331e-05 
+675 TAO,  Function value: 0.0206708,  Residual: 1.13991e-05 
+676 TAO,  Function value: 0.0206707,  Residual: 3.91723e-05 
+677 TAO,  Function value: 0.0206707,  Residual: 3.89691e-05 
+678 TAO,  Function value: 0.0206707,  Residual: 3.98167e-05 
+679 TAO,  Function value: 0.0206706,  Residual: 4.09987e-05 
+680 TAO,  Function value: 0.0206706,  Residual: 9.10908e-06 
+681 TAO,  Function value: 0.0206705,  Residual: 8.02358e-06 
+682 TAO,  Function value: 0.0206704,  Residual: 1.82648e-06 
+683 TAO,  Function value: 0.0206704,  Residual: 2.53086e-06 
+684 TAO,  Function value: 0.0206704,  Residual: 1.14623e-06 
+685 TAO,  Function value: 0.0206704,  Residual: 2.07395e-06 
+686 TAO,  Function value: 0.0206704,  Residual: 2.08161e-06 
+687 TAO,  Function value: 0.0206704,  Residual: 2.02205e-06 
+688 TAO,  Function value: 0.0206703,  Residual: 8.2355e-07 
+689 TAO,  Function value: 0.0206703,  Residual: 7.1294e-07 
+690 TAO,  Function value: 0.0206703,  Residual: 7.09459e-07 
+691 TAO,  Function value: 0.0206703,  Residual: 6.71766e-07 
+692 TAO,  Function value: 0.0206703,  Residual: 6.77324e-07 
+693 TAO,  Function value: 0.0206703,  Residual: 7.13125e-07 
+694 TAO,  Function value: 0.0206703,  Residual: 7.93175e-07 
+695 TAO,  Function value: 0.0206703,  Residual: 6.6634e-07 
+696 TAO,  Function value: 0.0206703,  Residual: 6.38215e-07 
+697 TAO,  Function value: 0.0206703,  Residual: 6.34445e-07 
+698 TAO,  Function value: 0.0206703,  Residual: 6.66091e-07 
+699 TAO,  Function value: 0.0206703,  Residual: 6.8273e-07 
+700 TAO,  Function value: 0.0206703,  Residual: 7.35291e-07 
+701 TAO,  Function value: 0.0206703,  Residual: 7.81108e-07 
+702 TAO,  Function value: 0.0206703,  Residual: 8.08074e-07 
+703 TAO,  Function value: 0.0206703,  Residual: 9.4407e-07 
+704 TAO,  Function value: 0.0206703,  Residual: 1.11737e-06 
+705 TAO,  Function value: 0.0206702,  Residual: 1.13211e-06 
+706 TAO,  Function value: 0.0206702,  Residual: 1.38043e-06 
+707 TAO,  Function value: 0.0206702,  Residual: 1.34222e-06 
+708 TAO,  Function value: 0.0206702,  Residual: 1.22061e-06 
+709 TAO,  Function value: 0.0206701,  Residual: 1.28552e-06 
+710 TAO,  Function value: 0.02067,  Residual: 1.47739e-06 
+711 TAO,  Function value: 0.02067,  Residual: 1.66197e-06 
+712 TAO,  Function value: 0.0206699,  Residual: 1.81072e-06 
+713 TAO,  Function value: 0.0206699,  Residual: 1.87481e-06 
+714 TAO,  Function value: 0.0206699,  Residual: 1.90577e-06 
+715 TAO,  Function value: 0.0206699,  Residual: 1.88096e-06 
+716 TAO,  Function value: 0.0206699,  Residual: 1.8811e-06 
+717 TAO,  Function value: 0.0206699,  Residual: 1.78916e-06 
+718 TAO,  Function value: 0.0206698,  Residual: 1.63211e-06 
+719 TAO,  Function value: 0.0206698,  Residual: 1.48385e-06 
+720 TAO,  Function value: 0.0206698,  Residual: 1.32406e-06 
+721 TAO,  Function value: 0.0206698,  Residual: 1.259e-06 
+722 TAO,  Function value: 0.0206698,  Residual: 1.16112e-06 
+723 TAO,  Function value: 0.0206698,  Residual: 1.12767e-06 
+724 TAO,  Function value: 0.0206697,  Residual: 1.10339e-06 
+725 TAO,  Function value: 0.0206697,  Residual: 1.10359e-06 
+726 TAO,  Function value: 0.0206697,  Residual: 1.14172e-06 
+727 TAO,  Function value: 0.0206697,  Residual: 1.23494e-06 
+728 TAO,  Function value: 0.0206696,  Residual: 1.15043e-06 
+729 TAO,  Function value: 0.0206696,  Residual: 1.07901e-06 
+730 TAO,  Function value: 0.0206696,  Residual: 1.04017e-06 
+731 TAO,  Function value: 0.0206696,  Residual: 9.81314e-07 
+732 TAO,  Function value: 0.0206695,  Residual: 7.45576e-07 
+733 TAO,  Function value: 0.0206695,  Residual: 5.65739e-07 
+734 TAO,  Function value: 0.0206695,  Residual: 5.27822e-07 
+735 TAO,  Function value: 0.0206695,  Residual: 5.07718e-07 
+736 TAO,  Function value: 0.0206695,  Residual: 4.77578e-07 
+737 TAO,  Function value: 0.0206695,  Residual: 4.58165e-07 
+738 TAO,  Function value: 0.0206695,  Residual: 4.40566e-07 
+739 TAO,  Function value: 0.0206695,  Residual: 4.78984e-07 
+740 TAO,  Function value: 0.0206695,  Residual: 4.15192e-07 
+741 TAO,  Function value: 0.0206695,  Residual: 4.10316e-07 
+742 TAO,  Function value: 0.0206695,  Residual: 4.09242e-07 
+743 TAO,  Function value: 0.0206695,  Residual: 5.18088e-07 
+744 TAO,  Function value: 0.0206695,  Residual: 3.97633e-07 
+745 TAO,  Function value: 0.0206695,  Residual: 3.84649e-07 
+746 TAO,  Function value: 0.0206695,  Residual: 3.85689e-07 
+747 TAO,  Function value: 0.0206695,  Residual: 4.76385e-07 
+748 TAO,  Function value: 0.0206695,  Residual: 4.21588e-07 
+749 TAO,  Function value: 0.0206694,  Residual: 4.7676e-07 
+750 TAO,  Function value: 0.0206694,  Residual: 5.2575e-07 
+751 TAO,  Function value: 0.0206694,  Residual: 5.30472e-07 
+752 TAO,  Function value: 0.0206694,  Residual: 5.35644e-07 
+753 TAO,  Function value: 0.0206694,  Residual: 5.28505e-07 
+754 TAO,  Function value: 0.0206694,  Residual: 0.000232418 
+755 TAO,  Function value: 0.0206694,  Residual: 8.13468e-07 
+756 TAO,  Function value: 0.0206694,  Residual: 6.87981e-07 
+757 TAO,  Function value: 0.0206694,  Residual: 6.87429e-07 
+758 TAO,  Function value: 0.0206694,  Residual: 0.000232411 
+759 TAO,  Function value: 0.0206693,  Residual: 8.06557e-07 
+760 TAO,  Function value: 0.0206693,  Residual: 0.000232387 
+761 TAO,  Function value: 0.0206692,  Residual: 1.20588e-06 
+762 TAO,  Function value: 0.0206691,  Residual: 1.00501e-06 
+763 TAO,  Function value: 0.020669,  Residual: 1.34444e-06 
+764 TAO,  Function value: 0.020669,  Residual: 1.29875e-06 
+765 TAO,  Function value: 0.020669,  Residual: 1.27426e-06 
+766 TAO,  Function value: 0.0206689,  Residual: 1.47097e-06 
+767 TAO,  Function value: 0.0206689,  Residual: 1.23288e-06 
+768 TAO,  Function value: 0.0206689,  Residual: 1.33596e-06 
+769 TAO,  Function value: 0.0206689,  Residual: 1.15886e-06 
+770 TAO,  Function value: 0.0206689,  Residual: 1.11315e-06 
+771 TAO,  Function value: 0.0206689,  Residual: 1.03445e-06 
+772 TAO,  Function value: 0.0206689,  Residual: 1.04913e-06 
+773 TAO,  Function value: 0.0206689,  Residual: 1.00717e-06 
+774 TAO,  Function value: 0.0206689,  Residual: 1.03294e-06 
+775 TAO,  Function value: 0.0206689,  Residual: 1.01598e-06 
+776 TAO,  Function value: 0.0206688,  Residual: 1.01403e-06 
+777 TAO,  Function value: 0.0206687,  Residual: 0.000232419 
+778 TAO,  Function value: 0.0206687,  Residual: 1.44999e-06 
+779 TAO,  Function value: 0.0206686,  Residual: 0.000232374 
+780 TAO,  Function value: 0.0206686,  Residual: 0.000232253 
+781 TAO,  Function value: 0.0206685,  Residual: 0.000232204 
+782 TAO,  Function value: 0.0206685,  Residual: 3.01085e-06 
+783 TAO,  Function value: 0.0206685,  Residual: 1.76452e-06 
+784 TAO,  Function value: 0.0206685,  Residual: 2.41149e-06 
+785 TAO,  Function value: 0.0206685,  Residual: 9.56879e-07 
+786 TAO,  Function value: 0.0206684,  Residual: 1.01996e-06 
+787 TAO,  Function value: 0.0206684,  Residual: 1.13513e-06 
+788 TAO,  Function value: 0.0206684,  Residual: 1.04398e-06 
+789 TAO,  Function value: 0.0206684,  Residual: 2.68652e-06 
+790 TAO,  Function value: 0.0206684,  Residual: 2.67071e-06 
+791 TAO,  Function value: 0.0206684,  Residual: 9.71096e-07 
+792 TAO,  Function value: 0.0206684,  Residual: 0.000232435 
+793 TAO,  Function value: 0.0206683,  Residual: 0.000232443 
+794 TAO,  Function value: 0.0206683,  Residual: 0.00023243 
+795 TAO,  Function value: 0.0206683,  Residual: 0.000232429 
+796 TAO,  Function value: 0.0206683,  Residual: 7.59626e-06 
+797 TAO,  Function value: 0.0206683,  Residual: 1.40993e-06 
+798 TAO,  Function value: 0.0206683,  Residual: 1.13809e-06 
+799 TAO,  Function value: 0.0206683,  Residual: 0.00023244 
+800 TAO,  Function value: 0.0206683,  Residual: 0.00023244 
+801 TAO,  Function value: 0.0206683,  Residual: 0.000232436 
+802 TAO,  Function value: 0.0206682,  Residual: 0.000232433 
+803 TAO,  Function value: 0.0206682,  Residual: 5.16212e-06 
+804 TAO,  Function value: 0.0206682,  Residual: 1.98864e-06 
+805 TAO,  Function value: 0.0206682,  Residual: 9.40746e-07 
+806 TAO,  Function value: 0.0206682,  Residual: 0.000232431 
+807 TAO,  Function value: 0.0206682,  Residual: 1.96726e-06 
+808 TAO,  Function value: 0.0206682,  Residual: 0.000232432 
+809 TAO,  Function value: 0.0206682,  Residual: 0.000232428 
+810 TAO,  Function value: 0.0206681,  Residual: 0.000232427 
+811 TAO,  Function value: 0.0206681,  Residual: 0.000232421 
+812 TAO,  Function value: 0.0206681,  Residual: 0.000232386 
+813 TAO,  Function value: 0.020668,  Residual: 0.000232292 
+814 TAO,  Function value: 0.0206678,  Residual: 8.62142e-06 
+815 TAO,  Function value: 0.0206678,  Residual: 1.34172e-05 
+816 TAO,  Function value: 0.0206678,  Residual: 1.89831e-06 
+817 TAO,  Function value: 0.0206678,  Residual: 1.77307e-06 
+818 TAO,  Function value: 0.0206677,  Residual: 2.1812e-06 
+819 TAO,  Function value: 0.0206677,  Residual: 1.74758e-06 
+820 TAO,  Function value: 0.0206677,  Residual: 9.92174e-07 
+821 TAO,  Function value: 0.0206677,  Residual: 9.78771e-07 
+822 TAO,  Function value: 0.0206677,  Residual: 7.95445e-07 
+823 TAO,  Function value: 0.0206677,  Residual: 4.30947e-07 
+824 TAO,  Function value: 0.0206677,  Residual: 4.28881e-07 
+825 TAO,  Function value: 0.0206677,  Residual: 4.10352e-07 
+826 TAO,  Function value: 0.0206677,  Residual: 3.13355e-07 
+827 TAO,  Function value: 0.0206677,  Residual: 4.43113e-07 
+828 TAO,  Function value: 0.0206677,  Residual: 6.4717e-07 
+829 TAO,  Function value: 0.0206677,  Residual: 8.55709e-07 
+830 TAO,  Function value: 0.0206677,  Residual: 8.9076e-07 
+831 TAO,  Function value: 0.0206677,  Residual: 7.0321e-07 
+832 TAO,  Function value: 0.0206676,  Residual: 1.10372e-06 
+833 TAO,  Function value: 0.0206676,  Residual: 5.37589e-07 
+834 TAO,  Function value: 0.0206676,  Residual: 4.09831e-07 
+835 TAO,  Function value: 0.0206676,  Residual: 4.06174e-07 
+836 TAO,  Function value: 0.0206676,  Residual: 4.48234e-07 
+837 TAO,  Function value: 0.0206676,  Residual: 4.22592e-07 
+838 TAO,  Function value: 0.0206676,  Residual: 3.80764e-07 
+839 TAO,  Function value: 0.0206676,  Residual: 3.80029e-07 
+840 TAO,  Function value: 0.0206676,  Residual: 4.00894e-07 
+841 TAO,  Function value: 0.0206676,  Residual: 4.07092e-07 
+842 TAO,  Function value: 0.0206676,  Residual: 3.90178e-07 
+843 TAO,  Function value: 0.0206676,  Residual: 3.95783e-07 
+844 TAO,  Function value: 0.0206676,  Residual: 4.0253e-07 
+845 TAO,  Function value: 0.0206676,  Residual: 4.06672e-07 
+846 TAO,  Function value: 0.0206676,  Residual: 3.84342e-07 
+847 TAO,  Function value: 0.0206676,  Residual: 5.69314e-07 
+848 TAO,  Function value: 0.0206676,  Residual: 2.59029e-07 
+849 TAO,  Function value: 0.0206676,  Residual: 2.18154e-07 
+850 TAO,  Function value: 0.0206676,  Residual: 2.19916e-07 
+851 TAO,  Function value: 0.0206676,  Residual: 2.54666e-07 
+852 TAO,  Function value: 0.0206675,  Residual: 1.6158e-07 
+853 TAO,  Function value: 0.0206675,  Residual: 1.59605e-07 
+854 TAO,  Function value: 0.0206675,  Residual: 1.62512e-07 
+855 TAO,  Function value: 0.0206675,  Residual: 1.66555e-07 
+856 TAO,  Function value: 0.0206675,  Residual: 1.63662e-07 
+857 TAO,  Function value: 0.0206675,  Residual: 1.63772e-07 
+858 TAO,  Function value: 0.0206675,  Residual: 1.65864e-07 
+859 TAO,  Function value: 0.0206675,  Residual: 1.7068e-07 
+860 TAO,  Function value: 0.0206675,  Residual: 1.99015e-07 
+861 TAO,  Function value: 0.0206675,  Residual: 1.95199e-07 
+862 TAO,  Function value: 0.0206675,  Residual: 2.29149e-07 
+863 TAO,  Function value: 0.0206675,  Residual: 2.92278e-07 
+864 TAO,  Function value: 0.0206675,  Residual: 3.22638e-07 
+865 TAO,  Function value: 0.0206675,  Residual: 3.72896e-07 
+866 TAO,  Function value: 0.0206675,  Residual: 1.92447e-07 
+867 TAO,  Function value: 0.0206675,  Residual: 1.52568e-07 
+868 TAO,  Function value: 0.0206675,  Residual: 1.56999e-07 
+869 TAO,  Function value: 0.0206675,  Residual: 2.40884e-07 
+870 TAO,  Function value: 0.0206675,  Residual: 2.16358e-07 
+871 TAO,  Function value: 0.0206675,  Residual: 2.55657e-07 
+872 TAO,  Function value: 0.0206675,  Residual: 2.71621e-07 
+873 TAO,  Function value: 0.0206675,  Residual: 2.7869e-07 
+874 TAO,  Function value: 0.0206675,  Residual: 2.34501e-07 
+875 TAO,  Function value: 0.0206675,  Residual: 0.000232467 
+876 TAO,  Function value: 0.0206675,  Residual: 3.87177e-07 
+877 TAO,  Function value: 0.0206675,  Residual: 3.34133e-07 
+878 TAO,  Function value: 0.0206675,  Residual: 6.33327e-07 
+879 TAO,  Function value: 0.0206675,  Residual: 3.76715e-07 
+880 TAO,  Function value: 0.0206675,  Residual: 7.38652e-07 
+881 TAO,  Function value: 0.0206675,  Residual: 6.33199e-07 
+882 TAO,  Function value: 0.0206675,  Residual: 4.7027e-07 
+883 TAO,  Function value: 0.0206675,  Residual: 4.14445e-07 
+884 TAO,  Function value: 0.0206674,  Residual: 3.5287e-07 
+885 TAO,  Function value: 0.0206674,  Residual: 2.32675e-07 
+886 TAO,  Function value: 0.0206674,  Residual: 2.60735e-07 
+887 TAO,  Function value: 0.0206674,  Residual: 3.02677e-07 
+888 TAO,  Function value: 0.0206674,  Residual: 3.46569e-07 
+889 TAO,  Function value: 0.0206674,  Residual: 3.98255e-07 
+890 TAO,  Function value: 0.0206674,  Residual: 4.77276e-07 
+891 TAO,  Function value: 0.0206674,  Residual: 5.82701e-07 
+892 TAO,  Function value: 0.0206674,  Residual: 6.57846e-07 
+893 TAO,  Function value: 0.0206674,  Residual: 6.09069e-07 
+894 TAO,  Function value: 0.0206673,  Residual: 9.59334e-07 
+895 TAO,  Function value: 0.0206673,  Residual: 1.45651e-06 
+896 TAO,  Function value: 0.0206673,  Residual: 1.41896e-06 
+897 TAO,  Function value: 0.0206672,  Residual: 1.00926e-06 
+898 TAO,  Function value: 0.0206671,  Residual: 1.43644e-06 
+899 TAO,  Function value: 0.0206671,  Residual: 1.5259e-06 
+900 TAO,  Function value: 0.0206671,  Residual: 9.87642e-07 
+901 TAO,  Function value: 0.020667,  Residual: 9.04917e-07 
+902 TAO,  Function value: 0.020667,  Residual: 9.2491e-07 
+903 TAO,  Function value: 0.020667,  Residual: 1.12482e-06 
+904 TAO,  Function value: 0.020667,  Residual: 9.23239e-07 
+905 TAO,  Function value: 0.020667,  Residual: 9.02684e-07 
+906 TAO,  Function value: 0.020667,  Residual: 9.38286e-07 
+907 TAO,  Function value: 0.020667,  Residual: 9.27598e-07 
+908 TAO,  Function value: 0.020667,  Residual: 1.12454e-06 
+909 TAO,  Function value: 0.0206669,  Residual: 6.34254e-07 
+910 TAO,  Function value: 0.0206669,  Residual: 5.86744e-07 
+911 TAO,  Function value: 0.0206669,  Residual: 5.6479e-07 
+912 TAO,  Function value: 0.0206669,  Residual: 6.61467e-07 
+913 TAO,  Function value: 0.0206669,  Residual: 5.99312e-07 
+914 TAO,  Function value: 0.0206669,  Residual: 6.128e-07 
+915 TAO,  Function value: 0.0206669,  Residual: 6.65502e-07 
+916 TAO,  Function value: 0.0206669,  Residual: 8.11291e-07 
+917 TAO,  Function value: 0.0206669,  Residual: 1.11547e-06 
+918 TAO,  Function value: 0.0206669,  Residual: 1.26698e-06 
+919 TAO,  Function value: 0.0206668,  Residual: 1.29071e-06 
+920 TAO,  Function value: 0.0206668,  Residual: 2.36408e-06 
+921 TAO,  Function value: 0.0206668,  Residual: 2.3181e-06 
+922 TAO,  Function value: 0.0206668,  Residual: 2.30763e-06 
+923 TAO,  Function value: 0.0206668,  Residual: 2.28578e-06 
+924 TAO,  Function value: 0.0206668,  Residual: 2.24955e-06 
+925 TAO,  Function value: 0.0206665,  Residual: 0.00023256 
+926 TAO,  Function value: 0.0206665,  Residual: 0.00023219 
+927 TAO,  Function value: 0.0206665,  Residual: 2.19201e-05 
+928 TAO,  Function value: 0.0206664,  Residual: 0.000232506 
+929 TAO,  Function value: 0.0206664,  Residual: 0.000232327 
+930 TAO,  Function value: 0.0206663,  Residual: 1.47373e-05 
+931 TAO,  Function value: 0.0206663,  Residual: 2.55902e-06 
+932 TAO,  Function value: 0.0206663,  Residual: 1.72772e-05 
+933 TAO,  Function value: 0.0206663,  Residual: 2.00362e-06 
+934 TAO,  Function value: 0.0206663,  Residual: 0.00023192 
+935 TAO,  Function value: 0.0206663,  Residual: 1.41738e-06 
+936 TAO,  Function value: 0.0206663,  Residual: 1.11093e-06 
+937 TAO,  Function value: 0.0206663,  Residual: 0.000109456 
+938 TAO,  Function value: 0.0206663,  Residual: 0.000107668 
+939 TAO,  Function value: 0.0206663,  Residual: 1.57283e-06 
+940 TAO,  Function value: 0.0206663,  Residual: 0.000206147 
+941 TAO,  Function value: 0.0206663,  Residual: 0.000206147 
+942 TAO,  Function value: 0.0206663,  Residual: 0.000206147 
+943 TAO,  Function value: 0.0206663,  Residual: 0.000206147 
+944 TAO,  Function value: 0.0206663,  Residual: 1.43778e-06 
+945 TAO,  Function value: 0.0206663,  Residual: 0.00010764 
+946 TAO,  Function value: 0.0206663,  Residual: 0.000107331 
+947 TAO,  Function value: 0.0206663,  Residual: 0.000107633 
+948 TAO,  Function value: 0.0206663,  Residual: 0.000107633 
+949 TAO,  Function value: 0.0206662,  Residual: 3.91041e-06 
+950 TAO,  Function value: 0.0206662,  Residual: 0.000206177 
+951 TAO,  Function value: 0.0206662,  Residual: 1.37491e-06 
+952 TAO,  Function value: 0.0206662,  Residual: 5.80729e-06 
+953 TAO,  Function value: 0.0206662,  Residual: 7.69132e-07 
+954 TAO,  Function value: 0.0206662,  Residual: 0.000232553 
+955 TAO,  Function value: 0.0206662,  Residual: 0.000232554 
+956 TAO,  Function value: 0.0206662,  Residual: 0.000232555 
+957 TAO,  Function value: 0.0206661,  Residual: 1.43826e-06 
+958 TAO,  Function value: 0.0206661,  Residual: 1.46812e-06 
+959 TAO,  Function value: 0.0206661,  Residual: 3.78398e-05 
+960 TAO,  Function value: 0.0206661,  Residual: 1.65609e-06 
+961 TAO,  Function value: 0.0206661,  Residual: 0.000230432 
+962 TAO,  Function value: 0.0206661,  Residual: 0.000232565 
+963 TAO,  Function value: 0.0206661,  Residual: 0.000231204 
+964 TAO,  Function value: 0.020666,  Residual: 8.87434e-07 
+965 TAO,  Function value: 0.020666,  Residual: 2.50848e-05 
+966 TAO,  Function value: 0.020666,  Residual: 3.58646e-06 
+967 TAO,  Function value: 0.020666,  Residual: 0.000226777 
+968 TAO,  Function value: 0.020666,  Residual: 7.67755e-05 
+969 TAO,  Function value: 0.020666,  Residual: 0.000129957 
+970 TAO,  Function value: 0.020666,  Residual: 0.000118754 
+971 TAO,  Function value: 0.020666,  Residual: 0.000121508 
+972 TAO,  Function value: 0.020666,  Residual: 0.000112964 
+973 TAO,  Function value: 0.020666,  Residual: 0.000112673 
+974 TAO,  Function value: 0.020666,  Residual: 0.000110442 
+975 TAO,  Function value: 0.020666,  Residual: 0.000112902 
+976 TAO,  Function value: 0.020666,  Residual: 0.000114764 
+977 TAO,  Function value: 0.020666,  Residual: 6.44966e-05 
+978 TAO,  Function value: 0.020666,  Residual: 9.24412e-05 
+979 TAO,  Function value: 0.020666,  Residual: 9.88733e-05 
+980 TAO,  Function value: 0.020666,  Residual: 0.000107217 
+981 TAO,  Function value: 0.020666,  Residual: 0.000100975 
+982 TAO,  Function value: 0.020666,  Residual: 1.88369e-06 
+983 TAO,  Function value: 0.020666,  Residual: 0.000210379 
+984 TAO,  Function value: 0.020666,  Residual: 0.000210094 
+985 TAO,  Function value: 0.0206659,  Residual: 0.000210006 
+986 TAO,  Function value: 0.0206659,  Residual: 1.17341e-06 
+987 TAO,  Function value: 0.0206659,  Residual: 9.99365e-05 
+988 TAO,  Function value: 0.0206659,  Residual: 9.96686e-05 
+989 TAO,  Function value: 0.0206658,  Residual: 9.97139e-05 
+990 TAO,  Function value: 0.0206658,  Residual: 1.35171e-06 
+991 TAO,  Function value: 0.0206658,  Residual: 0.000210123 
+992 TAO,  Function value: 0.0206658,  Residual: 0.000210123 
+993 TAO,  Function value: 0.0206658,  Residual: 9.09495e-07 
+994 TAO,  Function value: 0.0206658,  Residual: 9.97093e-05 
+995 TAO,  Function value: 0.0206658,  Residual: 0.00023257 
+996 TAO,  Function value: 0.0206658,  Residual: 7.1612e-07 
+997 TAO,  Function value: 0.0206658,  Residual: 2.90633e-06 
+998 TAO,  Function value: 0.0206658,  Residual: 9.48201e-06 
+999 TAO,  Function value: 0.0206658,  Residual: 1.2219e-06 
+1000 TAO,  Function value: 0.0206657,  Residual: 0.000232403 
+1001 TAO,  Function value: 0.0206657,  Residual: 0.000232585 
+1002 TAO,  Function value: 0.0206657,  Residual: 0.000232585 
+1003 TAO,  Function value: 0.0206657,  Residual: 0.000232488 
+1004 TAO,  Function value: 0.0206657,  Residual: 0.000232403 
+1005 TAO,  Function value: 0.0206657,  Residual: 1.84873e-05 
+1006 TAO,  Function value: 0.0206657,  Residual: 0.000229427 
+1007 TAO,  Function value: 0.0206657,  Residual: 6.01946e-05 
+1008 TAO,  Function value: 0.0206656,  Residual: 5.74945e-05 
+1009 TAO,  Function value: 0.0206656,  Residual: 0.000219451 
+1010 TAO,  Function value: 0.0206656,  Residual: 0.000228699 
+1011 TAO,  Function value: 0.0206656,  Residual: 6.31547e-05 
+1012 TAO,  Function value: 0.0206656,  Residual: 5.95823e-05 
+1013 TAO,  Function value: 0.0206656,  Residual: 3.68542e-05 
+1014 TAO,  Function value: 0.0206656,  Residual: 3.73191e-05 
+1015 TAO,  Function value: 0.0206656,  Residual: 8.19016e-05 
+1016 TAO,  Function value: 0.0206655,  Residual: 8.8361e-05 
+1017 TAO,  Function value: 0.0206654,  Residual: 7.30128e-05 
+1018 TAO,  Function value: 0.0206654,  Residual: 4.31944e-06 
+1019 TAO,  Function value: 0.0206654,  Residual: 4.27779e-06 
+1020 TAO,  Function value: 0.0206654,  Residual: 1.08974e-05 
+1021 TAO,  Function value: 0.0206653,  Residual: 3.88372e-06 
+1022 TAO,  Function value: 0.0206652,  Residual: 1.05667e-05 
+1023 TAO,  Function value: 0.0206651,  Residual: 1.05264e-05 
+1024 TAO,  Function value: 0.0206651,  Residual: 2.56511e-06 
+1025 TAO,  Function value: 0.020665,  Residual: 1.4511e-06 
+1026 TAO,  Function value: 0.020665,  Residual: 1.09816e-06 
+1027 TAO,  Function value: 0.020665,  Residual: 1.196e-06 
+1028 TAO,  Function value: 0.020665,  Residual: 1.07837e-06 
+1029 TAO,  Function value: 0.020665,  Residual: 6.77221e-07 
+1030 TAO,  Function value: 0.020665,  Residual: 6.67006e-07 
+1031 TAO,  Function value: 0.020665,  Residual: 6.62946e-07 
+1032 TAO,  Function value: 0.020665,  Residual: 6.37747e-07 
+1033 TAO,  Function value: 0.020665,  Residual: 5.38769e-07 
+1034 TAO,  Function value: 0.020665,  Residual: 5.35785e-07 
+1035 TAO,  Function value: 0.020665,  Residual: 6.30823e-07 
+1036 TAO,  Function value: 0.020665,  Residual: 6.05174e-07 
+1037 TAO,  Function value: 0.0206649,  Residual: 6.03048e-07 
+1038 TAO,  Function value: 0.0206649,  Residual: 6.26928e-07 
+1039 TAO,  Function value: 0.0206649,  Residual: 7.58501e-07 
+1040 TAO,  Function value: 0.0206649,  Residual: 8.09364e-07 
+1041 TAO,  Function value: 0.0206649,  Residual: 7.13649e-07 
+1042 TAO,  Function value: 0.0206649,  Residual: 6.99328e-07 
+1043 TAO,  Function value: 0.0206649,  Residual: 7.14353e-07 
+1044 TAO,  Function value: 0.0206649,  Residual: 6.2009e-07 
+1045 TAO,  Function value: 0.0206649,  Residual: 5.4638e-07 
+1046 TAO,  Function value: 0.0206649,  Residual: 2.59795e-07 
+1047 TAO,  Function value: 0.0206649,  Residual: 2.80906e-07 
+1048 TAO,  Function value: 0.0206649,  Residual: 3.08917e-07 
+1049 TAO,  Function value: 0.0206649,  Residual: 2.79072e-07 
+1050 TAO,  Function value: 0.0206649,  Residual: 2.64796e-07 
+1051 TAO,  Function value: 0.0206649,  Residual: 2.77548e-07 
+1052 TAO,  Function value: 0.0206649,  Residual: 2.77501e-07 
+1053 TAO,  Function value: 0.0206649,  Residual: 2.687e-07 
+1054 TAO,  Function value: 0.0206649,  Residual: 2.69614e-07 
+1055 TAO,  Function value: 0.0206649,  Residual: 2.74927e-07 
+1056 TAO,  Function value: 0.0206649,  Residual: 2.86834e-07 
+1057 TAO,  Function value: 0.0206649,  Residual: 2.95953e-07 
+1058 TAO,  Function value: 0.0206649,  Residual: 3.27872e-07 
+1059 TAO,  Function value: 0.0206649,  Residual: 4.56148e-07 
+1060 TAO,  Function value: 0.0206649,  Residual: 5.44127e-07 
+1061 TAO,  Function value: 0.0206648,  Residual: 5.13355e-07 
+1062 TAO,  Function value: 0.0206648,  Residual: 3.38295e-07 
+1063 TAO,  Function value: 0.0206648,  Residual: 3.87246e-07 
+1064 TAO,  Function value: 0.0206648,  Residual: 2.99776e-07 
+1065 TAO,  Function value: 0.0206648,  Residual: 3.04525e-07 
+1066 TAO,  Function value: 0.0206648,  Residual: 3.38096e-07 
+1067 TAO,  Function value: 0.0206648,  Residual: 3.73716e-07 
+1068 TAO,  Function value: 0.0206648,  Residual: 4.54398e-07 
+1069 TAO,  Function value: 0.0206648,  Residual: 3.71515e-07 
+1070 TAO,  Function value: 0.0206648,  Residual: 2.51522e-07 
+1071 TAO,  Function value: 0.0206648,  Residual: 2.12583e-07 
+1072 TAO,  Function value: 0.0206648,  Residual: 2.70773e-07 
+1073 TAO,  Function value: 0.0206648,  Residual: 1.51774e-07 
+1074 TAO,  Function value: 0.0206648,  Residual: 1.44648e-07 
+1075 TAO,  Function value: 0.0206648,  Residual: 1.86828e-07 
+1076 TAO,  Function value: 0.0206648,  Residual: 3.30843e-07 
+1077 TAO,  Function value: 0.0206648,  Residual: 2.4619e-07 
+1078 TAO,  Function value: 0.0206648,  Residual: 2.6083e-07 
+1079 TAO,  Function value: 0.0206648,  Residual: 2.89137e-07 
+1080 TAO,  Function value: 0.0206648,  Residual: 3.23043e-07 
+1081 TAO,  Function value: 0.0206648,  Residual: 3.31445e-07 
+1082 TAO,  Function value: 0.0206648,  Residual: 4.42627e-07 
+1083 TAO,  Function value: 0.0206648,  Residual: 0.000232531 
+1084 TAO,  Function value: 0.0206648,  Residual: 8.76311e-07 
+1085 TAO,  Function value: 0.0206648,  Residual: 7.73376e-07 
+1086 TAO,  Function value: 0.0206648,  Residual: 5.84604e-07 
+1087 TAO,  Function value: 0.0206647,  Residual: 7.0009e-07 
+1088 TAO,  Function value: 0.0206647,  Residual: 7.06009e-07 
+1089 TAO,  Function value: 0.0206647,  Residual: 6.40375e-07 
+1090 TAO,  Function value: 0.0206647,  Residual: 4.84988e-07 
+1091 TAO,  Function value: 0.0206647,  Residual: 6.27865e-07 
+1092 TAO,  Function value: 0.0206646,  Residual: 7.21818e-07 
+1093 TAO,  Function value: 0.0206646,  Residual: 9.40517e-07 
+1094 TAO,  Function value: 0.0206646,  Residual: 1.07721e-06 
+1095 TAO,  Function value: 0.0206645,  Residual: 1.25952e-06 
+1096 TAO,  Function value: 0.0206645,  Residual: 1.07439e-06 
+1097 TAO,  Function value: 0.0206645,  Residual: 1.21804e-06 
+1098 TAO,  Function value: 0.0206645,  Residual: 1.19147e-06 
+1099 TAO,  Function value: 0.0206645,  Residual: 1.02956e-06 
+1100 TAO,  Function value: 0.0206645,  Residual: 0.000232551 
+1101 TAO,  Function value: 0.0206645,  Residual: 0.000232555 
+1102 TAO,  Function value: 0.0206645,  Residual: 0.000232554 
+1103 TAO,  Function value: 0.0206645,  Residual: 0.000231927 
+1104 TAO,  Function value: 0.0206645,  Residual: 0.000232554 
+1105 TAO,  Function value: 0.0206645,  Residual: 1.69633e-05 
+1106 TAO,  Function value: 0.0206645,  Residual: 3.25894e-05 
+1107 TAO,  Function value: 0.0206645,  Residual: 2.7052e-05 
+1108 TAO,  Function value: 0.0206645,  Residual: 3.83432e-05 
+1109 TAO,  Function value: 0.0206645,  Residual: 4.537e-05 
+1110 TAO,  Function value: 0.0206645,  Residual: 2.62107e-05 
+1111 TAO,  Function value: 0.0206644,  Residual: 2.5647e-05 
+1112 TAO,  Function value: 0.0206644,  Residual: 2.79602e-05 
+1113 TAO,  Function value: 0.0206644,  Residual: 1.86127e-05 
+1114 TAO,  Function value: 0.0206644,  Residual: 1.86122e-05 
+1115 TAO,  Function value: 0.0206644,  Residual: 2.86461e-06 
+1116 TAO,  Function value: 0.0206644,  Residual: 0.000231819 
+1117 TAO,  Function value: 0.0206644,  Residual: 0.000231817 
+1118 TAO,  Function value: 0.0206644,  Residual: 2.055e-06 
+1119 TAO,  Function value: 0.0206644,  Residual: 1.8543e-05 
+1120 TAO,  Function value: 0.0206644,  Residual: 0.000203331 
+1121 TAO,  Function value: 0.0206644,  Residual: 0.000125803 
+1122 TAO,  Function value: 0.0206644,  Residual: 7.59475e-05 
+1123 TAO,  Function value: 0.0206644,  Residual: 8.77443e-05 
+1124 TAO,  Function value: 0.0206644,  Residual: 8.59122e-05 
+1125 TAO,  Function value: 0.0206644,  Residual: 8.35117e-05 
+1126 TAO,  Function value: 0.0206644,  Residual: 8.27635e-07 
+1127 TAO,  Function value: 0.0206644,  Residual: 0.000217076 
+1128 TAO,  Function value: 0.0206644,  Residual: 0.000217045 
+1129 TAO,  Function value: 0.0206644,  Residual: 8.23594e-07 
+1130 TAO,  Function value: 0.0206644,  Residual: 8.35235e-05 
+1131 TAO,  Function value: 0.0206644,  Residual: 0.000217039 
+1132 TAO,  Function value: 0.0206644,  Residual: 0.000232555 
+1133 TAO,  Function value: 0.0206644,  Residual: 0.000217038 
+1134 TAO,  Function value: 0.0206644,  Residual: 0.000217038 
+1135 TAO,  Function value: 0.0206644,  Residual: 0.000189949 
+1136 TAO,  Function value: 0.0206644,  Residual: 3.42352e-05 
+1137 TAO,  Function value: 0.0206644,  Residual: 0.000206614 
+1138 TAO,  Function value: 0.0206644,  Residual: 4.58297e-05 
+1139 TAO,  Function value: 0.0206644,  Residual: 2.65557e-05 
+1140 TAO,  Function value: 0.0206644,  Residual: 2.22404e-05 
+1141 TAO,  Function value: 0.0206644,  Residual: 1.91031e-05 
+1142 TAO,  Function value: 0.0206644,  Residual: 5.48096e-07 
+1143 TAO,  Function value: 0.0206644,  Residual: 0.000231776 
+1144 TAO,  Function value: 0.0206644,  Residual: 0.000232561 
+1145 TAO,  Function value: 0.0206644,  Residual: 0.000231802 
+1146 TAO,  Function value: 0.0206644,  Residual: 3.29105e-07 
+1147 TAO,  Function value: 0.0206644,  Residual: 1.87871e-05 
+1148 TAO,  Function value: 0.0206644,  Residual: 0.000229965 
+1149 TAO,  Function value: 0.0206644,  Residual: 3.94401e-05 
+1150 TAO,  Function value: 0.0206644,  Residual: 2.88958e-05 
+1151 TAO,  Function value: 0.0206644,  Residual: 4.50092e-07 
+1152 TAO,  Function value: 0.0206644,  Residual: 0.000230765 
+1153 TAO,  Function value: 0.0206644,  Residual: 0.000230765 
+1154 TAO,  Function value: 0.0206644,  Residual: 3.5717e-07 
+1155 TAO,  Function value: 0.0206644,  Residual: 2.88925e-05 
+1156 TAO,  Function value: 0.0206644,  Residual: 0.000230067 
+1157 TAO,  Function value: 0.0206644,  Residual: 1.60266e-05 
+1158 TAO,  Function value: 0.0206644,  Residual: 2.64607e-05 
+1159 TAO,  Function value: 0.0206644,  Residual: 2.47675e-07 
+1160 TAO,  Function value: 0.0206644,  Residual: 0.000231058 
+1161 TAO,  Function value: 0.0206644,  Residual: 0.000232568 
+1162 TAO,  Function value: 0.0206644,  Residual: 0.000231085 
+1163 TAO,  Function value: 0.0206644,  Residual: 0.000231084 
+1164 TAO,  Function value: 0.0206644,  Residual: 0.000230649 
+1165 TAO,  Function value: 0.0206644,  Residual: 8.41148e-06 
+1166 TAO,  Function value: 0.0206644,  Residual: 2.32689e-05 
+1167 TAO,  Function value: 0.0206644,  Residual: 5.53482e-06 
+1168 TAO,  Function value: 0.0206644,  Residual: 5.77041e-06 
+1169 TAO,  Function value: 0.0206644,  Residual: 1.30418e-06 
+1170 TAO,  Function value: 0.0206644,  Residual: 0.000232504 
+1171 TAO,  Function value: 0.0206644,  Residual: 0.000232503 
+1172 TAO,  Function value: 0.0206644,  Residual: 0.000232504 
+1173 TAO,  Function value: 0.0206644,  Residual: 0.000232503 
+1174 TAO,  Function value: 0.0206644,  Residual: 0.000232503 
+1175 TAO,  Function value: 0.0206644,  Residual: 0.000108111 
+1176 TAO,  Function value: 0.0206644,  Residual: 8.7256e-07 
+1177 TAO,  Function value: 0.0206644,  Residual: 0.000231183 
+1178 TAO,  Function value: 0.0206644,  Residual: 7.49644e-07 
+1179 TAO,  Function value: 0.0206644,  Residual: 9.19539e-07 
+1180 TAO,  Function value: 0.0206644,  Residual: 0.000207148 
+1181 TAO,  Function value: 0.0206644,  Residual: 1.23694e-05 
+1182 TAO,  Function value: 0.0206644,  Residual: 0.000207019 
+1183 TAO,  Function value: 0.0206644,  Residual: 0.000206968 
+1184 TAO,  Function value: 0.0206644,  Residual: 0.000207097 
+1185 TAO,  Function value: 0.0206644,  Residual: 0.000205841 
+1186 TAO,  Function value: 0.0206644,  Residual: 0.000207019 
+1187 TAO,  Function value: 0.0206644,  Residual: 2.27894e-05 
+1188 TAO,  Function value: 0.0206644,  Residual: 2.27882e-05 
+1189 TAO,  Function value: 0.0206644,  Residual: 4.41965e-05 
+1190 TAO,  Function value: 0.0206644,  Residual: 8.758e-06 
+1191 TAO,  Function value: 0.0206644,  Residual: 4.10013e-07 
+1192 TAO,  Function value: 0.0206643,  Residual: 0.000232409 
+1193 TAO,  Function value: 0.0206643,  Residual: 0.000232574 
+1194 TAO,  Function value: 0.0206643,  Residual: 2.92991e-07 
+1195 TAO,  Function value: 0.0206643,  Residual: 3.56079e-07 
+1196 TAO,  Function value: 0.0206643,  Residual: 1.53328e-07 
+1197 TAO,  Function value: 0.0206643,  Residual: 0.000232574 
+1198 TAO,  Function value: 0.0206643,  Residual: 1.15164e-07 
+1199 TAO,  Function value: 0.0206643,  Residual: 3.55655e-07 
+1200 TAO,  Function value: 0.0206643,  Residual: 0.000232196 
+1201 TAO,  Function value: 0.0206643,  Residual: 0.000232198 
+1202 TAO,  Function value: 0.0206643,  Residual: 3.60511e-07 
+1203 TAO,  Function value: 0.0206643,  Residual: 1.32035e-05 
+1204 TAO,  Function value: 0.0206643,  Residual: 9.99973e-06 
+1205 TAO,  Function value: 0.0206643,  Residual: 0.00020605 
+1206 TAO,  Function value: 0.0206643,  Residual: 0.000227415 
+1207 TAO,  Function value: 0.0206643,  Residual: 0.00012039 
+1208 TAO,  Function value: 0.0206643,  Residual: 0.000111441 
+1209 TAO,  Function value: 0.0206643,  Residual: 7.64608e-05 
+1210 TAO,  Function value: 0.0206643,  Residual: 3.47327e-05 
+1211 TAO,  Function value: 0.0206643,  Residual: 0.00010496 
+1212 TAO,  Function value: 0.0206643,  Residual: 3.60156e-05 
+1213 TAO,  Function value: 0.0206643,  Residual: 1.92346e-05 
+1214 TAO,  Function value: 0.0206643,  Residual: 1.50803e-05 
+1215 TAO,  Function value: 0.0206643,  Residual: 5.7752e-07 
+1216 TAO,  Function value: 0.0206643,  Residual: 0.000232092 
+1217 TAO,  Function value: 0.0206643,  Residual: 0.000232563 
+1218 TAO,  Function value: 0.0206643,  Residual: 0.00023209 
+1219 TAO,  Function value: 0.0206643,  Residual: 0.00023214 
+1220 TAO,  Function value: 0.0206643,  Residual: 1.71388e-05 
+1221 TAO,  Function value: 0.0206643,  Residual: 1.37467e-05 
+1222 TAO,  Function value: 0.0206643,  Residual: 0.000232354 
+1223 TAO,  Function value: 0.0206643,  Residual: 1.76575e-05 
+1224 TAO,  Function value: 0.0206643,  Residual: 1.73675e-05 
+1225 TAO,  Function value: 0.0206643,  Residual: 5.12811e-06 
+1226 TAO,  Function value: 0.0206643,  Residual: 1.38326e-05 
+1227 TAO,  Function value: 0.0206643,  Residual: 1.26458e-05 
+1228 TAO,  Function value: 0.0206643,  Residual: 1.81789e-05 
+1229 TAO,  Function value: 0.0206643,  Residual: 1.2837e-05 
+1230 TAO,  Function value: 0.0206642,  Residual: 1.63676e-05 
+1231 TAO,  Function value: 0.0206642,  Residual: 9.13821e-06 
+1232 TAO,  Function value: 0.0206642,  Residual: 6.94072e-06 
+1233 TAO,  Function value: 0.0206642,  Residual: 5.81475e-06 
+1234 TAO,  Function value: 0.0206642,  Residual: 6.72494e-06 
+1235 TAO,  Function value: 0.0206642,  Residual: 1.72609e-06 
+1236 TAO,  Function value: 0.0206642,  Residual: 0.000232475 
+1237 TAO,  Function value: 0.0206642,  Residual: 1.03561e-06 
+1238 TAO,  Function value: 0.0206642,  Residual: 6.47938e-07 
+1239 TAO,  Function value: 0.0206642,  Residual: 5.53144e-07 
+1240 TAO,  Function value: 0.0206642,  Residual: 0.00023257 
+1241 TAO,  Function value: 0.0206642,  Residual: 0.000232571 
+1242 TAO,  Function value: 0.0206642,  Residual: 0.000232571 
+1243 TAO,  Function value: 0.0206642,  Residual: 0.000232157 
+1244 TAO,  Function value: 0.0206642,  Residual: 0.000232417 
+1245 TAO,  Function value: 0.0206642,  Residual: 1.39709e-05 
+1246 TAO,  Function value: 0.0206642,  Residual: 2.4615e-06 
+1247 TAO,  Function value: 0.0206642,  Residual: 8.21167e-07 
+1248 TAO,  Function value: 0.0206642,  Residual: 0.000232559 
+1249 TAO,  Function value: 0.0206642,  Residual: 0.000232559 
+1250 TAO,  Function value: 0.0206642,  Residual: 0.000232559 
+1251 TAO,  Function value: 0.0206642,  Residual: 0.000232559 
+1252 TAO,  Function value: 0.0206642,  Residual: 1.43367e-05 
+1253 TAO,  Function value: 0.0206642,  Residual: 0.000206377 
+1254 TAO,  Function value: 0.0206642,  Residual: 0.000107007 
+1255 TAO,  Function value: 0.0206642,  Residual: 4.60963e-07 
+1256 TAO,  Function value: 0.0206642,  Residual: 0.000206492 
+1257 TAO,  Function value: 0.0206642,  Residual: 0.000232569 
+1258 TAO,  Function value: 0.0206642,  Residual: 0.000231062 
+1259 TAO,  Function value: 0.0206642,  Residual: 3.2503e-07 
+1260 TAO,  Function value: 0.0206642,  Residual: 2.64849e-05 
+1261 TAO,  Function value: 0.0206642,  Residual: 1.00538e-05 
+1262 TAO,  Function value: 0.0206642,  Residual: 2.76101e-05 
+1263 TAO,  Function value: 0.0206642,  Residual: 1.22437e-05 
+1264 TAO,  Function value: 0.0206642,  Residual: 0.000195875 
+1265 TAO,  Function value: 0.0206642,  Residual: 0.000195613 
+1266 TAO,  Function value: 0.0206642,  Residual: 0.000195754 
+1267 TAO,  Function value: 0.0206642,  Residual: 0.000195065 
+1268 TAO,  Function value: 0.0206642,  Residual: 0.000194897 
+1269 TAO,  Function value: 0.0206642,  Residual: 0.00019549 
+1270 TAO,  Function value: 0.0206642,  Residual: 2.81314e-05 
+1271 TAO,  Function value: 0.0206642,  Residual: 6.32464e-05 
+1272 TAO,  Function value: 0.0206642,  Residual: 5.47086e-07 
+1273 TAO,  Function value: 0.0206642,  Residual: 0.000227632 
+1274 TAO,  Function value: 0.0206642,  Residual: 0.000226028 
+1275 TAO,  Function value: 0.0206642,  Residual: 5.04205e-05 
+1276 TAO,  Function value: 0.0206642,  Residual: 4.52273e-05 
+1277 TAO,  Function value: 0.0206642,  Residual: 3.98666e-05 
+1278 TAO,  Function value: 0.0206642,  Residual: 2.24457e-05 
+1279 TAO,  Function value: 0.0206642,  Residual: 3.62395e-07 
+1280 TAO,  Function value: 0.0206642,  Residual: 0.000231487 
+1281 TAO,  Function value: 0.0206642,  Residual: 0.000232572 
+1282 TAO,  Function value: 0.0206642,  Residual: 0.000231487 
+1283 TAO,  Function value: 0.0206642,  Residual: 0.000231506 
+1284 TAO,  Function value: 0.0206642,  Residual: 3.05758e-07 
+1285 TAO,  Function value: 0.0206642,  Residual: 2.22454e-05 
+1286 TAO,  Function value: 0.0206642,  Residual: 0.000204904 
+1287 TAO,  Function value: 0.0206642,  Residual: 0.000124852 
+1288 TAO,  Function value: 0.0206642,  Residual: 2.86886e-05 
+1289 TAO,  Function value: 0.0206642,  Residual: 7.51398e-05 
+1290 TAO,  Function value: 0.0206642,  Residual: 7.63727e-05 
+1291 TAO,  Function value: 0.0206642,  Residual: 7.71662e-05 
+1292 TAO,  Function value: 0.0206642,  Residual: 7.77559e-05 
+1293 TAO,  Function value: 0.0206642,  Residual: 7.64806e-05 
+1294 TAO,  Function value: 0.0206642,  Residual: 7.23621e-05 
+1295 TAO,  Function value: 0.0206642,  Residual: 5.47008e-05 
+1296 TAO,  Function value: 0.0206642,  Residual: 6.18228e-05 
+1297 TAO,  Function value: 0.0206642,  Residual: 6.50063e-05 
+1298 TAO,  Function value: 0.0206641,  Residual: 7.43006e-05 
+1299 TAO,  Function value: 0.0206641,  Residual: 7.38362e-05 
+1300 TAO,  Function value: 0.0206641,  Residual: 6.68825e-05 
+1301 TAO,  Function value: 0.0206641,  Residual: 5.82705e-05 
+1302 TAO,  Function value: 0.0206641,  Residual: 2.53258e-05 
+1303 TAO,  Function value: 0.0206641,  Residual: 1.14886e-05 
+1304 TAO,  Function value: 0.0206641,  Residual: 2.10768e-05 
+1305 TAO,  Function value: 0.0206641,  Residual: 2.23662e-05 
+1306 TAO,  Function value: 0.0206641,  Residual: 4.56306e-07 
+1307 TAO,  Function value: 0.0206641,  Residual: 0.000231515 
+1308 TAO,  Function value: 0.0206641,  Residual: 0.000231515 
+1309 TAO,  Function value: 0.0206641,  Residual: 4.43285e-07 
+1310 TAO,  Function value: 0.0206641,  Residual: 2.23649e-05 
+1311 TAO,  Function value: 0.0206641,  Residual: 0.000231513 
+1312 TAO,  Function value: 0.0206641,  Residual: 0.000231501 
+1313 TAO,  Function value: 0.0206641,  Residual: 3.14275e-07 
+1314 TAO,  Function value: 0.0206641,  Residual: 2.2497e-05 
+1315 TAO,  Function value: 0.0206641,  Residual: 0.000203831 
+1316 TAO,  Function value: 0.0206641,  Residual: 0.000205061 
+1317 TAO,  Function value: 0.0206641,  Residual: 5.52086e-07 
+1318 TAO,  Function value: 0.0206641,  Residual: 0.000109767 
+1319 TAO,  Function value: 0.0206641,  Residual: 0.000110793 
+1320 TAO,  Function value: 0.0206641,  Residual: 2.77662e-07 
+1321 TAO,  Function value: 0.0206641,  Residual: 0.000204508 
+1322 TAO,  Function value: 0.0206641,  Residual: 0.000203855 
+1323 TAO,  Function value: 0.0206641,  Residual: 0.000205402 
+1324 TAO,  Function value: 0.0206641,  Residual: 2.63823e-07 
+1325 TAO,  Function value: 0.0206641,  Residual: 0.000109128 
+1326 TAO,  Function value: 0.0206641,  Residual: 0.000110105 
+1327 TAO,  Function value: 0.0206641,  Residual: 3.50421e-07 
+1328 TAO,  Function value: 0.0206641,  Residual: 0.000204882 
+1329 TAO,  Function value: 0.0206641,  Residual: 0.000205273 
+1330 TAO,  Function value: 0.0206641,  Residual: 2.88942e-07 
+1331 TAO,  Function value: 0.020664,  Residual: 0.000109432 
+1332 TAO,  Function value: 0.020664,  Residual: 0.000110452 
+1333 TAO,  Function value: 0.020664,  Residual: 0.000109535 
+1334 TAO,  Function value: 0.020664,  Residual: 2.69808e-07 
+1335 TAO,  Function value: 0.020664,  Residual: 0.000205187 
+1336 TAO,  Function value: 0.020664,  Residual: 0.000204684 
+1337 TAO,  Function value: 0.020664,  Residual: 2.50568e-07 
+1338 TAO,  Function value: 0.020664,  Residual: 0.000110499 
+1339 TAO,  Function value: 0.020664,  Residual: 0.00010931 
+1340 TAO,  Function value: 0.020664,  Residual: 0.000208393 
+1341 TAO,  Function value: 0.020664,  Residual: 0.000230572 
+1342 TAO,  Function value: 0.020664,  Residual: 0.00010948 
+1343 TAO,  Function value: 0.020664,  Residual: 0.000106431 
+1344 TAO,  Function value: 0.020664,  Residual: 5.21844e-05 
+1345 TAO,  Function value: 0.020664,  Residual: 1.70176e-05 
+1346 TAO,  Function value: 0.020664,  Residual: 4.88174e-07 
+1347 TAO,  Function value: 0.020664,  Residual: 0.000231972 
+1348 TAO,  Function value: 0.020664,  Residual: 0.000231968 
+1349 TAO,  Function value: 0.020664,  Residual: 4.74764e-07 
+1350 TAO,  Function value: 0.020664,  Residual: 1.70146e-05 
+1351 TAO,  Function value: 0.020664,  Residual: 0.000231967 
+1352 TAO,  Function value: 0.020664,  Residual: 0.000232574 
+1353 TAO,  Function value: 0.020664,  Residual: 1.24742e-05 
+1354 TAO,  Function value: 0.020664,  Residual: 1.65713e-05 
+1355 TAO,  Function value: 0.020664,  Residual: 1.85166e-07 
+1356 TAO,  Function value: 0.020664,  Residual: 2.00225e-07 
+1357 TAO,  Function value: 0.020664,  Residual: 1.81424e-07 
+1358 TAO,  Function value: 0.020664,  Residual: 0.000232589 
+1359 TAO,  Function value: 0.020664,  Residual: 4.92272e-07 
+1360 TAO,  Function value: 0.020664,  Residual: 4.21286e-07 
+1361 TAO,  Function value: 0.020664,  Residual: 4.90475e-07 
+1362 TAO,  Function value: 0.020664,  Residual: 4.97729e-07 
+1363 TAO,  Function value: 0.020664,  Residual: 1.23243e-06 
+1364 TAO,  Function value: 0.020664,  Residual: 1.21739e-06 
+1365 TAO,  Function value: 0.020664,  Residual: 3.83967e-07 
+1366 TAO,  Function value: 0.020664,  Residual: 1.09995e-06 
+1367 TAO,  Function value: 0.020664,  Residual: 4.47233e-07 
+1368 TAO,  Function value: 0.020664,  Residual: 3.96177e-07 
+1369 TAO,  Function value: 0.020664,  Residual: 3.43029e-07 
+1370 TAO,  Function value: 0.020664,  Residual: 2.93622e-07 
+1371 TAO,  Function value: 0.020664,  Residual: 2.87845e-07 
+1372 TAO,  Function value: 0.020664,  Residual: 2.8828e-07 
+1373 TAO,  Function value: 0.020664,  Residual: 2.89792e-07 
+1374 TAO,  Function value: 0.020664,  Residual: 2.97047e-07 
+1375 TAO,  Function value: 0.020664,  Residual: 2.94015e-07 
+1376 TAO,  Function value: 0.020664,  Residual: 2.98109e-07 
+1377 TAO,  Function value: 0.020664,  Residual: 3.15598e-07 
+1378 TAO,  Function value: 0.020664,  Residual: 3.19459e-07 
+1379 TAO,  Function value: 0.0206639,  Residual: 1.64086e-07 
+1380 TAO,  Function value: 0.0206639,  Residual: 9.91874e-08 
+1381 TAO,  Function value: 0.0206639,  Residual: 9.66345e-08 
+1382 TAO,  Function value: 0.0206639,  Residual: 1.01871e-07 
+1383 TAO,  Function value: 0.0206639,  Residual: 9.95675e-08 
+1384 TAO,  Function value: 0.0206639,  Residual: 8.70591e-08 
+1385 TAO,  Function value: 0.0206639,  Residual: 7.4657e-08 
+1386 TAO,  Function value: 0.0206639,  Residual: 8.24148e-08 
+1387 TAO,  Function value: 0.0206639,  Residual: 2.02274e-07 
+1388 TAO,  Function value: 0.0206639,  Residual: 1.93597e-07 
+1389 TAO,  Function value: 0.0206639,  Residual: 1.99734e-07 
+1390 TAO,  Function value: 0.0206639,  Residual: 2.0014e-07 
+1391 TAO,  Function value: 0.0206639,  Residual: 1.77648e-07 
+1392 TAO,  Function value: 0.0206639,  Residual: 1.77742e-07 
+1393 TAO,  Function value: 0.0206639,  Residual: 1.24445e-07 
+1394 TAO,  Function value: 0.0206639,  Residual: 9.72935e-08 
+1395 TAO,  Function value: 0.0206639,  Residual: 9.84529e-08 
+1396 TAO,  Function value: 0.0206639,  Residual: 8.70549e-08 
+1397 TAO,  Function value: 0.0206639,  Residual: 9.63575e-08 
+1398 TAO,  Function value: 0.0206639,  Residual: 1.18109e-07 
+1399 TAO,  Function value: 0.0206639,  Residual: 1.87825e-07 
+1400 TAO,  Function value: 0.0206639,  Residual: 2.8877e-07 
+1401 TAO,  Function value: 0.0206639,  Residual: 2.76439e-07 
+1402 TAO,  Function value: 0.0206639,  Residual: 2.95222e-07 
+1403 TAO,  Function value: 0.0206639,  Residual: 3.46728e-07 
+1404 TAO,  Function value: 0.0206639,  Residual: 4.07788e-07 
+1405 TAO,  Function value: 0.0206639,  Residual: 4.61084e-07 
+1406 TAO,  Function value: 0.0206639,  Residual: 4.88067e-07 
+1407 TAO,  Function value: 0.0206639,  Residual: 6.14525e-07 
+1408 TAO,  Function value: 0.0206639,  Residual: 7.84835e-07 
+1409 TAO,  Function value: 0.0206639,  Residual: 9.06339e-07 
+1410 TAO,  Function value: 0.0206639,  Residual: 1.15739e-06 
+1411 TAO,  Function value: 0.0206638,  Residual: 7.47515e-07 
+1412 TAO,  Function value: 0.0206638,  Residual: 5.83745e-07 
+1413 TAO,  Function value: 0.0206638,  Residual: 4.86982e-07 
+1414 TAO,  Function value: 0.0206638,  Residual: 5.13252e-07 
+1415 TAO,  Function value: 0.0206638,  Residual: 3.51329e-07 
+1416 TAO,  Function value: 0.0206638,  Residual: 3.76792e-07 
+1417 TAO,  Function value: 0.0206638,  Residual: 5.25921e-07 
+1418 TAO,  Function value: 0.0206638,  Residual: 6.48416e-07 
+1419 TAO,  Function value: 0.0206637,  Residual: 6.03923e-07 
+1420 TAO,  Function value: 0.0206637,  Residual: 7.63685e-07 
+1421 TAO,  Function value: 0.0206637,  Residual: 6.07842e-07 
+1422 TAO,  Function value: 0.0206637,  Residual: 5.9809e-07 
+1423 TAO,  Function value: 0.0206637,  Residual: 6.18226e-07 
+1424 TAO,  Function value: 0.0206637,  Residual: 7.17572e-07 
+1425 TAO,  Function value: 0.0206637,  Residual: 8.59555e-07 
+1426 TAO,  Function value: 0.0206637,  Residual: 1.10356e-06 
+1427 TAO,  Function value: 0.0206637,  Residual: 1.05876e-06 
+1428 TAO,  Function value: 0.0206637,  Residual: 8.25144e-07 
+1429 TAO,  Function value: 0.0206637,  Residual: 8.04782e-07 
+1430 TAO,  Function value: 0.0206637,  Residual: 7.96434e-07 
+1431 TAO,  Function value: 0.0206637,  Residual: 8.19182e-07 
+1432 TAO,  Function value: 0.0206637,  Residual: 8.23299e-07 
+1433 TAO,  Function value: 0.0206636,  Residual: 8.63344e-07 
+1434 TAO,  Function value: 0.0206636,  Residual: 9.36746e-07 
+1435 TAO,  Function value: 0.0206636,  Residual: 8.41762e-07 
+1436 TAO,  Function value: 0.0206636,  Residual: 7.22938e-07 
+1437 TAO,  Function value: 0.0206635,  Residual: 3.59503e-07 
+1438 TAO,  Function value: 0.0206635,  Residual: 2.29761e-07 
+1439 TAO,  Function value: 0.0206635,  Residual: 2.56076e-07 
+1440 TAO,  Function value: 0.0206635,  Residual: 5.18414e-07 
+1441 TAO,  Function value: 0.0206635,  Residual: 6.76916e-07 
+1442 TAO,  Function value: 0.0206635,  Residual: 7.63987e-07 
+1443 TAO,  Function value: 0.0206635,  Residual: 8.1128e-07 
+1444 TAO,  Function value: 0.0206635,  Residual: 7.68288e-07 
+1445 TAO,  Function value: 0.0206635,  Residual: 9.15188e-07 
+1446 TAO,  Function value: 0.0206635,  Residual: 9.31451e-07 
+1447 TAO,  Function value: 0.0206635,  Residual: 6.49395e-07 
+1448 TAO,  Function value: 0.0206635,  Residual: 6.04271e-07 
+1449 TAO,  Function value: 0.0206635,  Residual: 4.82529e-07 
+1450 TAO,  Function value: 0.0206635,  Residual: 4.48055e-07 
+1451 TAO,  Function value: 0.0206635,  Residual: 4.41899e-07 
+1452 TAO,  Function value: 0.0206635,  Residual: 4.33971e-07 
+1453 TAO,  Function value: 0.0206635,  Residual: 4.23987e-07 
+1454 TAO,  Function value: 0.0206635,  Residual: 4.26115e-07 
+1455 TAO,  Function value: 0.0206635,  Residual: 4.55879e-07 
+1456 TAO,  Function value: 0.0206635,  Residual: 5.73504e-07 
+1457 TAO,  Function value: 0.0206635,  Residual: 6.80748e-07 
+1458 TAO,  Function value: 0.0206634,  Residual: 1.17922e-06 
+1459 TAO,  Function value: 0.0206634,  Residual: 1.50452e-06 
+1460 TAO,  Function value: 0.0206634,  Residual: 1.48479e-06 
+1461 TAO,  Function value: 0.0206634,  Residual: 1.51498e-06 
+1462 TAO,  Function value: 0.0206633,  Residual: 1.36455e-06 
+1463 TAO,  Function value: 0.0206632,  Residual: 1.39122e-06 
+1464 TAO,  Function value: 0.0206632,  Residual: 9.65765e-07 
+1465 TAO,  Function value: 0.0206631,  Residual: 9.30456e-07 
+1466 TAO,  Function value: 0.0206631,  Residual: 1.10387e-06 
+1467 TAO,  Function value: 0.0206631,  Residual: 1.36402e-06 
+1468 TAO,  Function value: 0.020663,  Residual: 1.4281e-06 
+1469 TAO,  Function value: 0.020663,  Residual: 1.42584e-06 
+1470 TAO,  Function value: 0.020663,  Residual: 1.44509e-06 
+1471 TAO,  Function value: 0.020663,  Residual: 1.54064e-06 
+1472 TAO,  Function value: 0.020663,  Residual: 1.56785e-06 
+1473 TAO,  Function value: 0.020663,  Residual: 1.54885e-06 
+1474 TAO,  Function value: 0.020663,  Residual: 1.4735e-06 
+1475 TAO,  Function value: 0.0206629,  Residual: 1.40189e-06 
+1476 TAO,  Function value: 0.0206629,  Residual: 1.33132e-06 
+1477 TAO,  Function value: 0.0206629,  Residual: 1.1981e-06 
+1478 TAO,  Function value: 0.0206629,  Residual: 1.16414e-06 
+1479 TAO,  Function value: 0.0206629,  Residual: 1.15326e-06 
+1480 TAO,  Function value: 0.0206629,  Residual: 1.17689e-06 
+1481 TAO,  Function value: 0.0206629,  Residual: 1.21027e-06 
+1482 TAO,  Function value: 0.0206629,  Residual: 1.29543e-06 
+1483 TAO,  Function value: 0.0206628,  Residual: 1.3943e-06 
+1484 TAO,  Function value: 0.0206628,  Residual: 1.12076e-06 
+1485 TAO,  Function value: 0.0206628,  Residual: 9.82834e-07 
+1486 TAO,  Function value: 0.0206627,  Residual: 9.0167e-07 
+1487 TAO,  Function value: 0.0206627,  Residual: 1.40054e-06 
+1488 TAO,  Function value: 0.0206627,  Residual: 8.0931e-07 
+1489 TAO,  Function value: 0.0206627,  Residual: 7.45662e-07 
+1490 TAO,  Function value: 0.0206626,  Residual: 7.50434e-07 
+1491 TAO,  Function value: 0.0206626,  Residual: 8.08668e-07 
+1492 TAO,  Function value: 0.0206626,  Residual: 7.94736e-07 
+1493 TAO,  Function value: 0.0206626,  Residual: 7.50864e-07 
+1494 TAO,  Function value: 0.0206626,  Residual: 7.20205e-07 
+1495 TAO,  Function value: 0.0206626,  Residual: 7.09016e-07 
+1496 TAO,  Function value: 0.0206626,  Residual: 6.59255e-07 
+1497 TAO,  Function value: 0.0206626,  Residual: 6.05518e-07 
+1498 TAO,  Function value: 0.0206626,  Residual: 5.88999e-07 
+1499 TAO,  Function value: 0.0206626,  Residual: 5.50472e-07 
+1500 TAO,  Function value: 0.0206626,  Residual: 5.27564e-07 
+1501 TAO,  Function value: 0.0206626,  Residual: 5.15903e-07 
+1502 TAO,  Function value: 0.0206626,  Residual: 5.21279e-07 
+1503 TAO,  Function value: 0.0206626,  Residual: 4.75343e-07 
+1504 TAO,  Function value: 0.0206626,  Residual: 4.67946e-07 
+1505 TAO,  Function value: 0.0206626,  Residual: 4.57999e-07 
+1506 TAO,  Function value: 0.0206626,  Residual: 4.34315e-07 
+1507 TAO,  Function value: 0.0206626,  Residual: 4.41541e-07 
+1508 TAO,  Function value: 0.0206626,  Residual: 2.98053e-07 
+1509 TAO,  Function value: 0.0206626,  Residual: 2.74455e-07 
+1510 TAO,  Function value: 0.0206625,  Residual: 2.84449e-07 
+1511 TAO,  Function value: 0.0206625,  Residual: 3.77745e-07 
+1512 TAO,  Function value: 0.0206625,  Residual: 2.62979e-07 
+1513 TAO,  Function value: 0.0206625,  Residual: 2.31019e-07 
+1514 TAO,  Function value: 0.0206625,  Residual: 2.14082e-07 
+1515 TAO,  Function value: 0.0206625,  Residual: 1.93257e-07 
+1516 TAO,  Function value: 0.0206625,  Residual: 1.32269e-07 
+1517 TAO,  Function value: 0.0206625,  Residual: 1.02289e-07 
+1518 TAO,  Function value: 0.0206625,  Residual: 7.5759e-08 
+1519 TAO,  Function value: 0.0206625,  Residual: 8.15153e-08 
+1520 TAO,  Function value: 0.0206625,  Residual: 4.49615e-08 
+Tao Object: (myTAO_) 8 MPI processes
+  type: blmvm
+  Gradient steps: 96
+  TaoLineSearch Object: (myTAO_) 8 MPI processes
+    type: more-thuente
+    maximum function evaluations=30
+    tolerances: ftol=0.0001, rtol=1e-10, gtol=0.9
+    total number of function evaluations=0
+    total number of gradient evaluations=0
+    total number of function/gradient evaluations=1
+    using variable bounds
+    Termination reason: 1
+  Active Set subset type: subvec
+  convergence tolerances: gatol=5e-08,   steptol=0.,   gttol=5e-08
+  Residual in Function/Gradient:=4.49615e-08
+  Objective value=0.0206625
+  total number of iterations=1520,                          (max: 2000)
+  total number of function/gradient evaluations=2085,      (max: 4000)
+  Solution converged:    ||g(X)|| <= gatol
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2306.000000; num_vertices = 1236.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00400572300457 0.004207515020909942
+min/max u_opt_y: -0.0218170653826 0.0
+
+Execution time (in seconds): 2944.9034695625305
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2463.000000; num_vertices = 1305.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -3.66171601342e-05 0.004207515020909942
+min/max u_opt_y: -0.0236183036493 0.0
+
+Execution time (in seconds): 2944.903468847275
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2310.000000; num_vertices = 1236.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.000450080403539 0.004207515020909942
+min/max u_opt_y: -0.0189628417806 0.0
+
+Execution time (in seconds): 2944.9036614894867
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2321.000000; num_vertices = 1247.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00486915339088 0.004207515020909942
+min/max u_opt_y: -0.0173219050338 0.0
+
+Execution time (in seconds): 2944.9054021835327
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2475.000000; num_vertices = 1315.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00422166864627 0.004207515020909942
+min/max u_opt_y: -0.0076834743218 0.0
+
+Execution time (in seconds): 2944.9056894779205
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2473.000000; num_vertices = 1314.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.000278176970781 0.004207515020909942
+min/max u_opt_y: -0.00539084373023 0.0
+
+Execution time (in seconds): 2944.905782699585
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2473.000000; num_vertices = 1321.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.000441648679153 0.004207515020909942
+min/max u_opt_y: -0.0235070887035 0.0
+
+Execution time (in seconds): 2944.90567278862
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.008108; hmin = 0.008000; num_cells = 2268.000000; num_vertices = 1211.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01458268; compliance = 0.0056938186
+
+perimeter_penalization = 0.0003860362
+Norm of u_opt: 0.00875274030814235
+Norm of alpha_opt: 0.24578923840059094
+
+ vol_alpha = 0.0711727322
+
+ vol_ratio_percentage = 23.72424
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -5.72317191085e-05 0.004207515020909942
+min/max u_opt_y: -0.0222857529812 0.0
+
+Execution time (in seconds): 2944.9057397842407

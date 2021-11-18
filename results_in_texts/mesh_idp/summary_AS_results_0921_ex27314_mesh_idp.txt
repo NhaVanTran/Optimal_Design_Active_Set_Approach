@@ -1,0 +1,34 @@
+
+ Summary results of example 2, case 7314
+ Objective function = 0.0205606049
+ The number of times the PDE solver is executed: count = 1097
+ Work_plus_compliance = 0.0201362529
+ Work = 0.0148154165 
+
+ Compliance = 0.0053208364
+ Perimeter_penalization = 0.0004243520
+ Vol_alpha = 0.0665104553
+ Vol_ratio_percentage = 22.1701517749
+ Alpha_norm = 0.2373448677
+ Summary results of example 2, case 7314
+ Objective function = 0.0205606049
+ The number of times the PDE solver is executed: count = 1097
+ Work_plus_compliance = 0.0201362529
+ Work = 0.0148154165 
+
+ Compliance = 0.0053208364
+ Perimeter_penalization = 0.0004243520
+ Vol_alpha = 0.0665104553
+ Vol_ratio_percentage = 22.1701517749
+ Alpha_norm = 0.2373448677
+ Summary results of example 2, case 7314
+ Objective function = 0.0205606049
+ The number of times the PDE solver is executed: count = 1097
+ Work_plus_compliance = 0.0201362529
+ Work = 0.0148154165 
+
+ Compliance = 0.0053208364
+ Perimeter_penalization = 0.0004243520
+ Vol_alpha = 0.0665104553
+ Vol_ratio_percentage = 22.1701517749
+ Alpha_norm = 0.2373448677

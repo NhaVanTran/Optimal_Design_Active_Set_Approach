@@ -1,0 +1,301 @@
+  Iteration information for myTAO_ solve.
+  0 TAO,  Function value: 0.0294291,  Residual: 0.00083353 
+  1 TAO,  Function value: 0.0291269,  Residual: 0.000646745 
+  2 TAO,  Function value: 0.0282062,  Residual: 0.000358634 
+  3 TAO,  Function value: 0.0273344,  Residual: 0.000260447 
+  4 TAO,  Function value: 0.0255973,  Residual: 0.000201306 
+  5 TAO,  Function value: 0.0252553,  Residual: 0.0013402 
+  6 TAO,  Function value: 0.0242397,  Residual: 0.000189337 
+  7 TAO,  Function value: 0.0238352,  Residual: 0.000186366 
+  8 TAO,  Function value: 0.0234108,  Residual: 0.000211998 
+  9 TAO,  Function value: 0.0229326,  Residual: 0.000153343 
+ 10 TAO,  Function value: 0.0225609,  Residual: 0.000219221 
+ 11 TAO,  Function value: 0.0224206,  Residual: 0.000165384 
+ 12 TAO,  Function value: 0.022327,  Residual: 0.000113509 
+ 13 TAO,  Function value: 0.0222729,  Residual: 0.000121086 
+ 14 TAO,  Function value: 0.0221791,  Residual: 0.000136257 
+ 15 TAO,  Function value: 0.0220697,  Residual: 0.000115479 
+ 16 TAO,  Function value: 0.0219274,  Residual: 9.18516e-05 
+ 17 TAO,  Function value: 0.0217992,  Residual: 0.000107852 
+ 18 TAO,  Function value: 0.0216442,  Residual: 8.10532e-05 
+ 19 TAO,  Function value: 0.0215481,  Residual: 8.13921e-05 
+ 20 TAO,  Function value: 0.0214101,  Residual: 7.55976e-05 
+ 21 TAO,  Function value: 0.0212893,  Residual: 7.79366e-05 
+ 22 TAO,  Function value: 0.0212648,  Residual: 6.94487e-05 
+ 23 TAO,  Function value: 0.0211596,  Residual: 5.59804e-05 
+ 24 TAO,  Function value: 0.0211228,  Residual: 5.35421e-05 
+ 25 TAO,  Function value: 0.0210963,  Residual: 4.41757e-05 
+ 26 TAO,  Function value: 0.0210492,  Residual: 3.52705e-05 
+ 27 TAO,  Function value: 0.0210118,  Residual: 2.95757e-05 
+ 28 TAO,  Function value: 0.0209803,  Residual: 2.57238e-05 
+ 29 TAO,  Function value: 0.0209652,  Residual: 2.0159e-05 
+ 30 TAO,  Function value: 0.0209547,  Residual: 1.67321e-05 
+ 31 TAO,  Function value: 0.0209429,  Residual: 1.88614e-05 
+ 32 TAO,  Function value: 0.0209358,  Residual: 2.08549e-05 
+ 33 TAO,  Function value: 0.0209279,  Residual: 1.83731e-05 
+ 34 TAO,  Function value: 0.0209179,  Residual: 1.83485e-05 
+ 35 TAO,  Function value: 0.0209149,  Residual: 2.08131e-05 
+ 36 TAO,  Function value: 0.0209109,  Residual: 1.94102e-05 
+ 37 TAO,  Function value: 0.0209054,  Residual: 1.62599e-05 
+ 38 TAO,  Function value: 0.0208939,  Residual: 1.57122e-05 
+ 39 TAO,  Function value: 0.0208902,  Residual: 2.72713e-05 
+ 40 TAO,  Function value: 0.0208827,  Residual: 1.60469e-05 
+ 41 TAO,  Function value: 0.0208747,  Residual: 1.29546e-05 
+ 42 TAO,  Function value: 0.0208698,  Residual: 1.50729e-05 
+ 43 TAO,  Function value: 0.0208647,  Residual: 1.27946e-05 
+ 44 TAO,  Function value: 0.0208634,  Residual: 1.22399e-05 
+ 45 TAO,  Function value: 0.0208589,  Residual: 1.17238e-05 
+ 46 TAO,  Function value: 0.0208567,  Residual: 1.83688e-05 
+ 47 TAO,  Function value: 0.0208513,  Residual: 1.52377e-05 
+ 48 TAO,  Function value: 0.0208468,  Residual: 1.25685e-05 
+ 49 TAO,  Function value: 0.0208437,  Residual: 1.32173e-05 
+ 50 TAO,  Function value: 0.0208393,  Residual: 1.10013e-05 
+ 51 TAO,  Function value: 0.0208375,  Residual: 9.91255e-06 
+ 52 TAO,  Function value: 0.0208338,  Residual: 6.90396e-06 
+ 53 TAO,  Function value: 0.0208316,  Residual: 6.27451e-06 
+ 54 TAO,  Function value: 0.0208311,  Residual: 6.35202e-06 
+ 55 TAO,  Function value: 0.0208293,  Residual: 5.09516e-06 
+ 56 TAO,  Function value: 0.0208291,  Residual: 5.89134e-06 
+ 57 TAO,  Function value: 0.0208283,  Residual: 5.06699e-06 
+ 58 TAO,  Function value: 0.0208276,  Residual: 3.66968e-06 
+ 59 TAO,  Function value: 0.020827,  Residual: 3.58704e-06 
+ 60 TAO,  Function value: 0.0208264,  Residual: 4.09196e-06 
+ 61 TAO,  Function value: 0.0208259,  Residual: 4.32057e-06 
+ 62 TAO,  Function value: 0.0208255,  Residual: 3.8945e-06 
+ 63 TAO,  Function value: 0.0208251,  Residual: 3.8548e-06 
+ 64 TAO,  Function value: 0.0208247,  Residual: 5.424e-06 
+ 65 TAO,  Function value: 0.0208245,  Residual: 5.33199e-06 
+ 66 TAO,  Function value: 0.0208245,  Residual: 6.06163e-06 
+ 67 TAO,  Function value: 0.0208239,  Residual: 4.42537e-06 
+ 68 TAO,  Function value: 0.0208232,  Residual: 3.40607e-06 
+ 69 TAO,  Function value: 0.0208231,  Residual: 3.60598e-06 
+ 70 TAO,  Function value: 0.0208226,  Residual: 2.95705e-06 
+ 71 TAO,  Function value: 0.0208221,  Residual: 2.22412e-06 
+ 72 TAO,  Function value: 0.0208217,  Residual: 2.26154e-06 
+ 73 TAO,  Function value: 0.0208216,  Residual: 3.26725e-06 
+ 74 TAO,  Function value: 0.0208215,  Residual: 2.17748e-06 
+ 75 TAO,  Function value: 0.0208214,  Residual: 1.29304e-06 
+ 76 TAO,  Function value: 0.0208213,  Residual: 1.33434e-06 
+ 77 TAO,  Function value: 0.0208212,  Residual: 1.30827e-06 
+ 78 TAO,  Function value: 0.0208211,  Residual: 1.35037e-06 
+ 79 TAO,  Function value: 0.020821,  Residual: 6.89053e-07 
+ 80 TAO,  Function value: 0.020821,  Residual: 4.99185e-07 
+ 81 TAO,  Function value: 0.020821,  Residual: 5.63928e-07 
+ 82 TAO,  Function value: 0.020821,  Residual: 7.08034e-07 
+ 83 TAO,  Function value: 0.020821,  Residual: 3.96483e-07 
+ 84 TAO,  Function value: 0.020821,  Residual: 2.9682e-07 
+ 85 TAO,  Function value: 0.0208209,  Residual: 1.97634e-07 
+ 86 TAO,  Function value: 0.0208209,  Residual: 3.52438e-07 
+ 87 TAO,  Function value: 0.0208209,  Residual: 9.37583e-08 
+ 88 TAO,  Function value: 0.0208209,  Residual: 7.26484e-08 
+ 89 TAO,  Function value: 0.0208209,  Residual: 8.09042e-08 
+ 90 TAO,  Function value: 0.0208209,  Residual: 1.13177e-07 
+ 91 TAO,  Function value: 0.0208209,  Residual: 7.58101e-08 
+ 92 TAO,  Function value: 0.0208209,  Residual: 6.81938e-08 
+ 93 TAO,  Function value: 0.0208209,  Residual: 1.04679e-07 
+ 94 TAO,  Function value: 0.0208209,  Residual: 1.409e-07 
+ 95 TAO,  Function value: 0.0208209,  Residual: 6.47677e-08 
+ 96 TAO,  Function value: 0.0208209,  Residual: 4.72282e-08 
+Tao Object: (myTAO_) 8 MPI processes
+  type: blmvm
+  Gradient steps: 0
+  TaoLineSearch Object: (myTAO_) 8 MPI processes
+    type: more-thuente
+    maximum function evaluations=30
+    tolerances: ftol=0.0001, rtol=1e-10, gtol=0.9
+    total number of function evaluations=0
+    total number of gradient evaluations=0
+    total number of function/gradient evaluations=1
+    using variable bounds
+    Termination reason: 1
+  Active Set subset type: subvec
+  convergence tolerances: gatol=5e-08,   steptol=0.,   gttol=5e-08
+  Residual in Function/Gradient:=4.72282e-08
+  Objective value=0.0208209
+  total number of iterations=96,                          (max: 2000)
+  total number of function/gradient evaluations=102,      (max: 4000)
+  Solution converged:    ||g(X)|| <= gatol
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011744; hmin = 0.006012; num_cells = 1352.000000; num_vertices = 739.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00266696645414 0.004141543729556327
+min/max u_opt_y: -0.0222129654348 0.0
+
+Execution time (in seconds): 107.06168174743652
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011744; hmin = 0.006139; num_cells = 1447.000000; num_vertices = 803.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00185599308104 0.004141543729556327
+min/max u_opt_y: -0.0186019804711 0.0
+
+Execution time (in seconds): 107.06226086616516
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011737; hmin = 0.006306; num_cells = 1462.000000; num_vertices = 799.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00358944919334 0.004141543729556327
+min/max u_opt_y: -0.0057108975037 0.0
+
+Execution time (in seconds): 107.06297945976257
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011735; hmin = 0.006245; num_cells = 1409.000000; num_vertices = 778.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.000989479109023 0.004141543729556327
+min/max u_opt_y: -0.0237162995675 0.0
+
+Execution time (in seconds): 107.06307983398438
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011742; hmin = 0.006084; num_cells = 1410.000000; num_vertices = 776.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00362541155592 0.004141543729556327
+min/max u_opt_y: -0.0217555750244 0.0
+
+Execution time (in seconds): 107.06316328048706
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011733; hmin = 0.006320; num_cells = 1462.000000; num_vertices = 808.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00512489252082 0.004141543729556327
+min/max u_opt_y: -0.0181375011644 0.0
+
+Execution time (in seconds): 107.06424450874329
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011731; hmin = 0.006434; num_cells = 1359.000000; num_vertices = 751.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00193167226064 0.004141543729556327
+min/max u_opt_y: -0.0237558412841 0.0
+
+Execution time (in seconds): 107.0642991065979
+
+ The parameters: 
+ <Parameter set "para" containing 7 parameter(s) and parameter set(s)>
+
+ hmax = 0.011730; hmin = 0.006141; num_cells = 1410.000000; num_vertices = 775.000000
+Traction forces: g_L1 = (0, 0); g_L2 = (0, 0); g_T3 = (0.000, -1.000); g_T4 = (0.000, -1.000); g_R5 = (0, 0); g_R6 = (0, 0); g_R7 = (0, 0); g_B8 = (0, 0);  g_B9 = (0, 0)
+WARNING: user expression has not supplied value_shape method or an element. Assuming scalar element.
+
+work = 0.01473429; compliance = 0.0057132182
+
+perimeter_penalization = 0.0003734280
+Norm of u_opt: 0.008840554216333531
+Norm of alpha_opt: 0.24153879712287873
+
+ vol_alpha = 0.0714152270
+
+ vol_ratio_percentage = 23.80508
+Max of alpha_opt: 1.0 
+Min of alpha_opt: 0.0 
+min/max u_opt_x: -0.00025745558111 0.004141543729556327
+min/max u_opt_y: -0.0065598797054 0.0
+
+Execution time (in seconds): 107.0646710395813
