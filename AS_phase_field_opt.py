@@ -310,7 +310,6 @@ class active_set_object(OptimisationProblem):
         self.alpha.vector()[:] = x
         self.solve_pde()
         self.solve_adj() # Old method without checking inner gradient
-        #self.solve_adj_new() # New updated version when we check inner gradient to determine active set
         f_val = assemble(self.L)
         # Print variable info
         if self.TAO_print_function_val:
@@ -359,8 +358,6 @@ class active_set_object(OptimisationProblem):
 
     def F(self, b, x):
         self.alpha.vector()[:] = x
-        #self.solve_pde() # No need to recompute u this here
-        #self.solve_adj() # No need to recompute u_adj this here
         assemble(self.L_alpha, tensor=b)
 
         # Print varialbe info
@@ -405,62 +402,6 @@ class active_set_object(OptimisationProblem):
         self.problem_adj.set_bounds(self.lb_adj.vector(), self.ub_adj.vector())
         return
 
-
-    def get_active_set_and_set_adj_bounds(self):
-        #self.problem_as = NonlinearVariationalProblem(self.F_as, self.g_as, bcs=self.bcs_as, J= self.H_as)
-        #self.solver_as = NonlinearVariationalSolver(self.problem_as)
-        #self.solver_as.solve() #compute self.g_as
-        
-        # get array of the gradient of the inner problem
-        #g_as_array = self.g_as.vector().get_local();
-
-        # get state arrays
-        u_array = self.u.vector().get_local();
-        ub_u_array = self.ub_u.vector().get_local();
-        lb_u_array = self.lb_u.vector().get_local();
-
-        # get active set arrays
-        LAS_array = self.active_set_lb.vector().get_local()
-        UAS_array = self.active_set_ub.vector().get_local()
-
-        # Find the active set and save it in a list, UAS
-        c = 1e6;
-            
-        #LAS_array[:] = g_as_array[:] + c*(lb_u_array[:] - u_array[:])
-        #UAS_array[:] = g_as_array[:] + c*(ub_u_array[:] - u_array[:])
-        
-        LAS_array[:] = (lb_u_array[:] - u_array[:])
-        UAS_array[:] = (ub_u_array[:] - u_array[:])
-                    
-        LAS = list(LAS_array[:] >= 0.)
-        UAS = list(UAS_array[:] <= 0.)
-            
-        #Set upper and lower bounds for adjoint
-        self.active_set_lb.vector()[:] = LAS;
-        self.active_set_ub.vector()[:] = UAS;
-            
-            
-        self.ub_adj.vector()[:] = 1e6
-        self.lb_adj.vector()[:] = -1e6
-            
-        ub_adj_array = self.ub_adj.vector().get_local();
-        lb_adj_array = self.lb_adj.vector().get_local();
-                    
-                    
-        #Set upper and lower bounds for adjoint
-        for at_dof, is_active_point in enumerate(UAS): # for UAS
-            if is_active_point == 1 :
-                ub_adj_array[at_dof] = 0.; lb_adj_array[at_dof] = 0.;
-
-        for at_dof, is_active_point in enumerate(LAS): # for LAS
-            if is_active_point == 1 :
-                ub_adj_array[at_dof] = 0.; lb_adj_array[at_dof] = 0.;
-                            
-        self.ub_adj.vector()[:] = ub_adj_array;
-        self.lb_adj.vector()[:] = lb_adj_array;
-        return
-
-
     def solve_pde(self):
         self.problem_pde = NonlinearVariationalProblem(self.pde, self.u, bcs=self.bcs_pde, J=self.pde_u)
         self.problem_pde.set_bounds(self.lb_u.vector(), self.ub_u.vector())
@@ -477,17 +418,6 @@ class active_set_object(OptimisationProblem):
         self.get_active_set()
         self.set_bounds_adj()
         self.solver_adj.solve()
-
-
-    def solve_adj_new(self):
-        self.problem_adj = NonlinearVariationalProblem(self.adj, self.u_adj, bcs=self.bcs_adj, J=self.adj_u)
-        self.solver_adj = NonlinearVariationalSolver(self.problem_adj)
-        self.solver_adj.parameters.update(self.para["solver_u"])
-        self.get_active_set_and_set_adj_bounds()
-        self.problem_adj.set_bounds(self.lb_adj.vector(), self.ub_adj.vector())
-        self.solver_adj.solve()
-
-        return
 
 
 # Define strain and stress
