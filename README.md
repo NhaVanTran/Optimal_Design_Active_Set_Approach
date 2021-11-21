@@ -40,3 +40,6 @@ to get the result of the examples for validations which are compared with the pe
 
 ## Notes
 The optimization is nonlinear and nonconvex, and the domain Omega is randomly partitioned to run in parallel. It is therefore expected that the active set may not converge sometimes or that more than one execution may be required.
+
+## Our results in texts
+We performed all computations and saved the results in texts, which can be found in the folder resutls_in_texts
